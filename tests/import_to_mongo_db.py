@@ -3,8 +3,13 @@ import json
 import os
 from datetime import datetime
 import argparse
+import sys
 
-def connect_to_mongodb(connection_string: str = "mongodb://localhost:27017/"):
+# Add the project root directory to Python path
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from config import MONGODB_URI, MONGODB_DB_NAME, MONGODB_COLLECTION_NAME
+
+def connect_to_mongodb(connection_string: str = MONGODB_URI):
     """Connect to MongoDB and return database and collection objects."""
     try:
         client = MongoClient(connection_string)
@@ -13,8 +18,8 @@ def connect_to_mongodb(connection_string: str = "mongodb://localhost:27017/"):
         print("Successfully connected to MongoDB!")
         
         # Get database and collection
-        db = client['health_monitoring']
-        collection = db['health_data']
+        db = client[MONGODB_DB_NAME]
+        collection = db[MONGODB_COLLECTION_NAME]
         
         return client, db, collection
     except Exception as e:
@@ -48,7 +53,7 @@ def main():
     parser = argparse.ArgumentParser(description='Import health data to MongoDB')
     parser.add_argument('--file', default='data/synthetic_health_data.json',
                       help='Path to JSON data file')
-    parser.add_argument('--uri', default='mongodb://localhost:27017/',
+    parser.add_argument('--uri', default=MONGODB_URI,
                       help='MongoDB connection string')
     
     args = parser.parse_args()

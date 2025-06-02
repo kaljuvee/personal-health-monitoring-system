@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/1bf17316674446d6a2521609714c0065/artifacts
+end_time: 1748868836417
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 1bf17316674446d6a2521609714c0065
+run_name: angry-midge-406
+run_uuid: 1bf17316674446d6a2521609714c0065
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748868836409
+status: 3
+tags: []
+user_id: julian

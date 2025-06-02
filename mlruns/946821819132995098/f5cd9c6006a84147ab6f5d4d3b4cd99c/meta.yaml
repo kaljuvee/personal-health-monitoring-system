@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/f5cd9c6006a84147ab6f5d4d3b4cd99c/artifacts
+end_time: 1748868724180
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: f5cd9c6006a84147ab6f5d4d3b4cd99c
+run_name: sneaky-fox-289
+run_uuid: f5cd9c6006a84147ab6f5d4d3b4cd99c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748868724173
+status: 3
+tags: []
+user_id: julian

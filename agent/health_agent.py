@@ -103,11 +103,13 @@ class HealthAgent:
         self._setup_mlflow()
     
     def _setup_mlflow(self):
+        """Set up MLflow tracking."""
         mlflow.set_experiment(self.mlflow_experiment)
-        self.model_version = mlflow.register_model(
-            model_uri=f"runs:/{mlflow.active_run().info.run_id}/model",
-            name="health_risk_model"
-        )
+        with mlflow.start_run():
+            self.model_version = mlflow.register_model(
+                model_uri=f"runs:/{mlflow.active_run().info.run_id}/model",
+                name="health_risk_model"
+            )
     
     def load_patient_data(self, patient_id: str, data_path: str = "data/synthetic_health_data.json") -> List[HealthData]:
         """Load patient data from JSON file."""

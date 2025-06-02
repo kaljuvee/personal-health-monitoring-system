@@ -211,3 +211,26 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Healthcare professionals who provided domain expertise
 - Open-source community for various tools and libraries
 - Contributors and maintainers of the project
+
+## PyTorch Model for Risk Assessment
+
+The health agent utilizes a PyTorch-based LSTM (Long Short-Term Memory) model for real-time risk assessment. This model is designed to analyze sequential health data and predict potential health risks based on historical and current metrics.
+
+### Model Architecture
+
+- **Input Layer**: The model takes a sequence of health metrics (e.g., heart rate, blood glucose, SpO2) as input.
+- **LSTM Layer**: A bidirectional LSTM layer processes the input sequence, capturing temporal dependencies and patterns in the data.
+- **Fully Connected Layers**: The output from the LSTM is passed through fully connected layers to produce a risk score.
+- **Output Layer**: The final layer uses a sigmoid activation function to output a risk score between 0 and 1, where higher scores indicate greater health risks.
+
+### Functionality
+
+- **Risk Assessment**: The model assesses the risk of health anomalies by analyzing trends and patterns in the input data.
+- **Real-Time Monitoring**: It continuously processes incoming health data to provide real-time risk assessments and alerts.
+- **Integration with Health Agent**: The model is integrated into the health agent to enhance its ability to detect and respond to potential health issues promptly.
+
+This model is a critical component of the health monitoring system, enabling proactive health management and timely interventions.
+
+## MongoDB Import Test
+
+For details on how to connect to a remote MongoDB instance and import data, please refer to the [MongoDB Import Test](tests/README.md) documentation. A screenshot of the successful import is available at [mongo-db-screen-shot.png](mongo-db-screen-shot.png).

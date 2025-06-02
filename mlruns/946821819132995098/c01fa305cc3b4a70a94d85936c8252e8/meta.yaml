@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c01fa305cc3b4a70a94d85936c8252e8/artifacts
+end_time: 1748868640127
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c01fa305cc3b4a70a94d85936c8252e8
+run_name: secretive-skunk-673
+run_uuid: c01fa305cc3b4a70a94d85936c8252e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748868640120
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,17 @@
+{
+  "timestamp": "2025-06-02T15:53:56.436717",
+  "test_results": [
+    {
+      "timestamp": "2025-06-02T15:53:56.427279",
+      "metrics": {
+        "heart_rate": 71.95642304576654,
+        "blood_glucose": 69.50458791135455,
+        "risk_score": 0.5
+      },
+      "alert": {
+        "level": "mild",
+        "message": "Moderate health risk detected: Low blood glucose"
+      }
+    }
+  ]
+}

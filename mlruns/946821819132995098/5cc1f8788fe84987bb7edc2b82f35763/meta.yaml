@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/5cc1f8788fe84987bb7edc2b82f35763/artifacts
+end_time: 1748868724261
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 5cc1f8788fe84987bb7edc2b82f35763
+run_name: clumsy-duck-4
+run_uuid: 5cc1f8788fe84987bb7edc2b82f35763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748868724254
+status: 3
+tags: []
+user_id: julian

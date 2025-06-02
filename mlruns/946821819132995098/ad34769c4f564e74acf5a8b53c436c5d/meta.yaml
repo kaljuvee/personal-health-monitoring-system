@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ad34769c4f564e74acf5a8b53c436c5d/artifacts
+end_time: 1748868836426
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ad34769c4f564e74acf5a8b53c436c5d
+run_name: rare-penguin-980
+run_uuid: ad34769c4f564e74acf5a8b53c436c5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748868836418
+status: 3
+tags: []
+user_id: julian

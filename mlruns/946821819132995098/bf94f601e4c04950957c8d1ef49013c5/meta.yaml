@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/bf94f601e4c04950957c8d1ef49013c5/artifacts
+end_time: 1748868640136
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: bf94f601e4c04950957c8d1ef49013c5
+run_name: able-steed-946
+run_uuid: bf94f601e4c04950957c8d1ef49013c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748868640129
+status: 3
+tags: []
+user_id: julian

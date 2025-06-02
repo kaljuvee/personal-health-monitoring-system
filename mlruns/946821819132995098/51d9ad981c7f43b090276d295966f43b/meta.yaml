@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/51d9ad981c7f43b090276d295966f43b/artifacts
+end_time: 1748868640074
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 51d9ad981c7f43b090276d295966f43b
+run_name: zealous-cod-214
+run_uuid: 51d9ad981c7f43b090276d295966f43b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748868640068
+status: 3
+tags: []
+user_id: julian

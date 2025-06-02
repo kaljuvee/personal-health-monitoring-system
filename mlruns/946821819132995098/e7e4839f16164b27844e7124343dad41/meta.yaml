@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/e7e4839f16164b27844e7124343dad41/artifacts
+end_time: 1748868640101
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: e7e4839f16164b27844e7124343dad41
+run_name: loud-hawk-848
+run_uuid: e7e4839f16164b27844e7124343dad41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748868640093
+status: 3
+tags: []
+user_id: julian

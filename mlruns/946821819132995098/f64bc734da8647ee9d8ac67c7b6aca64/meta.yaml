@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/f64bc734da8647ee9d8ac67c7b6aca64/artifacts
+end_time: 1748868724234
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: f64bc734da8647ee9d8ac67c7b6aca64
+run_name: luminous-worm-511
+run_uuid: f64bc734da8647ee9d8ac67c7b6aca64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748868724227
+status: 3
+tags: []
+user_id: julian

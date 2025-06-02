@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/da5c748ce1d041c88c36b0dfa4d4f29e/artifacts
+end_time: 1748868640109
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: da5c748ce1d041c88c36b0dfa4d4f29e
+run_name: charming-colt-116
+run_uuid: da5c748ce1d041c88c36b0dfa4d4f29e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748868640102
+status: 3
+tags: []
+user_id: julian

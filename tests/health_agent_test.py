@@ -12,6 +12,20 @@ sys.path.append(str(Path(__file__).parent.parent))
 
 from agent.health_agent import create_health_agent, HealthData, AgentState
 
+def save_test_log(data: list, filename: str = None):
+    """Save test results to a JSON report file with timestamp."""
+    if filename is None:
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        filename = f"data/report_{timestamp}.json"
+    
+    os.makedirs(os.path.dirname(filename), exist_ok=True)
+    with open(filename, 'w') as f:
+        json.dump({
+            "timestamp": datetime.now().isoformat(),
+            "test_results": data
+        }, f, indent=2)
+    print(f"\nTest results saved to {filename}")
+
 def generate_test_data(patient_id: str, num_records: int = 10) -> list:
     """Generate test data for a single patient."""
     data = []
@@ -69,50 +83,75 @@ def save_test_data(data: list, filename: str = "data/test_health_data.json"):
 def background_monitoring(agent, patient_id: str, stop_event: threading.Event):
     """Background thread for continuous monitoring."""
     print(f"\nStarting background monitoring for patient {patient_id}")
+    test_results = []
     
     while not stop_event.is_set():
-        # Generate new data point
-        new_data = generate_test_data(patient_id, num_records=1)[0]
-        
-        # Create health data object
-        health_data = HealthData(
-            patient_id=new_data["patient_id"],
-            timestamp=datetime.fromisoformat(new_data["timestamp"]),
-            heart_rate=new_data.get("heart_rate"),
-            systolic=new_data.get("systolic"),
-            diastolic=new_data.get("diastolic"),
-            blood_glucose=new_data.get("blood_glucose"),
-            spo2=new_data.get("spo2"),
-            sleep=new_data.get("sleep"),
-            activity=new_data.get("activity"),
-            mood=new_data.get("mood"),
-            metadata=new_data.get("metadata")
-        )
-        
-        # Create agent state
-        state = AgentState(
-            current_data=health_data,
-            historical_data=[],
-            alerts=[],
-            risk_score=0.0
-        )
-        
-        # Process data
-        result = agent.invoke(state)
-        
-        # Print results
-        print(f"\nTimestamp: {new_data['timestamp']}")
-        print(f"Heart Rate: {new_data['heart_rate']:.1f} bpm")
-        print(f"Blood Glucose: {new_data['blood_glucose']:.1f} mg/dL")
-        print(f"Risk Score: {result.risk_score:.2f}")
-        if result.alerts:
-            alert = result.alerts[-1]
-            print(f"Alert: {alert.level.upper()} - {alert.message}")
-            print(f"Action Required: {alert.action_required}")
-            print(f"Escalation Needed: {alert.escalation_needed}")
-        
-        # Wait for 1 minute
-        time.sleep(60)
+        try:
+            # Generate new data point
+            new_data = generate_test_data(patient_id, num_records=1)[0]
+            
+            # Create health data object
+            health_data = HealthData(
+                patient_id=new_data["patient_id"],
+                timestamp=datetime.fromisoformat(new_data["timestamp"]),
+                heart_rate=new_data.get("heart_rate"),
+                systolic=new_data.get("systolic"),
+                diastolic=new_data.get("diastolic"),
+                blood_glucose=new_data.get("blood_glucose"),
+                spo2=new_data.get("spo2"),
+                sleep=new_data.get("sleep"),
+                activity=new_data.get("activity"),
+                mood=new_data.get("mood"),
+                metadata=new_data.get("metadata")
+            )
+            
+            # Create agent state
+            state = AgentState(
+                current_data=health_data,
+                historical_data=[],
+                alerts=[],
+                risk_score=0.0
+            )
+            
+            # Process data
+            result = agent.invoke(state)
+            
+            # Store results
+            test_result = {
+                "timestamp": new_data["timestamp"],
+                "metrics": {
+                    "heart_rate": new_data["heart_rate"],
+                    "blood_glucose": new_data["blood_glucose"],
+                    "risk_score": result.risk_score
+                },
+                "alert": {
+                    "level": result.alerts[-1].level if result.alerts else "none",
+                    "message": result.alerts[-1].message if result.alerts else "No alerts"
+                }
+            }
+            test_results.append(test_result)
+            
+            # Print results
+            print(f"\nTimestamp: {new_data['timestamp']}")
+            print(f"Heart Rate: {new_data['heart_rate']:.1f} bpm")
+            print(f"Blood Glucose: {new_data['blood_glucose']:.1f} mg/dL")
+            print(f"Risk Score: {result.risk_score:.2f}")
+            if result.alerts:
+                alert = result.alerts[-1]
+                print(f"Alert: {alert.level.upper()} - {alert.message}")
+                print(f"Action Required: {alert.action_required}")
+                print(f"Escalation Needed: {alert.escalation_needed}")
+            
+            # Save results after each iteration
+            save_test_log(test_results)
+            
+            # Wait for 1 minute
+            time.sleep(60)
+        except Exception as e:
+            print(f"Error in background monitoring: {e}")
+            break
+    
+    return test_results
 
 def main():
     # Create health agent
@@ -124,6 +163,7 @@ def main():
     
     # Process initial data
     print("\nProcessing initial test data...")
+    initial_results = []
     for record in test_data:
         health_data = HealthData(
             patient_id=record["patient_id"],
@@ -148,6 +188,21 @@ def main():
         
         result = agent.invoke(state)
         
+        # Store results
+        test_result = {
+            "timestamp": record["timestamp"],
+            "metrics": {
+                "heart_rate": record["heart_rate"],
+                "blood_glucose": record["blood_glucose"],
+                "risk_score": result.risk_score
+            },
+            "alert": {
+                "level": result.alerts[-1].level if result.alerts else "none",
+                "message": result.alerts[-1].message if result.alerts else "No alerts"
+            }
+        }
+        initial_results.append(test_result)
+        
         print(f"\nTimestamp: {record['timestamp']}")
         print(f"Heart Rate: {record['heart_rate']:.1f} bpm")
         print(f"Blood Glucose: {record['blood_glucose']:.1f} mg/dL")
@@ -155,6 +210,9 @@ def main():
         if result.alerts:
             alert = result.alerts[-1]
             print(f"Alert: {alert.level.upper()} - {alert.message}")
+    
+    # Save initial results
+    save_test_log(initial_results)
     
     # Start background monitoring
     stop_event = threading.Event()
@@ -172,7 +230,7 @@ def main():
         print("\nStopping monitoring...")
     finally:
         stop_event.set()
-        monitor_thread.join()
+        monitor_thread.join(timeout=5)  # Wait up to 5 seconds for thread to finish
 
 if __name__ == "__main__":
     main() 

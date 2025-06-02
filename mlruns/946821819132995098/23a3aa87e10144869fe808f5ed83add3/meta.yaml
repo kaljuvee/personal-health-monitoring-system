@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/23a3aa87e10144869fe808f5ed83add3/artifacts
+end_time: 1748868896453
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 23a3aa87e10144869fe808f5ed83add3
+run_name: sedate-panda-301
+run_uuid: 23a3aa87e10144869fe808f5ed83add3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748868896439
+status: 3
+tags: []
+user_id: julian

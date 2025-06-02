@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/05e3e81c0bdd46a08c27d8c1745914a3/artifacts
+end_time: 1748868836371
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 05e3e81c0bdd46a08c27d8c1745914a3
+run_name: defiant-ape-237
+run_uuid: 05e3e81c0bdd46a08c27d8c1745914a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748868836364
+status: 3
+tags: []
+user_id: julian
