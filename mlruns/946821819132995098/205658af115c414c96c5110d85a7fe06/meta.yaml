@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/205658af115c414c96c5110d85a7fe06/artifacts
+end_time: 1748878625800
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 205658af115c414c96c5110d85a7fe06
+run_name: angry-koi-937
+run_uuid: 205658af115c414c96c5110d85a7fe06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878625760
+status: 3
+tags: []
+user_id: julian

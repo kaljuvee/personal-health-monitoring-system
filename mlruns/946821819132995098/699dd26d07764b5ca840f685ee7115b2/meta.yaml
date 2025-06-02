@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/699dd26d07764b5ca840f685ee7115b2/artifacts
+end_time: 1748878117508
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 699dd26d07764b5ca840f685ee7115b2
+run_name: indecisive-flea-168
+run_uuid: 699dd26d07764b5ca840f685ee7115b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878117488
+status: 3
+tags: []
+user_id: julian

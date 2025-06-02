@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/59ef6e73efb1475c8f748e715f992776/artifacts
+end_time: 1748878620445
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 59ef6e73efb1475c8f748e715f992776
+run_name: industrious-doe-921
+run_uuid: 59ef6e73efb1475c8f748e715f992776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878620404
+status: 3
+tags: []
+user_id: julian

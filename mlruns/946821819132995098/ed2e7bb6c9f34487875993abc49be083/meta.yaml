@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ed2e7bb6c9f34487875993abc49be083/artifacts
+end_time: 1748878149206
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ed2e7bb6c9f34487875993abc49be083
+run_name: chill-bird-493
+run_uuid: ed2e7bb6c9f34487875993abc49be083
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878149173
+status: 3
+tags: []
+user_id: julian

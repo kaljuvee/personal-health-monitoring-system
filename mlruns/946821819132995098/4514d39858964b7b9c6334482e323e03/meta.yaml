@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/4514d39858964b7b9c6334482e323e03/artifacts
+end_time: 1748878623249
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 4514d39858964b7b9c6334482e323e03
+run_name: dapper-frog-6
+run_uuid: 4514d39858964b7b9c6334482e323e03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878623212
+status: 3
+tags: []
+user_id: julian

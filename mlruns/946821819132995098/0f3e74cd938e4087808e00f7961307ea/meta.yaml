@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/0f3e74cd938e4087808e00f7961307ea/artifacts
+end_time: 1748878623334
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 0f3e74cd938e4087808e00f7961307ea
+run_name: classy-bass-247
+run_uuid: 0f3e74cd938e4087808e00f7961307ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878623295
+status: 3
+tags: []
+user_id: julian

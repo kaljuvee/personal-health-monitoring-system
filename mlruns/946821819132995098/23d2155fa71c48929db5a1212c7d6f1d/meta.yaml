@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/23d2155fa71c48929db5a1212c7d6f1d/artifacts
+end_time: 1748878119977
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 23d2155fa71c48929db5a1212c7d6f1d
+run_name: funny-stork-678
+run_uuid: 23d2155fa71c48929db5a1212c7d6f1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878119956
+status: 3
+tags: []
+user_id: julian

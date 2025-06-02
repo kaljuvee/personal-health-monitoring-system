@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/fad59ac200d948ed929c84b80ad240b5/artifacts
+end_time: 1748878628165
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: fad59ac200d948ed929c84b80ad240b5
+run_name: caring-ox-322
+run_uuid: fad59ac200d948ed929c84b80ad240b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878628124
+status: 3
+tags: []
+user_id: julian

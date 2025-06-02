@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/183a516a190f4f6592b5aece532d0484/artifacts
+end_time: 1748878128137
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 183a516a190f4f6592b5aece532d0484
+run_name: adaptable-fox-948
+run_uuid: 183a516a190f4f6592b5aece532d0484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878128111
+status: 3
+tags: []
+user_id: julian

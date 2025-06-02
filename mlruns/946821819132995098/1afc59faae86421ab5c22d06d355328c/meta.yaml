@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/1afc59faae86421ab5c22d06d355328c/artifacts
+end_time: 1748878127704
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 1afc59faae86421ab5c22d06d355328c
+run_name: chill-fish-217
+run_uuid: 1afc59faae86421ab5c22d06d355328c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878127678
+status: 3
+tags: []
+user_id: julian

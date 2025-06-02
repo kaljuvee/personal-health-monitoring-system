@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/419d4f5d6aa24a939653b21a29141733/artifacts
+end_time: 1748878135841
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 419d4f5d6aa24a939653b21a29141733
+run_name: likeable-snipe-204
+run_uuid: 419d4f5d6aa24a939653b21a29141733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878135813
+status: 3
+tags: []
+user_id: julian

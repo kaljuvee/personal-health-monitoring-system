@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/23a19d79d6464e788c0cc7f204c01499/artifacts
+end_time: 1748878630523
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 23a19d79d6464e788c0cc7f204c01499
+run_name: monumental-toad-938
+run_uuid: 23a19d79d6464e788c0cc7f204c01499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878630481
+status: 3
+tags: []
+user_id: julian

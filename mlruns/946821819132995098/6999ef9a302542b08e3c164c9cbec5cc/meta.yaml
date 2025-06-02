@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/6999ef9a302542b08e3c164c9cbec5cc/artifacts
+end_time: 1748878628761
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 6999ef9a302542b08e3c164c9cbec5cc
+run_name: funny-bass-594
+run_uuid: 6999ef9a302542b08e3c164c9cbec5cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878628721
+status: 3
+tags: []
+user_id: julian

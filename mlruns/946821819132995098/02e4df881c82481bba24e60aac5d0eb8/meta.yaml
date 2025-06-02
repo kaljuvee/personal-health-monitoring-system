@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/02e4df881c82481bba24e60aac5d0eb8/artifacts
+end_time: 1748878161866
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 02e4df881c82481bba24e60aac5d0eb8
+run_name: serious-fox-340
+run_uuid: 02e4df881c82481bba24e60aac5d0eb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878161829
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/453642429867450db43ccd293659e8ec/artifacts
+end_time: 1748878124956
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 453642429867450db43ccd293659e8ec
+run_name: gentle-kite-193
+run_uuid: 453642429867450db43ccd293659e8ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878124933
+status: 3
+tags: []
+user_id: julian

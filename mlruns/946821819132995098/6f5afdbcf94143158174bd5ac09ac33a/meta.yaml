@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/6f5afdbcf94143158174bd5ac09ac33a/artifacts
+end_time: 1748878141012
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 6f5afdbcf94143158174bd5ac09ac33a
+run_name: hilarious-steed-995
+run_uuid: 6f5afdbcf94143158174bd5ac09ac33a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878140981
+status: 3
+tags: []
+user_id: julian

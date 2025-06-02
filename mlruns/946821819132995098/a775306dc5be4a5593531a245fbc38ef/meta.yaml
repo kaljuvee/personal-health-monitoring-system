@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/a775306dc5be4a5593531a245fbc38ef/artifacts
+end_time: 1748878130752
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: a775306dc5be4a5593531a245fbc38ef
+run_name: debonair-mole-261
+run_uuid: a775306dc5be4a5593531a245fbc38ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878130726
+status: 3
+tags: []
+user_id: julian

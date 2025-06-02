@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/94e46018e7b74f1fb8c9f5e10cb5e310/artifacts
+end_time: 1748878117742
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 94e46018e7b74f1fb8c9f5e10cb5e310
+run_name: luxuriant-crane-859
+run_uuid: 94e46018e7b74f1fb8c9f5e10cb5e310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878117722
+status: 3
+tags: []
+user_id: julian

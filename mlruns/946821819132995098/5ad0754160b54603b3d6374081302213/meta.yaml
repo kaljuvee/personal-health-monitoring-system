@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/5ad0754160b54603b3d6374081302213/artifacts
+end_time: 1748878159110
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 5ad0754160b54603b3d6374081302213
+run_name: bittersweet-loon-190
+run_uuid: 5ad0754160b54603b3d6374081302213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878159074
+status: 3
+tags: []
+user_id: julian

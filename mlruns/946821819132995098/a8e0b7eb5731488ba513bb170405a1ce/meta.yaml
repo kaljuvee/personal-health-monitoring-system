@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/a8e0b7eb5731488ba513bb170405a1ce/artifacts
+end_time: 1748878121505
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: a8e0b7eb5731488ba513bb170405a1ce
+run_name: glamorous-snipe-6
+run_uuid: a8e0b7eb5731488ba513bb170405a1ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878121483
+status: 3
+tags: []
+user_id: julian

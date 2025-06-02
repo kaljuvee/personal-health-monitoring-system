@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/da79e58e33044ee080563300d98bc936/artifacts
+end_time: 1748878156215
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: da79e58e33044ee080563300d98bc936
+run_name: grandiose-wasp-587
+run_uuid: da79e58e33044ee080563300d98bc936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878156179
+status: 3
+tags: []
+user_id: julian

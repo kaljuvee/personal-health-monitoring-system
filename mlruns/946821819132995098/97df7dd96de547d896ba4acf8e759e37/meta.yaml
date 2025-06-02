@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/97df7dd96de547d896ba4acf8e759e37/artifacts
+end_time: 1748878119316
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 97df7dd96de547d896ba4acf8e759e37
+run_name: resilient-worm-7
+run_uuid: 97df7dd96de547d896ba4acf8e759e37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878119295
+status: 3
+tags: []
+user_id: julian

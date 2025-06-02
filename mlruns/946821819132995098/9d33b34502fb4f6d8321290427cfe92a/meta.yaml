@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/9d33b34502fb4f6d8321290427cfe92a/artifacts
+end_time: 1748878152807
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 9d33b34502fb4f6d8321290427cfe92a
+run_name: bouncy-perch-682
+run_uuid: 9d33b34502fb4f6d8321290427cfe92a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878152774
+status: 3
+tags: []
+user_id: julian

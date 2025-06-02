@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/e5c5a2ef54874e74aea8b90c2c4e460d/artifacts
+end_time: 1748878141184
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: e5c5a2ef54874e74aea8b90c2c4e460d
+run_name: blushing-fox-424
+run_uuid: e5c5a2ef54874e74aea8b90c2c4e460d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878141153
+status: 3
+tags: []
+user_id: julian

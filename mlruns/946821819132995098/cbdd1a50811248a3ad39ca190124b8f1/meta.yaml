@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/cbdd1a50811248a3ad39ca190124b8f1/artifacts
+end_time: 1748878124022
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: cbdd1a50811248a3ad39ca190124b8f1
+run_name: dazzling-conch-943
+run_uuid: cbdd1a50811248a3ad39ca190124b8f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878123998
+status: 3
+tags: []
+user_id: julian

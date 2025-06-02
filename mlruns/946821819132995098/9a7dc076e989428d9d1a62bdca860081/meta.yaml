@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/9a7dc076e989428d9d1a62bdca860081/artifacts
+end_time: 1748878113033
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 9a7dc076e989428d9d1a62bdca860081
+run_name: legendary-perch-191
+run_uuid: 9a7dc076e989428d9d1a62bdca860081
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878113014
+status: 3
+tags: []
+user_id: julian

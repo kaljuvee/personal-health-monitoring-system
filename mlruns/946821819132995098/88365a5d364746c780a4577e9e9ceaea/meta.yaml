@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/88365a5d364746c780a4577e9e9ceaea/artifacts
+end_time: 1748878123680
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 88365a5d364746c780a4577e9e9ceaea
+run_name: crawling-lark-488
+run_uuid: 88365a5d364746c780a4577e9e9ceaea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878123657
+status: 3
+tags: []
+user_id: julian

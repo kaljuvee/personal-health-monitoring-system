@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/a9515e355a054d28afd0f0ed59bad1ac/artifacts
+end_time: 1748878120801
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: a9515e355a054d28afd0f0ed59bad1ac
+run_name: dashing-crane-856
+run_uuid: a9515e355a054d28afd0f0ed59bad1ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878120778
+status: 3
+tags: []
+user_id: julian

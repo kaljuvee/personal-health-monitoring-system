@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/26a2bfed757a4586ac003635e7776c79/artifacts
+end_time: 1748878133918
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 26a2bfed757a4586ac003635e7776c79
+run_name: wise-goat-686
+run_uuid: 26a2bfed757a4586ac003635e7776c79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878133892
+status: 3
+tags: []
+user_id: julian

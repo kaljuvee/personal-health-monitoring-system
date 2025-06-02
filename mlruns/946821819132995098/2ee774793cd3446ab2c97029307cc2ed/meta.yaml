@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/2ee774793cd3446ab2c97029307cc2ed/artifacts
+end_time: 1748878627004
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 2ee774793cd3446ab2c97029307cc2ed
+run_name: capable-quail-559
+run_uuid: 2ee774793cd3446ab2c97029307cc2ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878626965
+status: 3
+tags: []
+user_id: julian

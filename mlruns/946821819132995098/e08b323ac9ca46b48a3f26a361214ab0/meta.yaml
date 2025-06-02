@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/e08b323ac9ca46b48a3f26a361214ab0/artifacts
+end_time: 1748878114165
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: e08b323ac9ca46b48a3f26a361214ab0
+run_name: beautiful-auk-453
+run_uuid: e08b323ac9ca46b48a3f26a361214ab0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878114147
+status: 3
+tags: []
+user_id: julian

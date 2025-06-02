@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/82c18dd407db4ed8973bb821d2c88c2c/artifacts
+end_time: 1748878129687
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 82c18dd407db4ed8973bb821d2c88c2c
+run_name: colorful-fox-856
+run_uuid: 82c18dd407db4ed8973bb821d2c88c2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878129662
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/cfca4306109546ebb1e0766e62a4bc4e/artifacts
+end_time: 1748878136875
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: cfca4306109546ebb1e0766e62a4bc4e
+run_name: melodic-sow-290
+run_uuid: cfca4306109546ebb1e0766e62a4bc4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878136846
+status: 3
+tags: []
+user_id: julian

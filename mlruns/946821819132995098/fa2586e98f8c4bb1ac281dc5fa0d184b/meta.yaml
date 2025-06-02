@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/fa2586e98f8c4bb1ac281dc5fa0d184b/artifacts
+end_time: 1748878147086
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: fa2586e98f8c4bb1ac281dc5fa0d184b
+run_name: overjoyed-swan-415
+run_uuid: fa2586e98f8c4bb1ac281dc5fa0d184b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878147054
+status: 3
+tags: []
+user_id: julian

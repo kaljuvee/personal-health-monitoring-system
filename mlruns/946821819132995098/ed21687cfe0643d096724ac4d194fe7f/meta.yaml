@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ed21687cfe0643d096724ac4d194fe7f/artifacts
+end_time: 1748878632617
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ed21687cfe0643d096724ac4d194fe7f
+run_name: melodic-duck-266
+run_uuid: ed21687cfe0643d096724ac4d194fe7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878632575
+status: 3
+tags: []
+user_id: julian

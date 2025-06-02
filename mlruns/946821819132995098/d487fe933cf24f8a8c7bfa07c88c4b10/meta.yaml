@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d487fe933cf24f8a8c7bfa07c88c4b10/artifacts
+end_time: 1748878122319
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d487fe933cf24f8a8c7bfa07c88c4b10
+run_name: valuable-fowl-763
+run_uuid: d487fe933cf24f8a8c7bfa07c88c4b10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878122297
+status: 3
+tags: []
+user_id: julian

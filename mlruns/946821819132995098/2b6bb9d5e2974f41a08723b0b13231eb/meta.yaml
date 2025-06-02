@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/2b6bb9d5e2974f41a08723b0b13231eb/artifacts
+end_time: 1748878120024
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 2b6bb9d5e2974f41a08723b0b13231eb
+run_name: likeable-shrimp-192
+run_uuid: 2b6bb9d5e2974f41a08723b0b13231eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878120004
+status: 3
+tags: []
+user_id: julian

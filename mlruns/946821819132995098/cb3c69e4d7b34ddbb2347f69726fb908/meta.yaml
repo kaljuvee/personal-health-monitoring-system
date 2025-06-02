@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/cb3c69e4d7b34ddbb2347f69726fb908/artifacts
+end_time: 1748878620753
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: cb3c69e4d7b34ddbb2347f69726fb908
+run_name: fearless-finch-848
+run_uuid: cb3c69e4d7b34ddbb2347f69726fb908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878620714
+status: 3
+tags: []
+user_id: julian

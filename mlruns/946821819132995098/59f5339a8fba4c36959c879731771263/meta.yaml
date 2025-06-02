@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/59f5339a8fba4c36959c879731771263/artifacts
+end_time: 1748878118847
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 59f5339a8fba4c36959c879731771263
+run_name: rogue-hawk-294
+run_uuid: 59f5339a8fba4c36959c879731771263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878118827
+status: 3
+tags: []
+user_id: julian

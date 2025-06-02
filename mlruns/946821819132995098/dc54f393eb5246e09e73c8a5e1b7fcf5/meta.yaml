@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/dc54f393eb5246e09e73c8a5e1b7fcf5/artifacts
+end_time: 1748878122446
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: dc54f393eb5246e09e73c8a5e1b7fcf5
+run_name: orderly-midge-534
+run_uuid: dc54f393eb5246e09e73c8a5e1b7fcf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878122424
+status: 3
+tags: []
+user_id: julian

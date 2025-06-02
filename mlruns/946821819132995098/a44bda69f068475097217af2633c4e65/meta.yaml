@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/a44bda69f068475097217af2633c4e65/artifacts
+end_time: 1748878138098
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: a44bda69f068475097217af2633c4e65
+run_name: calm-finch-816
+run_uuid: a44bda69f068475097217af2633c4e65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878138069
+status: 3
+tags: []
+user_id: julian

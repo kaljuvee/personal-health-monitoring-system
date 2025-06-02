@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/5e867e6d2ba64d0f850e5acf0592d3ee/artifacts
+end_time: 1748878627575
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 5e867e6d2ba64d0f850e5acf0592d3ee
+run_name: powerful-wolf-155
+run_uuid: 5e867e6d2ba64d0f850e5acf0592d3ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878627533
+status: 3
+tags: []
+user_id: julian

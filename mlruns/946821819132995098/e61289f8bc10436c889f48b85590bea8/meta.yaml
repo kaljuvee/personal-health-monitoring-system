@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/e61289f8bc10436c889f48b85590bea8/artifacts
+end_time: 1748878620490
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: e61289f8bc10436c889f48b85590bea8
+run_name: shivering-bass-890
+run_uuid: e61289f8bc10436c889f48b85590bea8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878620450
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/b1dfecb2bb9148eaa7353bbb6a9a541e/artifacts
+end_time: 1748878156521
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: b1dfecb2bb9148eaa7353bbb6a9a541e
+run_name: gifted-carp-110
+run_uuid: b1dfecb2bb9148eaa7353bbb6a9a541e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878156485
+status: 3
+tags: []
+user_id: julian

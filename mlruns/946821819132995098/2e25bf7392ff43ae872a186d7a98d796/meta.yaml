@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/2e25bf7392ff43ae872a186d7a98d796/artifacts
+end_time: 1748878130994
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 2e25bf7392ff43ae872a186d7a98d796
+run_name: receptive-midge-64
+run_uuid: 2e25bf7392ff43ae872a186d7a98d796
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878130967
+status: 3
+tags: []
+user_id: julian

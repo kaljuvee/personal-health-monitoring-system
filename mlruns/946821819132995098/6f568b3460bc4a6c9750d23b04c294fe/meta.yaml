@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/6f568b3460bc4a6c9750d23b04c294fe/artifacts
+end_time: 1748878131024
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 6f568b3460bc4a6c9750d23b04c294fe
+run_name: glamorous-vole-255
+run_uuid: 6f568b3460bc4a6c9750d23b04c294fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878130997
+status: 3
+tags: []
+user_id: julian

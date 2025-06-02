@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ead7a9a5f64b44b097b2a412d7c82e93/artifacts
+end_time: 1748878156254
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ead7a9a5f64b44b097b2a412d7c82e93
+run_name: debonair-shoat-728
+run_uuid: ead7a9a5f64b44b097b2a412d7c82e93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878156219
+status: 3
+tags: []
+user_id: julian

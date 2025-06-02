@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/9e48db902cca4666b949fc69837c95a5/artifacts
+end_time: 1748878135428
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 9e48db902cca4666b949fc69837c95a5
+run_name: popular-ram-679
+run_uuid: 9e48db902cca4666b949fc69837c95a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878135400
+status: 3
+tags: []
+user_id: julian

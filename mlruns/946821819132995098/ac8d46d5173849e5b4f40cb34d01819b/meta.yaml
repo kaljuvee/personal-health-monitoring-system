@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ac8d46d5173849e5b4f40cb34d01819b/artifacts
+end_time: 1748878154728
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ac8d46d5173849e5b4f40cb34d01819b
+run_name: efficient-kit-450
+run_uuid: ac8d46d5173849e5b4f40cb34d01819b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878154692
+status: 3
+tags: []
+user_id: julian

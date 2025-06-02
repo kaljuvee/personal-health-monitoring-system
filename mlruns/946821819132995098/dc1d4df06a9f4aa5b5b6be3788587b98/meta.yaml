@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/dc1d4df06a9f4aa5b5b6be3788587b98/artifacts
+end_time: 1748878112377
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: dc1d4df06a9f4aa5b5b6be3788587b98
+run_name: bemused-foal-240
+run_uuid: dc1d4df06a9f4aa5b5b6be3788587b98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878112364
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/6cd4d1dfd58742b78d4856d1689b801a/artifacts
+end_time: 1748878626347
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 6cd4d1dfd58742b78d4856d1689b801a
+run_name: gregarious-jay-917
+run_uuid: 6cd4d1dfd58742b78d4856d1689b801a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878626307
+status: 3
+tags: []
+user_id: julian

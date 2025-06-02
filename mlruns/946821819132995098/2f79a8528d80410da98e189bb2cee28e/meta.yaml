@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/2f79a8528d80410da98e189bb2cee28e/artifacts
+end_time: 1748878121277
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 2f79a8528d80410da98e189bb2cee28e
+run_name: bustling-yak-764
+run_uuid: 2f79a8528d80410da98e189bb2cee28e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878121256
+status: 3
+tags: []
+user_id: julian

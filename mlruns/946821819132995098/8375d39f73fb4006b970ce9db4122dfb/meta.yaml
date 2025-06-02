@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/8375d39f73fb4006b970ce9db4122dfb/artifacts
+end_time: 1748878126000
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 8375d39f73fb4006b970ce9db4122dfb
+run_name: intrigued-hare-866
+run_uuid: 8375d39f73fb4006b970ce9db4122dfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878125976
+status: 3
+tags: []
+user_id: julian

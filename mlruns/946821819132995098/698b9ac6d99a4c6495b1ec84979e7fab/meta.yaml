@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/698b9ac6d99a4c6495b1ec84979e7fab/artifacts
+end_time: 1748878118289
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 698b9ac6d99a4c6495b1ec84979e7fab
+run_name: respected-trout-248
+run_uuid: 698b9ac6d99a4c6495b1ec84979e7fab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878118268
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/0fcdb021f60c4bf58d86dd0f6f38a790/artifacts
+end_time: 1748878139425
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 0fcdb021f60c4bf58d86dd0f6f38a790
+run_name: worried-lark-811
+run_uuid: 0fcdb021f60c4bf58d86dd0f6f38a790
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878139394
+status: 3
+tags: []
+user_id: julian

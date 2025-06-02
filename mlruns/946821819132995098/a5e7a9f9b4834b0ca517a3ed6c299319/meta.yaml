@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/a5e7a9f9b4834b0ca517a3ed6c299319/artifacts
+end_time: 1748878117439
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: a5e7a9f9b4834b0ca517a3ed6c299319
+run_name: likeable-hawk-335
+run_uuid: a5e7a9f9b4834b0ca517a3ed6c299319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878117419
+status: 3
+tags: []
+user_id: julian

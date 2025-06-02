@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/39fa15c6274b43fe98ee7c7f39e6d7da/artifacts
+end_time: 1748878152615
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 39fa15c6274b43fe98ee7c7f39e6d7da
+run_name: marvelous-eel-821
+run_uuid: 39fa15c6274b43fe98ee7c7f39e6d7da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878152580
+status: 3
+tags: []
+user_id: julian

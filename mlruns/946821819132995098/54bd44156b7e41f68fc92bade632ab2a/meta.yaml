@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/54bd44156b7e41f68fc92bade632ab2a/artifacts
+end_time: 1748878632479
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 54bd44156b7e41f68fc92bade632ab2a
+run_name: adaptable-gnat-222
+run_uuid: 54bd44156b7e41f68fc92bade632ab2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878632440
+status: 3
+tags: []
+user_id: julian

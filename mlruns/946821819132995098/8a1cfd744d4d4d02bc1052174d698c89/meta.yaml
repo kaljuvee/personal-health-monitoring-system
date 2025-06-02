@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/8a1cfd744d4d4d02bc1052174d698c89/artifacts
+end_time: 1748878139626
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 8a1cfd744d4d4d02bc1052174d698c89
+run_name: sassy-loon-661
+run_uuid: 8a1cfd744d4d4d02bc1052174d698c89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878139596
+status: 3
+tags: []
+user_id: julian

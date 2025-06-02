@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/389bbe632ba74d1980e3f2f0eb1803b3/artifacts
+end_time: 1748878149882
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 389bbe632ba74d1980e3f2f0eb1803b3
+run_name: charming-cub-185
+run_uuid: 389bbe632ba74d1980e3f2f0eb1803b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878149848
+status: 3
+tags: []
+user_id: julian

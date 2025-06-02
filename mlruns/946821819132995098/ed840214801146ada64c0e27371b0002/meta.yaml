@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ed840214801146ada64c0e27371b0002/artifacts
+end_time: 1748878150979
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ed840214801146ada64c0e27371b0002
+run_name: gaudy-dove-953
+run_uuid: ed840214801146ada64c0e27371b0002
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878150944
+status: 3
+tags: []
+user_id: julian

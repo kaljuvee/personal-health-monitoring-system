@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c56ed2b948a24a338b13350503fec59e/artifacts
+end_time: 1748878623685
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c56ed2b948a24a338b13350503fec59e
+run_name: secretive-eel-484
+run_uuid: c56ed2b948a24a338b13350503fec59e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878623646
+status: 3
+tags: []
+user_id: julian

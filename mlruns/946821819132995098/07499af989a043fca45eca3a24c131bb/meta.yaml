@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/07499af989a043fca45eca3a24c131bb/artifacts
+end_time: 1748878631039
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 07499af989a043fca45eca3a24c131bb
+run_name: dazzling-sloth-78
+run_uuid: 07499af989a043fca45eca3a24c131bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878630997
+status: 3
+tags: []
+user_id: julian

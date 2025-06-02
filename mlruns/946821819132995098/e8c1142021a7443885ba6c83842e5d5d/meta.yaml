@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/e8c1142021a7443885ba6c83842e5d5d/artifacts
+end_time: 1748878135110
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: e8c1142021a7443885ba6c83842e5d5d
+run_name: orderly-lamb-39
+run_uuid: e8c1142021a7443885ba6c83842e5d5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878135082
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d4eef72bbe594142ac7ff7b86cb21668/artifacts
+end_time: 1748878136131
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d4eef72bbe594142ac7ff7b86cb21668
+run_name: abrasive-penguin-253
+run_uuid: d4eef72bbe594142ac7ff7b86cb21668
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878136102
+status: 3
+tags: []
+user_id: julian

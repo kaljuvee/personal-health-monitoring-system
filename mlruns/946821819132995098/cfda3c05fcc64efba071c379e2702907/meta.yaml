@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/cfda3c05fcc64efba071c379e2702907/artifacts
+end_time: 1748878158905
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: cfda3c05fcc64efba071c379e2702907
+run_name: luxuriant-cow-470
+run_uuid: cfda3c05fcc64efba071c379e2702907
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878158869
+status: 3
+tags: []
+user_id: julian

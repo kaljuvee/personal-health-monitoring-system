@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/dc6ab315e6f341f5aaa37e68cb8d161f/artifacts
+end_time: 1748878164447
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: dc6ab315e6f341f5aaa37e68cb8d161f
+run_name: upbeat-pig-834
+run_uuid: dc6ab315e6f341f5aaa37e68cb8d161f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878164408
+status: 3
+tags: []
+user_id: julian

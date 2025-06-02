@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/e0e2408b09d04c75be9181deff85f2d1/artifacts
+end_time: 1748878114490
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: e0e2408b09d04c75be9181deff85f2d1
+run_name: receptive-wolf-127
+run_uuid: e0e2408b09d04c75be9181deff85f2d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878114472
+status: 3
+tags: []
+user_id: julian

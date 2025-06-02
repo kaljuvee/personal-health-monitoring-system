@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/02bad288e4af46128c156dd27d8a5b53/artifacts
+end_time: 1748878158455
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 02bad288e4af46128c156dd27d8a5b53
+run_name: redolent-rat-802
+run_uuid: 02bad288e4af46128c156dd27d8a5b53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878158419
+status: 3
+tags: []
+user_id: julian

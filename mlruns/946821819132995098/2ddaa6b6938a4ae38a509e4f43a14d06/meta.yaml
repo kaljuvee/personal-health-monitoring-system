@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/2ddaa6b6938a4ae38a509e4f43a14d06/artifacts
+end_time: 1748878136453
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 2ddaa6b6938a4ae38a509e4f43a14d06
+run_name: nimble-jay-1000
+run_uuid: 2ddaa6b6938a4ae38a509e4f43a14d06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878136423
+status: 3
+tags: []
+user_id: julian

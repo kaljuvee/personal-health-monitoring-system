@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/a06da9e64c99467baa6800f42e30c971/artifacts
+end_time: 1748878135555
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: a06da9e64c99467baa6800f42e30c971
+run_name: adaptable-squid-121
+run_uuid: a06da9e64c99467baa6800f42e30c971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878135527
+status: 3
+tags: []
+user_id: julian

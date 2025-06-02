@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/5595a618f91845bbbd20ae5735a987b9/artifacts
+end_time: 1748878122547
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 5595a618f91845bbbd20ae5735a987b9
+run_name: adaptable-finch-341
+run_uuid: 5595a618f91845bbbd20ae5735a987b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878122525
+status: 3
+tags: []
+user_id: julian

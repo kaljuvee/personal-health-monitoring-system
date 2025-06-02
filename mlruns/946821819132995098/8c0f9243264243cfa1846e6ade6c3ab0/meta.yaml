@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/8c0f9243264243cfa1846e6ade6c3ab0/artifacts
+end_time: 1748878625272
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 8c0f9243264243cfa1846e6ade6c3ab0
+run_name: fortunate-hog-472
+run_uuid: 8c0f9243264243cfa1846e6ade6c3ab0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878625234
+status: 3
+tags: []
+user_id: julian

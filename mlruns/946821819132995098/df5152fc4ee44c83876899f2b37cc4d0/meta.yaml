@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/df5152fc4ee44c83876899f2b37cc4d0/artifacts
+end_time: 1748878127215
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: df5152fc4ee44c83876899f2b37cc4d0
+run_name: unruly-dog-967
+run_uuid: df5152fc4ee44c83876899f2b37cc4d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878127190
+status: 3
+tags: []
+user_id: julian

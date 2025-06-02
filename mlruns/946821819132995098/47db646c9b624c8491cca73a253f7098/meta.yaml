@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/47db646c9b624c8491cca73a253f7098/artifacts
+end_time: 1748878132561
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 47db646c9b624c8491cca73a253f7098
+run_name: funny-horse-450
+run_uuid: 47db646c9b624c8491cca73a253f7098
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878132534
+status: 3
+tags: []
+user_id: julian

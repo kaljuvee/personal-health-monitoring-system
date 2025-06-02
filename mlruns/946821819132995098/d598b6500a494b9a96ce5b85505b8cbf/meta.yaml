@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d598b6500a494b9a96ce5b85505b8cbf/artifacts
+end_time: 1748878132744
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d598b6500a494b9a96ce5b85505b8cbf
+run_name: chill-dove-506
+run_uuid: d598b6500a494b9a96ce5b85505b8cbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878132717
+status: 3
+tags: []
+user_id: julian

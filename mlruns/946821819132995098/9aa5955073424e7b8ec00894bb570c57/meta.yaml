@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/9aa5955073424e7b8ec00894bb570c57/artifacts
+end_time: 1748878142167
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 9aa5955073424e7b8ec00894bb570c57
+run_name: stately-bear-859
+run_uuid: 9aa5955073424e7b8ec00894bb570c57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878142135
+status: 3
+tags: []
+user_id: julian

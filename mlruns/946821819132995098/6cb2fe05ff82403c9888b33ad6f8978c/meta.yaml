@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/6cb2fe05ff82403c9888b33ad6f8978c/artifacts
+end_time: 1748878143301
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 6cb2fe05ff82403c9888b33ad6f8978c
+run_name: nervous-robin-489
+run_uuid: 6cb2fe05ff82403c9888b33ad6f8978c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878143271
+status: 3
+tags: []
+user_id: julian

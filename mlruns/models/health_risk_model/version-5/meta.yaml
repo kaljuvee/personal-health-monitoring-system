@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748878057657
+current_stage: None
+description: null
+last_updated_timestamp: 1748878057657
+name: health_risk_model
+run_id: a31def8bcb444878a3f428abd85666b6
+run_link: null
+source: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/a31def8bcb444878a3f428abd85666b6/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/a31def8bcb444878a3f428abd85666b6/artifacts/model
+user_id: null
+version: 5

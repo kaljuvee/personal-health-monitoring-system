@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/eb388f3860934ef9b7369bf07f1704e8/artifacts
+end_time: 1748878159770
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: eb388f3860934ef9b7369bf07f1704e8
+run_name: thundering-deer-964
+run_uuid: eb388f3860934ef9b7369bf07f1704e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878159732
+status: 3
+tags: []
+user_id: julian

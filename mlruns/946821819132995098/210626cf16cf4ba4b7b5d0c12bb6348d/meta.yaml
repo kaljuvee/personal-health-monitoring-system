@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/210626cf16cf4ba4b7b5d0c12bb6348d/artifacts
+end_time: 1748878159645
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 210626cf16cf4ba4b7b5d0c12bb6348d
+run_name: handsome-ox-348
+run_uuid: 210626cf16cf4ba4b7b5d0c12bb6348d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878159610
+status: 3
+tags: []
+user_id: julian

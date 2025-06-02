@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/00ce475fa5ce4fb9915a5ee78fb5e440/artifacts
+end_time: 1748878142774
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 00ce475fa5ce4fb9915a5ee78fb5e440
+run_name: clean-crow-928
+run_uuid: 00ce475fa5ce4fb9915a5ee78fb5e440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878142742
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/342cb550ca4143bc99da3bafd38aed84/artifacts
+end_time: 1748878124903
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 342cb550ca4143bc99da3bafd38aed84
+run_name: overjoyed-eel-910
+run_uuid: 342cb550ca4143bc99da3bafd38aed84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878124880
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c4af9f9d9c4e45ec89dfbe05ade6f226/artifacts
+end_time: 1748878113209
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c4af9f9d9c4e45ec89dfbe05ade6f226
+run_name: useful-perch-163
+run_uuid: c4af9f9d9c4e45ec89dfbe05ade6f226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878113190
+status: 3
+tags: []
+user_id: julian

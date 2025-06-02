@@ -22,4 +22,10 @@ azure-storage-blob>=12.19.0
 azure-identity>=1.15.0
 
 # Health Agent
-torch>=2.2.0 
+torch>=2.2.0
+
+# LangChain and LangGraph
+langchain>=0.1.0
+langchain-openai>=0.0.2
+langgraph>=0.0.15
+openai>=1.12.0 

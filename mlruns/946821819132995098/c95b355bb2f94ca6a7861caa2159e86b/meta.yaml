@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c95b355bb2f94ca6a7861caa2159e86b/artifacts
+end_time: 1748878139023
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c95b355bb2f94ca6a7861caa2159e86b
+run_name: chill-lark-951
+run_uuid: c95b355bb2f94ca6a7861caa2159e86b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878138994
+status: 3
+tags: []
+user_id: julian

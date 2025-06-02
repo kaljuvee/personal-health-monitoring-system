@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/f715193d4a414e8a9f8c86a96307c9f0/artifacts
+end_time: 1748878141710
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: f715193d4a414e8a9f8c86a96307c9f0
+run_name: shivering-crab-529
+run_uuid: f715193d4a414e8a9f8c86a96307c9f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878141679
+status: 3
+tags: []
+user_id: julian

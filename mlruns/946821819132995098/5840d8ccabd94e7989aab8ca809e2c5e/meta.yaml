@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/5840d8ccabd94e7989aab8ca809e2c5e/artifacts
+end_time: 1748878139222
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 5840d8ccabd94e7989aab8ca809e2c5e
+run_name: welcoming-lark-232
+run_uuid: 5840d8ccabd94e7989aab8ca809e2c5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878139192
+status: 3
+tags: []
+user_id: julian

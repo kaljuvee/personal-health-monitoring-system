@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/24a528425c604940a41b61419463a8f2/artifacts
+end_time: 1748878158659
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 24a528425c604940a41b61419463a8f2
+run_name: capricious-fly-539
+run_uuid: 24a528425c604940a41b61419463a8f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878158622
+status: 3
+tags: []
+user_id: julian

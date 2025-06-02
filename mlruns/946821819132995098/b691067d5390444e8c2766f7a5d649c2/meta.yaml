@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/b691067d5390444e8c2766f7a5d649c2/artifacts
+end_time: 1748878140234
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: b691067d5390444e8c2766f7a5d649c2
+run_name: beautiful-rat-335
+run_uuid: b691067d5390444e8c2766f7a5d649c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878140205
+status: 3
+tags: []
+user_id: julian

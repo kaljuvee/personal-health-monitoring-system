@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/b084dfb1ab464563874cc555c9a2ae42/artifacts
+end_time: 1748878130934
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: b084dfb1ab464563874cc555c9a2ae42
+run_name: funny-pug-399
+run_uuid: b084dfb1ab464563874cc555c9a2ae42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878130908
+status: 3
+tags: []
+user_id: julian

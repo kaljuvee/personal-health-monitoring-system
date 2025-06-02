@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/8a1e1b5e320f471095d98183d3c06623/artifacts
+end_time: 1748878153351
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 8a1e1b5e320f471095d98183d3c06623
+run_name: casual-rat-504
+run_uuid: 8a1e1b5e320f471095d98183d3c06623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878153318
+status: 3
+tags: []
+user_id: julian

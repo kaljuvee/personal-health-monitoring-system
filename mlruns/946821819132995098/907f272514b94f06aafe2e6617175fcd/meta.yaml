@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/907f272514b94f06aafe2e6617175fcd/artifacts
+end_time: 1748878138392
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 907f272514b94f06aafe2e6617175fcd
+run_name: judicious-mare-142
+run_uuid: 907f272514b94f06aafe2e6617175fcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878138362
+status: 3
+tags: []
+user_id: julian

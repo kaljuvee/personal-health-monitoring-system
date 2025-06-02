@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/a94de5c0cfb146ff882bb6fc37cf197a/artifacts
+end_time: 1748878123550
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: a94de5c0cfb146ff882bb6fc37cf197a
+run_name: luminous-pug-622
+run_uuid: a94de5c0cfb146ff882bb6fc37cf197a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878123527
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c5bc669270954d2a9bd33ece49fab010/artifacts
+end_time: 1748878161908
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c5bc669270954d2a9bd33ece49fab010
+run_name: exultant-squid-653
+run_uuid: c5bc669270954d2a9bd33ece49fab010
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878161871
+status: 3
+tags: []
+user_id: julian

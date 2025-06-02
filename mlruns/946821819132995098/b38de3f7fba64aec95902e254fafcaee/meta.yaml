@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/b38de3f7fba64aec95902e254fafcaee/artifacts
+end_time: 1748878112047
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: b38de3f7fba64aec95902e254fafcaee
+run_name: dapper-rook-900
+run_uuid: b38de3f7fba64aec95902e254fafcaee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878112029
+status: 3
+tags: []
+user_id: julian

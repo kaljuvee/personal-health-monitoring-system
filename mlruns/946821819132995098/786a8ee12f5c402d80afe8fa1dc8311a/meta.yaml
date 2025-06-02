@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/786a8ee12f5c402d80afe8fa1dc8311a/artifacts
+end_time: 1748878113804
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 786a8ee12f5c402d80afe8fa1dc8311a
+run_name: charming-bird-150
+run_uuid: 786a8ee12f5c402d80afe8fa1dc8311a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878113786
+status: 3
+tags: []
+user_id: julian

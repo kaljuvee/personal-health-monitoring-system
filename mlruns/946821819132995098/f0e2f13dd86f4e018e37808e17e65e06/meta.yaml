@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/f0e2f13dd86f4e018e37808e17e65e06/artifacts
+end_time: 1748878160805
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: f0e2f13dd86f4e018e37808e17e65e06
+run_name: salty-bass-457
+run_uuid: f0e2f13dd86f4e018e37808e17e65e06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878160768
+status: 3
+tags: []
+user_id: julian

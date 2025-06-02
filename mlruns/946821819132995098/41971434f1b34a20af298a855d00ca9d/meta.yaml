@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/41971434f1b34a20af298a855d00ca9d/artifacts
+end_time: 1748878134357
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 41971434f1b34a20af298a855d00ca9d
+run_name: incongruous-pig-236
+run_uuid: 41971434f1b34a20af298a855d00ca9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878134330
+status: 3
+tags: []
+user_id: julian

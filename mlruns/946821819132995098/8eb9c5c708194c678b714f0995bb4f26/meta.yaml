@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/8eb9c5c708194c678b714f0995bb4f26/artifacts
+end_time: 1748878112477
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 8eb9c5c708194c678b714f0995bb4f26
+run_name: monumental-dove-935
+run_uuid: 8eb9c5c708194c678b714f0995bb4f26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878112461
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/30f773ae04904d629d51b131da353774/artifacts
+end_time: 1748878136647
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 30f773ae04904d629d51b131da353774
+run_name: rare-calf-245
+run_uuid: 30f773ae04904d629d51b131da353774
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878136618
+status: 3
+tags: []
+user_id: julian

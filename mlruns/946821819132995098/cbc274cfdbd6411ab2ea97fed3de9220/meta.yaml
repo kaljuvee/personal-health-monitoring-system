@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/cbc274cfdbd6411ab2ea97fed3de9220/artifacts
+end_time: 1748878620843
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: cbc274cfdbd6411ab2ea97fed3de9220
+run_name: bright-chimp-167
+run_uuid: cbc274cfdbd6411ab2ea97fed3de9220
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878620802
+status: 3
+tags: []
+user_id: julian

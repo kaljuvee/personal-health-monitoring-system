@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/79aacfdc8a6643219d095a3c6ec0f92f/artifacts
+end_time: 1748878116096
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 79aacfdc8a6643219d095a3c6ec0f92f
+run_name: able-hound-437
+run_uuid: 79aacfdc8a6643219d095a3c6ec0f92f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878116077
+status: 3
+tags: []
+user_id: julian

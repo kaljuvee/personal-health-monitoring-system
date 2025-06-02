@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/abc74003659648199e2903ad7f4d89b8/artifacts
+end_time: 1748878112575
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: abc74003659648199e2903ad7f4d89b8
+run_name: charming-lamb-869
+run_uuid: abc74003659648199e2903ad7f4d89b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878112559
+status: 3
+tags: []
+user_id: julian

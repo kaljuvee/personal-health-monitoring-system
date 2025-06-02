@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/1e41b452138948089406fd22e82e930e/artifacts
+end_time: 1748878130604
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 1e41b452138948089406fd22e82e930e
+run_name: serious-mare-989
+run_uuid: 1e41b452138948089406fd22e82e930e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878130579
+status: 3
+tags: []
+user_id: julian

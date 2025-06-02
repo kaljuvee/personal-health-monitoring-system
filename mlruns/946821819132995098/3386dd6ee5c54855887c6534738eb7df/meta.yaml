@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/3386dd6ee5c54855887c6534738eb7df/artifacts
+end_time: 1748878153857
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 3386dd6ee5c54855887c6534738eb7df
+run_name: bouncy-snail-54
+run_uuid: 3386dd6ee5c54855887c6534738eb7df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878153822
+status: 3
+tags: []
+user_id: julian

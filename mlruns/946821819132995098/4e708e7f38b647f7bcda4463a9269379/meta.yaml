@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/4e708e7f38b647f7bcda4463a9269379/artifacts
+end_time: 1748878112844
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 4e708e7f38b647f7bcda4463a9269379
+run_name: crawling-stag-953
+run_uuid: 4e708e7f38b647f7bcda4463a9269379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878112823
+status: 3
+tags: []
+user_id: julian

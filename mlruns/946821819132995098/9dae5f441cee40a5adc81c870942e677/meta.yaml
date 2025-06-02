@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/9dae5f441cee40a5adc81c870942e677/artifacts
+end_time: 1748878114060
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 9dae5f441cee40a5adc81c870942e677
+run_name: dazzling-shoat-196
+run_uuid: 9dae5f441cee40a5adc81c870942e677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878114041
+status: 3
+tags: []
+user_id: julian

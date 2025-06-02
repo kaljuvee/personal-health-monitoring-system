@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d55f02be96af4e0bac97d810091f9180/artifacts
+end_time: 1748878124047
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d55f02be96af4e0bac97d810091f9180
+run_name: intrigued-mare-223
+run_uuid: d55f02be96af4e0bac97d810091f9180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878124025
+status: 3
+tags: []
+user_id: julian

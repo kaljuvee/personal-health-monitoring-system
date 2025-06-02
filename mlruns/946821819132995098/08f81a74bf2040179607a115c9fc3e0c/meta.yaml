@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/08f81a74bf2040179607a115c9fc3e0c/artifacts
+end_time: 1748878143267
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 08f81a74bf2040179607a115c9fc3e0c
+run_name: polite-fox-247
+run_uuid: 08f81a74bf2040179607a115c9fc3e0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878143236
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/807ac1a59fd945db8d67d3c91d99e595/artifacts
+end_time: 1748878125765
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 807ac1a59fd945db8d67d3c91d99e595
+run_name: bedecked-bat-881
+run_uuid: 807ac1a59fd945db8d67d3c91d99e595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878125741
+status: 3
+tags: []
+user_id: julian

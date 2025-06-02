@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d429d3f2968f4232b59797ae8d101ecf/artifacts
+end_time: 1748878125929
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d429d3f2968f4232b59797ae8d101ecf
+run_name: popular-moth-311
+run_uuid: d429d3f2968f4232b59797ae8d101ecf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878125905
+status: 3
+tags: []
+user_id: julian

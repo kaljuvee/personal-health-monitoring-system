@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/7dc5340682354d3f8a1efe6cc23ae1ab/artifacts
+end_time: 1748878123943
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 7dc5340682354d3f8a1efe6cc23ae1ab
+run_name: nosy-gnu-638
+run_uuid: 7dc5340682354d3f8a1efe6cc23ae1ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878123920
+status: 3
+tags: []
+user_id: julian

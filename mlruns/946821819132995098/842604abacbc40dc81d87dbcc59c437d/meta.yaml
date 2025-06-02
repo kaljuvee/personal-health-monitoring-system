@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/842604abacbc40dc81d87dbcc59c437d/artifacts
+end_time: 1748878628626
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 842604abacbc40dc81d87dbcc59c437d
+run_name: fortunate-trout-882
+run_uuid: 842604abacbc40dc81d87dbcc59c437d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878628586
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/e461cbbdba154dd39f2dd2f1099d94f0/artifacts
+end_time: 1748878115427
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: e461cbbdba154dd39f2dd2f1099d94f0
+run_name: rogue-foal-846
+run_uuid: e461cbbdba154dd39f2dd2f1099d94f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878115408
+status: 3
+tags: []
+user_id: julian

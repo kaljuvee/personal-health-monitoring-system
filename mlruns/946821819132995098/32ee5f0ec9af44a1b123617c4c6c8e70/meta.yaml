@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/32ee5f0ec9af44a1b123617c4c6c8e70/artifacts
+end_time: 1748878119195
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 32ee5f0ec9af44a1b123617c4c6c8e70
+run_name: zealous-frog-794
+run_uuid: 32ee5f0ec9af44a1b123617c4c6c8e70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878119174
+status: 3
+tags: []
+user_id: julian

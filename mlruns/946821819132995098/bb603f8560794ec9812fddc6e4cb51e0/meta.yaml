@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/bb603f8560794ec9812fddc6e4cb51e0/artifacts
+end_time: 1748878134796
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: bb603f8560794ec9812fddc6e4cb51e0
+run_name: likeable-stag-633
+run_uuid: bb603f8560794ec9812fddc6e4cb51e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878134769
+status: 3
+tags: []
+user_id: julian

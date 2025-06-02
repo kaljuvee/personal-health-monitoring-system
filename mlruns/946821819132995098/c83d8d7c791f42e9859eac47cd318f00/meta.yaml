@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c83d8d7c791f42e9859eac47cd318f00/artifacts
+end_time: 1748878112537
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c83d8d7c791f42e9859eac47cd318f00
+run_name: bustling-bat-287
+run_uuid: c83d8d7c791f42e9859eac47cd318f00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878112521
+status: 3
+tags: []
+user_id: julian

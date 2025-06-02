@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ed410a983ed143f38f3c006d53b2ab2b/artifacts
+end_time: 1748878628581
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ed410a983ed143f38f3c006d53b2ab2b
+run_name: loud-squid-638
+run_uuid: ed410a983ed143f38f3c006d53b2ab2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878628539
+status: 3
+tags: []
+user_id: julian

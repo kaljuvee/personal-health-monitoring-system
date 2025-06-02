@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/fb699586a0184ac3a39fcc6925999c0f/artifacts
+end_time: 1748878112426
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: fb699586a0184ac3a39fcc6925999c0f
+run_name: treasured-elk-394
+run_uuid: fb699586a0184ac3a39fcc6925999c0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878112412
+status: 3
+tags: []
+user_id: julian

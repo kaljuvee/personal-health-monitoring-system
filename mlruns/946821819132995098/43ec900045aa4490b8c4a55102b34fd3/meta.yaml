@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/43ec900045aa4490b8c4a55102b34fd3/artifacts
+end_time: 1748878148942
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 43ec900045aa4490b8c4a55102b34fd3
+run_name: puzzled-dog-569
+run_uuid: 43ec900045aa4490b8c4a55102b34fd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878148909
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c84b6b3705e54da9a532ce49864fa1e5/artifacts
+end_time: 1748878118483
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c84b6b3705e54da9a532ce49864fa1e5
+run_name: painted-roo-312
+run_uuid: c84b6b3705e54da9a532ce49864fa1e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878118463
+status: 3
+tags: []
+user_id: julian

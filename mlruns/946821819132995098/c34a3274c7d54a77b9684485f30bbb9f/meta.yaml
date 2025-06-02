@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c34a3274c7d54a77b9684485f30bbb9f/artifacts
+end_time: 1748878120297
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c34a3274c7d54a77b9684485f30bbb9f
+run_name: fortunate-boar-244
+run_uuid: c34a3274c7d54a77b9684485f30bbb9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878120276
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/e2864902c06d43fabfc3a3bef1d27a8b/artifacts
+end_time: 1748878160392
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: e2864902c06d43fabfc3a3bef1d27a8b
+run_name: peaceful-stag-877
+run_uuid: e2864902c06d43fabfc3a3bef1d27a8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878160356
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d83e209dec1a499b855cc79520bcf250/artifacts
+end_time: 1748878112671
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d83e209dec1a499b855cc79520bcf250
+run_name: enchanting-tern-567
+run_uuid: d83e209dec1a499b855cc79520bcf250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878112651
+status: 3
+tags: []
+user_id: julian

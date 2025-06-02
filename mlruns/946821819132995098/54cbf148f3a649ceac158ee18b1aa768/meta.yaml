@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/54cbf148f3a649ceac158ee18b1aa768/artifacts
+end_time: 1748878626830
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 54cbf148f3a649ceac158ee18b1aa768
+run_name: upbeat-gnat-539
+run_uuid: 54cbf148f3a649ceac158ee18b1aa768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878626790
+status: 3
+tags: []
+user_id: julian

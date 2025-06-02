@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/8074caf2eeb74e7e99d1c75990db046f/artifacts
+end_time: 1748878129952
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 8074caf2eeb74e7e99d1c75990db046f
+run_name: welcoming-wolf-622
+run_uuid: 8074caf2eeb74e7e99d1c75990db046f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878129927
+status: 3
+tags: []
+user_id: julian

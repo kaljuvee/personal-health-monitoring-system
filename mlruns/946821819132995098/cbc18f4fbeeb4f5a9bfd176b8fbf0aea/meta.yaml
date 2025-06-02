@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/cbc18f4fbeeb4f5a9bfd176b8fbf0aea/artifacts
+end_time: 1748878127877
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: cbc18f4fbeeb4f5a9bfd176b8fbf0aea
+run_name: debonair-hawk-70
+run_uuid: cbc18f4fbeeb4f5a9bfd176b8fbf0aea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878127852
+status: 3
+tags: []
+user_id: julian

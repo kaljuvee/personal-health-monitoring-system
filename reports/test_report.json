@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-06-02T18:46:11.247325",
+  "metrics": {
+    "heart_rate": 75,
+    "blood_glucose": 120,
+    "spo2": 98,
+    "systolic": 120,
+    "diastolic": 80,
+    "sleep_duration": 7.5,
+    "activity_level": 8000
+  },
+  "risk_score": 0.2,
+  "alerts": []
+}

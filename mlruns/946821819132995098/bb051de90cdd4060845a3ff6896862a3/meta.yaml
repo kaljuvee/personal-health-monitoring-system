@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/bb051de90cdd4060845a3ff6896862a3/artifacts
+end_time: 1748878139056
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: bb051de90cdd4060845a3ff6896862a3
+run_name: illustrious-foal-198
+run_uuid: bb051de90cdd4060845a3ff6896862a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878139027
+status: 3
+tags: []
+user_id: julian

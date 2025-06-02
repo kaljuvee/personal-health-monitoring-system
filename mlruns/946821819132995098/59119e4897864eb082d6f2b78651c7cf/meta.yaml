@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/59119e4897864eb082d6f2b78651c7cf/artifacts
+end_time: 1748878135619
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 59119e4897864eb082d6f2b78651c7cf
+run_name: auspicious-goose-843
+run_uuid: 59119e4897864eb082d6f2b78651c7cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878135591
+status: 3
+tags: []
+user_id: julian

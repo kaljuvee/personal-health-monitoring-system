@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/5b6541d2f390408c8f944ad24ee1ad0c/artifacts
+end_time: 1748878120775
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 5b6541d2f390408c8f944ad24ee1ad0c
+run_name: brawny-panda-931
+run_uuid: 5b6541d2f390408c8f944ad24ee1ad0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878120754
+status: 3
+tags: []
+user_id: julian

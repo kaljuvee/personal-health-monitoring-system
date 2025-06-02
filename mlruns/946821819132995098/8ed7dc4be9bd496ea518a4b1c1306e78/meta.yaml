@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/8ed7dc4be9bd496ea518a4b1c1306e78/artifacts
+end_time: 1748878126813
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 8ed7dc4be9bd496ea518a4b1c1306e78
+run_name: able-conch-709
+run_uuid: 8ed7dc4be9bd496ea518a4b1c1306e78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878126789
+status: 3
+tags: []
+user_id: julian

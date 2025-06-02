@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/b09d45f702c04e529adf52663e741d63/artifacts
+end_time: 1748878162877
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: b09d45f702c04e529adf52663e741d63
+run_name: kindly-moth-696
+run_uuid: b09d45f702c04e529adf52663e741d63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878162836
+status: 3
+tags: []
+user_id: julian

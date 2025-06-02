@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d54eb0db5e7a4282b5837a9230a4d8b0/artifacts
+end_time: 1748878115230
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d54eb0db5e7a4282b5837a9230a4d8b0
+run_name: learned-gull-389
+run_uuid: d54eb0db5e7a4282b5837a9230a4d8b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878115209
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/3dad0db69a1243c19013d88ffe6acec5/artifacts
+end_time: 1748878155821
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 3dad0db69a1243c19013d88ffe6acec5
+run_name: beautiful-worm-604
+run_uuid: 3dad0db69a1243c19013d88ffe6acec5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878155785
+status: 3
+tags: []
+user_id: julian

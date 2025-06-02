@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/5b12aa4c10fe4cb894e5bde9a22edb55/artifacts
+end_time: 1748878120174
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 5b12aa4c10fe4cb894e5bde9a22edb55
+run_name: bedecked-lark-409
+run_uuid: 5b12aa4c10fe4cb894e5bde9a22edb55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878120153
+status: 3
+tags: []
+user_id: julian

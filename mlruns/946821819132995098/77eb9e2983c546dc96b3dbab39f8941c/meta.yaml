@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/77eb9e2983c546dc96b3dbab39f8941c/artifacts
+end_time: 1748878123497
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 77eb9e2983c546dc96b3dbab39f8941c
+run_name: agreeable-stoat-804
+run_uuid: 77eb9e2983c546dc96b3dbab39f8941c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878123475
+status: 3
+tags: []
+user_id: julian

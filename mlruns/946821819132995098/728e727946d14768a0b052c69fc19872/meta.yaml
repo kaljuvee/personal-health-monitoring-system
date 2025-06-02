@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/728e727946d14768a0b052c69fc19872/artifacts
+end_time: 1748878125542
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 728e727946d14768a0b052c69fc19872
+run_name: victorious-boar-892
+run_uuid: 728e727946d14768a0b052c69fc19872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878125518
+status: 3
+tags: []
+user_id: julian

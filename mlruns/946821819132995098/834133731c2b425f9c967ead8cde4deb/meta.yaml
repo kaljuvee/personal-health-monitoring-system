@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/834133731c2b425f9c967ead8cde4deb/artifacts
+end_time: 1748878125123
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 834133731c2b425f9c967ead8cde4deb
+run_name: bustling-hare-608
+run_uuid: 834133731c2b425f9c967ead8cde4deb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878125099
+status: 3
+tags: []
+user_id: julian

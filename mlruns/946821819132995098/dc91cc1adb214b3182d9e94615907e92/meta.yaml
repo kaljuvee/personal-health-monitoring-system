@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/dc91cc1adb214b3182d9e94615907e92/artifacts
+end_time: 1748878112276
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: dc91cc1adb214b3182d9e94615907e92
+run_name: redolent-bat-907
+run_uuid: dc91cc1adb214b3182d9e94615907e92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878112259
+status: 3
+tags: []
+user_id: julian

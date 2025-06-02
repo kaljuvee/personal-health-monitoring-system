@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/420a1c5df2714f51a2e5d3ec82585225/artifacts
+end_time: 1748878130487
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 420a1c5df2714f51a2e5d3ec82585225
+run_name: redolent-finch-283
+run_uuid: 420a1c5df2714f51a2e5d3ec82585225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878130461
+status: 3
+tags: []
+user_id: julian

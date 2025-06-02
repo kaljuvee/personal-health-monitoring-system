@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/cba6f3568e3e428c80534674d145ec26/artifacts
+end_time: 1748878622357
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: cba6f3568e3e428c80534674d145ec26
+run_name: sincere-snail-149
+run_uuid: cba6f3568e3e428c80534674d145ec26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878622319
+status: 3
+tags: []
+user_id: julian

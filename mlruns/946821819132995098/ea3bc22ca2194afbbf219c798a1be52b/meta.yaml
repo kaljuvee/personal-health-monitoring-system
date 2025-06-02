@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ea3bc22ca2194afbbf219c798a1be52b/artifacts
+end_time: 1748878148237
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ea3bc22ca2194afbbf219c798a1be52b
+run_name: judicious-calf-210
+run_uuid: ea3bc22ca2194afbbf219c798a1be52b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878148205
+status: 3
+tags: []
+user_id: julian

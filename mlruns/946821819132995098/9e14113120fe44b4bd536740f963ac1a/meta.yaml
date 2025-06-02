@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/9e14113120fe44b4bd536740f963ac1a/artifacts
+end_time: 1748878625490
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 9e14113120fe44b4bd536740f963ac1a
+run_name: invincible-conch-826
+run_uuid: 9e14113120fe44b4bd536740f963ac1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878625452
+status: 3
+tags: []
+user_id: julian

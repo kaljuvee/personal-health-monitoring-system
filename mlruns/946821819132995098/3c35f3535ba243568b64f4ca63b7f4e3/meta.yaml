@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/3c35f3535ba243568b64f4ca63b7f4e3/artifacts
+end_time: 1748878113954
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 3c35f3535ba243568b64f4ca63b7f4e3
+run_name: gentle-gnu-491
+run_uuid: 3c35f3535ba243568b64f4ca63b7f4e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878113936
+status: 3
+tags: []
+user_id: julian

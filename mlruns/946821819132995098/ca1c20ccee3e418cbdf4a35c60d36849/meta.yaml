@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ca1c20ccee3e418cbdf4a35c60d36849/artifacts
+end_time: 1748878621936
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ca1c20ccee3e418cbdf4a35c60d36849
+run_name: charming-bass-79
+run_uuid: ca1c20ccee3e418cbdf4a35c60d36849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878621898
+status: 3
+tags: []
+user_id: julian

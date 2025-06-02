@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/434ea53a25aa4947b833e00a76b47e75/artifacts
+end_time: 1748878131297
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 434ea53a25aa4947b833e00a76b47e75
+run_name: spiffy-wren-349
+run_uuid: 434ea53a25aa4947b833e00a76b47e75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878131271
+status: 3
+tags: []
+user_id: julian

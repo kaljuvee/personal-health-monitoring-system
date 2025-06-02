@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/f357cf2c6c4341e5bf1480731f65bda2/artifacts
+end_time: 1748878113081
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: f357cf2c6c4341e5bf1480731f65bda2
+run_name: grandiose-grub-417
+run_uuid: f357cf2c6c4341e5bf1480731f65bda2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878113060
+status: 3
+tags: []
+user_id: julian

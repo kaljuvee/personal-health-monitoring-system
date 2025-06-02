@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/a9af7d0ec88a49d49a4ce17773bebcf6/artifacts
+end_time: 1748878125848
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: a9af7d0ec88a49d49a4ce17773bebcf6
+run_name: unruly-gull-947
+run_uuid: a9af7d0ec88a49d49a4ce17773bebcf6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878125824
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/905ee0113f57490c8b9d0bd29d951639/artifacts
+end_time: 1748878123654
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 905ee0113f57490c8b9d0bd29d951639
+run_name: dapper-ray-770
+run_uuid: 905ee0113f57490c8b9d0bd29d951639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878123631
+status: 3
+tags: []
+user_id: julian

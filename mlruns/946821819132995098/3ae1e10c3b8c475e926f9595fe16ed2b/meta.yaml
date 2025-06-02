@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/3ae1e10c3b8c475e926f9595fe16ed2b/artifacts
+end_time: 1748878131113
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 3ae1e10c3b8c475e926f9595fe16ed2b
+run_name: capricious-crane-527
+run_uuid: 3ae1e10c3b8c475e926f9595fe16ed2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878131088
+status: 3
+tags: []
+user_id: julian

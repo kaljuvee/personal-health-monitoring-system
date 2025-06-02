@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/8150c86af029459b85cb9c7778cc533a/artifacts
+end_time: 1748878148201
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 8150c86af029459b85cb9c7778cc533a
+run_name: debonair-shrimp-303
+run_uuid: 8150c86af029459b85cb9c7778cc533a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878148167
+status: 3
+tags: []
+user_id: julian

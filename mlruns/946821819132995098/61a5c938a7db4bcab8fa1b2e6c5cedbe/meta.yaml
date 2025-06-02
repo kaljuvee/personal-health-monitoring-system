@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/61a5c938a7db4bcab8fa1b2e6c5cedbe/artifacts
+end_time: 1748878111744
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 61a5c938a7db4bcab8fa1b2e6c5cedbe
+run_name: flawless-penguin-770
+run_uuid: 61a5c938a7db4bcab8fa1b2e6c5cedbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878111725
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/a622c526f1bb48c697232543c7132a0f/artifacts
+end_time: 1748878115318
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: a622c526f1bb48c697232543c7132a0f
+run_name: thoughtful-owl-465
+run_uuid: a622c526f1bb48c697232543c7132a0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878115299
+status: 3
+tags: []
+user_id: julian

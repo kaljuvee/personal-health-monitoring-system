@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/11638306dd0d42e3b1b9ef91a030e343/artifacts
+end_time: 1748878115274
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 11638306dd0d42e3b1b9ef91a030e343
+run_name: monumental-gull-498
+run_uuid: 11638306dd0d42e3b1b9ef91a030e343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878115255
+status: 3
+tags: []
+user_id: julian

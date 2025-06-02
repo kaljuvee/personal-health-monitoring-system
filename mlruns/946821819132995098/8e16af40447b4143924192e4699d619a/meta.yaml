@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/8e16af40447b4143924192e4699d619a/artifacts
+end_time: 1748878162159
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 8e16af40447b4143924192e4699d619a
+run_name: blushing-shrimp-225
+run_uuid: 8e16af40447b4143924192e4699d619a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878162121
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/2b8dc1a2938e409a8a85876da5208f99/artifacts
+end_time: 1748878057748
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 2b8dc1a2938e409a8a85876da5208f99
+run_name: placid-grouse-638
+run_uuid: 2b8dc1a2938e409a8a85876da5208f99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878057740
+status: 3
+tags: []
+user_id: julian

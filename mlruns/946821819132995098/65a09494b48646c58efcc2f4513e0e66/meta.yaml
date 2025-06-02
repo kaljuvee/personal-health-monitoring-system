@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/65a09494b48646c58efcc2f4513e0e66/artifacts
+end_time: 1748878620709
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 65a09494b48646c58efcc2f4513e0e66
+run_name: beautiful-hen-883
+run_uuid: 65a09494b48646c58efcc2f4513e0e66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878620670
+status: 3
+tags: []
+user_id: julian

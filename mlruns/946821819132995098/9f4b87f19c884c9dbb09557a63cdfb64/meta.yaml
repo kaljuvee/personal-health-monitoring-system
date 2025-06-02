@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/9f4b87f19c884c9dbb09557a63cdfb64/artifacts
+end_time: 1748878133795
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 9f4b87f19c884c9dbb09557a63cdfb64
+run_name: peaceful-slug-535
+run_uuid: 9f4b87f19c884c9dbb09557a63cdfb64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878133766
+status: 3
+tags: []
+user_id: julian

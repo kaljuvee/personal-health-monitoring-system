@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ca5011a713e04f4abdf5a85f161fac65/artifacts
+end_time: 1748878144325
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ca5011a713e04f4abdf5a85f161fac65
+run_name: resilient-fly-585
+run_uuid: ca5011a713e04f4abdf5a85f161fac65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878144293
+status: 3
+tags: []
+user_id: julian

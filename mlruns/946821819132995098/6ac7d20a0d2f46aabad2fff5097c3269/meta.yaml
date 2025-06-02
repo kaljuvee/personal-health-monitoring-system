@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/6ac7d20a0d2f46aabad2fff5097c3269/artifacts
+end_time: 1748878619431
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 6ac7d20a0d2f46aabad2fff5097c3269
+run_name: gifted-shad-47
+run_uuid: 6ac7d20a0d2f46aabad2fff5097c3269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878619390
+status: 3
+tags: []
+user_id: julian

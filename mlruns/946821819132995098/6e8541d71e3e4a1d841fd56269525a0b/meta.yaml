@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/6e8541d71e3e4a1d841fd56269525a0b/artifacts
+end_time: 1748878133983
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 6e8541d71e3e4a1d841fd56269525a0b
+run_name: auspicious-gnu-1000
+run_uuid: 6e8541d71e3e4a1d841fd56269525a0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878133957
+status: 3
+tags: []
+user_id: julian

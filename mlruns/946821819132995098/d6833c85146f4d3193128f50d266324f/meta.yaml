@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d6833c85146f4d3193128f50d266324f/artifacts
+end_time: 1748878620622
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d6833c85146f4d3193128f50d266324f
+run_name: gifted-bat-42
+run_uuid: d6833c85146f4d3193128f50d266324f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878620584
+status: 3
+tags: []
+user_id: julian

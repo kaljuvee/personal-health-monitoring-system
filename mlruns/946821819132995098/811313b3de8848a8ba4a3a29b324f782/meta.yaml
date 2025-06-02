@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/811313b3de8848a8ba4a3a29b324f782/artifacts
+end_time: 1748878118553
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 811313b3de8848a8ba4a3a29b324f782
+run_name: overjoyed-turtle-461
+run_uuid: 811313b3de8848a8ba4a3a29b324f782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878118533
+status: 3
+tags: []
+user_id: julian

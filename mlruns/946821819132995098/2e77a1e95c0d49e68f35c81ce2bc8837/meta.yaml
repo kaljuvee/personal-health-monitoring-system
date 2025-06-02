@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/2e77a1e95c0d49e68f35c81ce2bc8837/artifacts
+end_time: 1748878148384
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 2e77a1e95c0d49e68f35c81ce2bc8837
+run_name: bouncy-mole-101
+run_uuid: 2e77a1e95c0d49e68f35c81ce2bc8837
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878148352
+status: 3
+tags: []
+user_id: julian

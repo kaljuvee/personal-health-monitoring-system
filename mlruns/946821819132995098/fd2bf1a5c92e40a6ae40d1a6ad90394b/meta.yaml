@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/fd2bf1a5c92e40a6ae40d1a6ad90394b/artifacts
+end_time: 1748878117392
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: fd2bf1a5c92e40a6ae40d1a6ad90394b
+run_name: clumsy-gull-868
+run_uuid: fd2bf1a5c92e40a6ae40d1a6ad90394b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878117372
+status: 3
+tags: []
+user_id: julian

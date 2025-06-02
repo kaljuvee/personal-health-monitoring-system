@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/0208249eaecd4adbb9a776a1332a574a/artifacts
+end_time: 1748878112757
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 0208249eaecd4adbb9a776a1332a574a
+run_name: delightful-moose-245
+run_uuid: 0208249eaecd4adbb9a776a1332a574a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878112740
+status: 3
+tags: []
+user_id: julian

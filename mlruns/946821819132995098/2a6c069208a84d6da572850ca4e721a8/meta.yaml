@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/2a6c069208a84d6da572850ca4e721a8/artifacts
+end_time: 1748878129569
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 2a6c069208a84d6da572850ca4e721a8
+run_name: handsome-shrew-218
+run_uuid: 2a6c069208a84d6da572850ca4e721a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878129543
+status: 3
+tags: []
+user_id: julian

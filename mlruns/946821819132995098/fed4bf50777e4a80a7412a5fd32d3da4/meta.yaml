@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/fed4bf50777e4a80a7412a5fd32d3da4/artifacts
+end_time: 1748878625888
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: fed4bf50777e4a80a7412a5fd32d3da4
+run_name: exultant-boar-792
+run_uuid: fed4bf50777e4a80a7412a5fd32d3da4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878625849
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/76b2256eb1b14f5ca720c69572a83cdf/artifacts
+end_time: 1748878149280
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 76b2256eb1b14f5ca720c69572a83cdf
+run_name: dazzling-asp-746
+run_uuid: 76b2256eb1b14f5ca720c69572a83cdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878149247
+status: 3
+tags: []
+user_id: julian

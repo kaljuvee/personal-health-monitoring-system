@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/f5d08e9b88314f4187739e14d4da6135/artifacts
+end_time: 1748878152922
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: f5d08e9b88314f4187739e14d4da6135
+run_name: burly-koi-634
+run_uuid: f5d08e9b88314f4187739e14d4da6135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878152888
+status: 3
+tags: []
+user_id: julian

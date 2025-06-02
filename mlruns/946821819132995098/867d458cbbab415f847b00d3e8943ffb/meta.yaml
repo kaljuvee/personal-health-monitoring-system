@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/867d458cbbab415f847b00d3e8943ffb/artifacts
+end_time: 1748878153001
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 867d458cbbab415f847b00d3e8943ffb
+run_name: wise-duck-551
+run_uuid: 867d458cbbab415f847b00d3e8943ffb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878152966
+status: 3
+tags: []
+user_id: julian

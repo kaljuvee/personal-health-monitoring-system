@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/fe05916bb0104c09944ff392e2cceb2d/artifacts
+end_time: 1748878116684
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: fe05916bb0104c09944ff392e2cceb2d
+run_name: persistent-calf-399
+run_uuid: fe05916bb0104c09944ff392e2cceb2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878116665
+status: 3
+tags: []
+user_id: julian

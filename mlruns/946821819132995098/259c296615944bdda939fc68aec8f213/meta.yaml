@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/259c296615944bdda939fc68aec8f213/artifacts
+end_time: 1748878132205
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 259c296615944bdda939fc68aec8f213
+run_name: calm-wasp-925
+run_uuid: 259c296615944bdda939fc68aec8f213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878132179
+status: 3
+tags: []
+user_id: julian

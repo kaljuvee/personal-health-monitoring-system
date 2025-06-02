@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/2b1c807925b840969fd5914b04ec0ffd/artifacts
+end_time: 1748878124713
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 2b1c807925b840969fd5914b04ec0ffd
+run_name: handsome-rat-140
+run_uuid: 2b1c807925b840969fd5914b04ec0ffd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878124689
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/aa05f8fdf92a4cc19db4848d87db7871/artifacts
+end_time: 1748878142204
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: aa05f8fdf92a4cc19db4848d87db7871
+run_name: casual-doe-426
+run_uuid: aa05f8fdf92a4cc19db4848d87db7871
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878142171
+status: 3
+tags: []
+user_id: julian

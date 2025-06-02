@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/8d805682b2634f0ea9d52d7a55f49fdf/artifacts
+end_time: 1748878118698
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 8d805682b2634f0ea9d52d7a55f49fdf
+run_name: fortunate-stag-230
+run_uuid: 8d805682b2634f0ea9d52d7a55f49fdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878118677
+status: 3
+tags: []
+user_id: julian

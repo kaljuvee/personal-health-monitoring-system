@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/dc465e2f6bca4a18aa3a52afff4e622f/artifacts
+end_time: 1748878140267
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: dc465e2f6bca4a18aa3a52afff4e622f
+run_name: fortunate-hawk-303
+run_uuid: dc465e2f6bca4a18aa3a52afff4e622f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878140238
+status: 3
+tags: []
+user_id: julian

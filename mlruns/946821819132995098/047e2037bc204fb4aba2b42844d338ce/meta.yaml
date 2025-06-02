@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/047e2037bc204fb4aba2b42844d338ce/artifacts
+end_time: 1748878114965
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 047e2037bc204fb4aba2b42844d338ce
+run_name: respected-carp-22
+run_uuid: 047e2037bc204fb4aba2b42844d338ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878114946
+status: 3
+tags: []
+user_id: julian

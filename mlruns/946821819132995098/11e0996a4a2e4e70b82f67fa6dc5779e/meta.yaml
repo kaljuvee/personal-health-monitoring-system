@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/11e0996a4a2e4e70b82f67fa6dc5779e/artifacts
+end_time: 1748878114511
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 11e0996a4a2e4e70b82f67fa6dc5779e
+run_name: agreeable-owl-738
+run_uuid: 11e0996a4a2e4e70b82f67fa6dc5779e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878114493
+status: 3
+tags: []
+user_id: julian

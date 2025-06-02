@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/062e908d52454475abcf1560efd3749d/artifacts
+end_time: 1748878122395
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 062e908d52454475abcf1560efd3749d
+run_name: indecisive-crow-171
+run_uuid: 062e908d52454475abcf1560efd3749d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878122373
+status: 3
+tags: []
+user_id: julian

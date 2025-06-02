@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/2bccdf4309cf4d3ea7f377dcbe7e401d/artifacts
+end_time: 1748878161825
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 2bccdf4309cf4d3ea7f377dcbe7e401d
+run_name: placid-perch-736
+run_uuid: 2bccdf4309cf4d3ea7f377dcbe7e401d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878161787
+status: 3
+tags: []
+user_id: julian

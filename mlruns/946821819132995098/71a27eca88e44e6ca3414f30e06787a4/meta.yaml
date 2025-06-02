@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/71a27eca88e44e6ca3414f30e06787a4/artifacts
+end_time: 1748878152345
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 71a27eca88e44e6ca3414f30e06787a4
+run_name: colorful-ape-972
+run_uuid: 71a27eca88e44e6ca3414f30e06787a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878152311
+status: 3
+tags: []
+user_id: julian

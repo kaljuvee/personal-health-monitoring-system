@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/46bc5ae79a524280ba2f42f9ae751c24/artifacts
+end_time: 1748878115695
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 46bc5ae79a524280ba2f42f9ae751c24
+run_name: charming-bee-638
+run_uuid: 46bc5ae79a524280ba2f42f9ae751c24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878115675
+status: 3
+tags: []
+user_id: julian

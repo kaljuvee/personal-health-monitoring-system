@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/7cbf26171bf1470c971ea24efe5f99f8/artifacts
+end_time: 1748878114555
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 7cbf26171bf1470c971ea24efe5f99f8
+run_name: funny-mare-504
+run_uuid: 7cbf26171bf1470c971ea24efe5f99f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878114537
+status: 3
+tags: []
+user_id: julian

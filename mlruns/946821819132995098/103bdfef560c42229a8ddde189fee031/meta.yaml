@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/103bdfef560c42229a8ddde189fee031/artifacts
+end_time: 1748878117888
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 103bdfef560c42229a8ddde189fee031
+run_name: incongruous-mole-228
+run_uuid: 103bdfef560c42229a8ddde189fee031
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878117866
+status: 3
+tags: []
+user_id: julian

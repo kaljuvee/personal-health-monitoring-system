@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c62acadc6dca40c994b1e21e47c88112/artifacts
+end_time: 1748878122867
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c62acadc6dca40c994b1e21e47c88112
+run_name: gifted-mule-797
+run_uuid: c62acadc6dca40c994b1e21e47c88112
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878122841
+status: 3
+tags: []
+user_id: julian

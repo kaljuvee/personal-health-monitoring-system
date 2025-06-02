@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/9f62420040ba45068b9649b2b0812560/artifacts
+end_time: 1748878126475
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 9f62420040ba45068b9649b2b0812560
+run_name: whimsical-robin-977
+run_uuid: 9f62420040ba45068b9649b2b0812560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878126451
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/f4e0c9cac5c24cbea9145de49eb02c32/artifacts
+end_time: 1748878147526
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: f4e0c9cac5c24cbea9145de49eb02c32
+run_name: merciful-shrimp-643
+run_uuid: f4e0c9cac5c24cbea9145de49eb02c32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878147494
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/1ac0a3394d73464980575909ba35f57d/artifacts
+end_time: 1748878152033
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 1ac0a3394d73464980575909ba35f57d
+run_name: worried-ram-573
+run_uuid: 1ac0a3394d73464980575909ba35f57d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878151998
+status: 3
+tags: []
+user_id: julian

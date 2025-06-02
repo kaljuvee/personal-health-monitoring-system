@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/aef87a7173464009b5f90605a50f6e5e/artifacts
+end_time: 1748878118920
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: aef87a7173464009b5f90605a50f6e5e
+run_name: adorable-dog-418
+run_uuid: aef87a7173464009b5f90605a50f6e5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878118899
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/612567086b8a4f4a8671a39c7f7ebfb3/artifacts
+end_time: 1748878149055
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 612567086b8a4f4a8671a39c7f7ebfb3
+run_name: burly-stoat-949
+run_uuid: 612567086b8a4f4a8671a39c7f7ebfb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878149021
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/bfd39c888f0444218406045b012033e7/artifacts
+end_time: 1748878149730
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: bfd39c888f0444218406045b012033e7
+run_name: kindly-ant-786
+run_uuid: bfd39c888f0444218406045b012033e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878149697
+status: 3
+tags: []
+user_id: julian

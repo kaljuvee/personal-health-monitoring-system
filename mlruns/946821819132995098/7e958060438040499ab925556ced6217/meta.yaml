@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/7e958060438040499ab925556ced6217/artifacts
+end_time: 1748878112408
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 7e958060438040499ab925556ced6217
+run_name: whimsical-cub-101
+run_uuid: 7e958060438040499ab925556ced6217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878112395
+status: 3
+tags: []
+user_id: julian

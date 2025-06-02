@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c9cc39f4c8e248369a19ea2c77ec7858/artifacts
+end_time: 1748878131994
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c9cc39f4c8e248369a19ea2c77ec7858
+run_name: shivering-jay-453
+run_uuid: c9cc39f4c8e248369a19ea2c77ec7858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878131968
+status: 3
+tags: []
+user_id: julian

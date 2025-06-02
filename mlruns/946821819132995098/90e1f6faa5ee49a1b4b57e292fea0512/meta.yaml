@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/90e1f6faa5ee49a1b4b57e292fea0512/artifacts
+end_time: 1748878155136
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 90e1f6faa5ee49a1b4b57e292fea0512
+run_name: burly-smelt-991
+run_uuid: 90e1f6faa5ee49a1b4b57e292fea0512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878155100
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/2badc1f9a2354d66ac79312717a77336/artifacts
+end_time: 1748878057671
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 2badc1f9a2354d66ac79312717a77336
+run_name: whimsical-mink-781
+run_uuid: 2badc1f9a2354d66ac79312717a77336
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878057664
+status: 3
+tags: []
+user_id: julian

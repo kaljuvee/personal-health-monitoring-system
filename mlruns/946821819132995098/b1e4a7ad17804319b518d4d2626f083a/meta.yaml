@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/b1e4a7ad17804319b518d4d2626f083a/artifacts
+end_time: 1748878624582
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: b1e4a7ad17804319b518d4d2626f083a
+run_name: salty-kite-418
+run_uuid: b1e4a7ad17804319b518d4d2626f083a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878624543
+status: 3
+tags: []
+user_id: julian

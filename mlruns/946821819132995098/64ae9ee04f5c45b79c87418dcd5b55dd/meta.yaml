@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/64ae9ee04f5c45b79c87418dcd5b55dd/artifacts
+end_time: 1748878630706
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 64ae9ee04f5c45b79c87418dcd5b55dd
+run_name: thundering-whale-971
+run_uuid: 64ae9ee04f5c45b79c87418dcd5b55dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878630664
+status: 3
+tags: []
+user_id: julian

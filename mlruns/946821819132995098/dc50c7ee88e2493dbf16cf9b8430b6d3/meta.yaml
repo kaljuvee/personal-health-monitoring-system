@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/dc50c7ee88e2493dbf16cf9b8430b6d3/artifacts
+end_time: 1748878134232
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: dc50c7ee88e2493dbf16cf9b8430b6d3
+run_name: monumental-ant-530
+run_uuid: dc50c7ee88e2493dbf16cf9b8430b6d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878134204
+status: 3
+tags: []
+user_id: julian

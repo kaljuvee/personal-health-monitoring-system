@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/df32c3e712bc427f8964cb4674d1ea9d/artifacts
+end_time: 1748878129362
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: df32c3e712bc427f8964cb4674d1ea9d
+run_name: carefree-ant-20
+run_uuid: df32c3e712bc427f8964cb4674d1ea9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878129336
+status: 3
+tags: []
+user_id: julian

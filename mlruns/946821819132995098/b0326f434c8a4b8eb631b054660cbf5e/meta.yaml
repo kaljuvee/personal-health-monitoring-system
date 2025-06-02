@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/b0326f434c8a4b8eb631b054660cbf5e/artifacts
+end_time: 1748878619336
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: b0326f434c8a4b8eb631b054660cbf5e
+run_name: upset-horse-858
+run_uuid: b0326f434c8a4b8eb631b054660cbf5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878619284
+status: 3
+tags: []
+user_id: julian

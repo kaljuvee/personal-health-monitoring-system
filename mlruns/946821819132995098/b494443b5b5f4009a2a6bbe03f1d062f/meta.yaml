@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/b494443b5b5f4009a2a6bbe03f1d062f/artifacts
+end_time: 1748878142913
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: b494443b5b5f4009a2a6bbe03f1d062f
+run_name: clean-ape-625
+run_uuid: b494443b5b5f4009a2a6bbe03f1d062f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878142882
+status: 3
+tags: []
+user_id: julian

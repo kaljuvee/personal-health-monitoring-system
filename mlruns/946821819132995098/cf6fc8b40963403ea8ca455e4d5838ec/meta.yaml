@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/cf6fc8b40963403ea8ca455e4d5838ec/artifacts
+end_time: 1748878155175
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: cf6fc8b40963403ea8ca455e4d5838ec
+run_name: industrious-wolf-128
+run_uuid: cf6fc8b40963403ea8ca455e4d5838ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878155140
+status: 3
+tags: []
+user_id: julian

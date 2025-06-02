@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ce80375bcbc349a5acd2c3624fedcb51/artifacts
+end_time: 1748878117131
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ce80375bcbc349a5acd2c3624fedcb51
+run_name: painted-colt-771
+run_uuid: ce80375bcbc349a5acd2c3624fedcb51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878117102
+status: 3
+tags: []
+user_id: julian

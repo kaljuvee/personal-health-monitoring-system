@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/e2bf560d723642d4a23e8033940da64f/artifacts
+end_time: 1748878625187
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: e2bf560d723642d4a23e8033940da64f
+run_name: marvelous-cow-232
+run_uuid: e2bf560d723642d4a23e8033940da64f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878625150
+status: 3
+tags: []
+user_id: julian

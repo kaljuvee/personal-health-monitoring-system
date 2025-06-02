@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/0eaca484a11b4d198b72b42ed7b443f8/artifacts
+end_time: 1748878143057
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 0eaca484a11b4d198b72b42ed7b443f8
+run_name: unleashed-toad-182
+run_uuid: 0eaca484a11b4d198b72b42ed7b443f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878143025
+status: 3
+tags: []
+user_id: julian

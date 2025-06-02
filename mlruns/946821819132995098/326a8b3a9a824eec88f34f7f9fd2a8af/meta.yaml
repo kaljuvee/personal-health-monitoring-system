@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/326a8b3a9a824eec88f34f7f9fd2a8af/artifacts
+end_time: 1748878163936
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 326a8b3a9a824eec88f34f7f9fd2a8af
+run_name: peaceful-dog-570
+run_uuid: 326a8b3a9a824eec88f34f7f9fd2a8af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878163897
+status: 3
+tags: []
+user_id: julian

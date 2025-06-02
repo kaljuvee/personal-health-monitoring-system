@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/432c857ecfa44618a6a0a94876134321/artifacts
+end_time: 1748878160351
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 432c857ecfa44618a6a0a94876134321
+run_name: defiant-stork-596
+run_uuid: 432c857ecfa44618a6a0a94876134321
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878160314
+status: 3
+tags: []
+user_id: julian

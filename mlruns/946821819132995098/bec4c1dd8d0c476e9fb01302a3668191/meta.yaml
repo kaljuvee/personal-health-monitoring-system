@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/bec4c1dd8d0c476e9fb01302a3668191/artifacts
+end_time: 1748878623291
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: bec4c1dd8d0c476e9fb01302a3668191
+run_name: funny-calf-678
+run_uuid: bec4c1dd8d0c476e9fb01302a3668191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878623254
+status: 3
+tags: []
+user_id: julian

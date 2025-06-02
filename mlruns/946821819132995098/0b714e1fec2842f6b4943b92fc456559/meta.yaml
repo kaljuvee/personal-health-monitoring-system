@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/0b714e1fec2842f6b4943b92fc456559/artifacts
+end_time: 1748878136419
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 0b714e1fec2842f6b4943b92fc456559
+run_name: persistent-conch-690
+run_uuid: 0b714e1fec2842f6b4943b92fc456559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878136391
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d40d2dece6c24e8dbc71342e56c76540/artifacts
+end_time: 1748878620180
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d40d2dece6c24e8dbc71342e56c76540
+run_name: upbeat-conch-784
+run_uuid: d40d2dece6c24e8dbc71342e56c76540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878620142
+status: 3
+tags: []
+user_id: julian

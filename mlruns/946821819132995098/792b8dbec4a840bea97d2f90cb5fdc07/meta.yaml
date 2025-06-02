@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/792b8dbec4a840bea97d2f90cb5fdc07/artifacts
+end_time: 1748878619567
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 792b8dbec4a840bea97d2f90cb5fdc07
+run_name: adorable-goose-715
+run_uuid: 792b8dbec4a840bea97d2f90cb5fdc07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878619524
+status: 3
+tags: []
+user_id: julian

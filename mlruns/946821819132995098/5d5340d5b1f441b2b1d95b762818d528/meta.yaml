@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/5d5340d5b1f441b2b1d95b762818d528/artifacts
+end_time: 1748878148570
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 5d5340d5b1f441b2b1d95b762818d528
+run_name: upbeat-midge-168
+run_uuid: 5d5340d5b1f441b2b1d95b762818d528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878148537
+status: 3
+tags: []
+user_id: julian

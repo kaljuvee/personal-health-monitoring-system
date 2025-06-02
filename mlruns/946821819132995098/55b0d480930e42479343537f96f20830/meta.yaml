@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/55b0d480930e42479343537f96f20830/artifacts
+end_time: 1748878622863
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 55b0d480930e42479343537f96f20830
+run_name: tasteful-asp-43
+run_uuid: 55b0d480930e42479343537f96f20830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878622825
+status: 3
+tags: []
+user_id: julian

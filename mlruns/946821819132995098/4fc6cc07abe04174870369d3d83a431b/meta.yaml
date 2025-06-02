@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/4fc6cc07abe04174870369d3d83a431b/artifacts
+end_time: 1748878161018
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 4fc6cc07abe04174870369d3d83a431b
+run_name: lyrical-cat-311
+run_uuid: 4fc6cc07abe04174870369d3d83a431b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878160982
+status: 3
+tags: []
+user_id: julian

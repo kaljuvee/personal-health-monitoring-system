@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/badb020fff7d47efa86939be0e24953d/artifacts
+end_time: 1748878112556
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: badb020fff7d47efa86939be0e24953d
+run_name: efficient-deer-609
+run_uuid: badb020fff7d47efa86939be0e24953d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878112540
+status: 3
+tags: []
+user_id: julian

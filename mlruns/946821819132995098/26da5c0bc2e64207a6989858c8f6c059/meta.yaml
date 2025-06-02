@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/26da5c0bc2e64207a6989858c8f6c059/artifacts
+end_time: 1748878115584
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 26da5c0bc2e64207a6989858c8f6c059
+run_name: chill-slug-721
+run_uuid: 26da5c0bc2e64207a6989858c8f6c059
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878115561
+status: 3
+tags: []
+user_id: julian

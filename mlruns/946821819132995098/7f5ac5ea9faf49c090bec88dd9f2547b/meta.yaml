@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/7f5ac5ea9faf49c090bec88dd9f2547b/artifacts
+end_time: 1748878154173
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 7f5ac5ea9faf49c090bec88dd9f2547b
+run_name: illustrious-roo-624
+run_uuid: 7f5ac5ea9faf49c090bec88dd9f2547b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878154139
+status: 3
+tags: []
+user_id: julian

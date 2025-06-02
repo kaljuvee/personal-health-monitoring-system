@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/5257a872b37e43f88896f6754cccd3de/artifacts
+end_time: 1748878120555
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 5257a872b37e43f88896f6754cccd3de
+run_name: capricious-gnat-290
+run_uuid: 5257a872b37e43f88896f6754cccd3de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878120533
+status: 3
+tags: []
+user_id: julian

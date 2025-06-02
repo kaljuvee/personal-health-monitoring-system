@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/5628b9f66b4a4868805d5240c2f2f175/artifacts
+end_time: 1748878117672
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 5628b9f66b4a4868805d5240c2f2f175
+run_name: efficient-fly-1000
+run_uuid: 5628b9f66b4a4868805d5240c2f2f175
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878117651
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/fde3e2d3f15740f2b5e99b44dbb6bb17/artifacts
+end_time: 1748878112907
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: fde3e2d3f15740f2b5e99b44dbb6bb17
+run_name: rumbling-asp-462
+run_uuid: fde3e2d3f15740f2b5e99b44dbb6bb17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878112888
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/efa2ab5b8fea4117be64f7d4bf85bcd2/artifacts
+end_time: 1748878623554
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: efa2ab5b8fea4117be64f7d4bf85bcd2
+run_name: gaudy-fish-633
+run_uuid: efa2ab5b8fea4117be64f7d4bf85bcd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878623491
+status: 3
+tags: []
+user_id: julian

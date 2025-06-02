@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/5d2647f37a4045789abfd0ba7610388b/artifacts
+end_time: 1748878125973
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 5d2647f37a4045789abfd0ba7610388b
+run_name: glamorous-swan-684
+run_uuid: 5d2647f37a4045789abfd0ba7610388b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878125932
+status: 3
+tags: []
+user_id: julian

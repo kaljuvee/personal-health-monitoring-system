@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/dcc02880104744079c2900a1e65696b2/artifacts
+end_time: 1748878118388
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: dcc02880104744079c2900a1e65696b2
+run_name: sassy-asp-521
+run_uuid: dcc02880104744079c2900a1e65696b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878118368
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/fc0049f9a2144248b632a0b6706c4204/artifacts
+end_time: 1748878115338
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: fc0049f9a2144248b632a0b6706c4204
+run_name: fortunate-fox-592
+run_uuid: fc0049f9a2144248b632a0b6706c4204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878115321
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/551d48ec00c04ebc827522d2ac4da833/artifacts
+end_time: 1748878629621
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 551d48ec00c04ebc827522d2ac4da833
+run_name: unequaled-mule-928
+run_uuid: 551d48ec00c04ebc827522d2ac4da833
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878629581
+status: 3
+tags: []
+user_id: julian

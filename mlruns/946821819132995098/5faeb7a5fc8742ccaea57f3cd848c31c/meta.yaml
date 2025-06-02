@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/5faeb7a5fc8742ccaea57f3cd848c31c/artifacts
+end_time: 1748878113697
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 5faeb7a5fc8742ccaea57f3cd848c31c
+run_name: luxuriant-hog-471
+run_uuid: 5faeb7a5fc8742ccaea57f3cd848c31c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878113679
+status: 3
+tags: []
+user_id: julian

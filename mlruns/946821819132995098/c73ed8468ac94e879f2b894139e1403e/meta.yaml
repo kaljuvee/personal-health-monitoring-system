@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c73ed8468ac94e879f2b894139e1403e/artifacts
+end_time: 1748878117316
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c73ed8468ac94e879f2b894139e1403e
+run_name: painted-fox-754
+run_uuid: c73ed8468ac94e879f2b894139e1403e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878117296
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/060fbd6ecc714139ad447d9b8e947667/artifacts
+end_time: 1748878121353
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 060fbd6ecc714139ad447d9b8e947667
+run_name: resilient-cod-267
+run_uuid: 060fbd6ecc714139ad447d9b8e947667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878121331
+status: 3
+tags: []
+user_id: julian

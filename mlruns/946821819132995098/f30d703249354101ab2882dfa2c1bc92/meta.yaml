@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/f30d703249354101ab2882dfa2c1bc92/artifacts
+end_time: 1748878164617
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: f30d703249354101ab2882dfa2c1bc92
+run_name: useful-doe-180
+run_uuid: f30d703249354101ab2882dfa2c1bc92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878164579
+status: 3
+tags: []
+user_id: julian

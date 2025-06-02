@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/245e8c9a764f445cbbd8cc5a39077035/artifacts
+end_time: 1748878624970
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 245e8c9a764f445cbbd8cc5a39077035
+run_name: big-elk-901
+run_uuid: 245e8c9a764f445cbbd8cc5a39077035
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878624932
+status: 3
+tags: []
+user_id: julian

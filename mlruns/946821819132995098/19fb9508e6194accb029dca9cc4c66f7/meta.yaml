@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/19fb9508e6194accb029dca9cc4c66f7/artifacts
+end_time: 1748878112949
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 19fb9508e6194accb029dca9cc4c66f7
+run_name: shivering-cat-228
+run_uuid: 19fb9508e6194accb029dca9cc4c66f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878112931
+status: 3
+tags: []
+user_id: julian

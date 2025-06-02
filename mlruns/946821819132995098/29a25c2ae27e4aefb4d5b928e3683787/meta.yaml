@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/29a25c2ae27e4aefb4d5b928e3683787/artifacts
+end_time: 1748878162449
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 29a25c2ae27e4aefb4d5b928e3683787
+run_name: mysterious-mare-391
+run_uuid: 29a25c2ae27e4aefb4d5b928e3683787
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878162413
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/0946d9008f354faf8e88b8f5c291c41c/artifacts
+end_time: 1748878119391
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 0946d9008f354faf8e88b8f5c291c41c
+run_name: fearless-shrike-94
+run_uuid: 0946d9008f354faf8e88b8f5c291c41c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878119369
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/83316b07eabe42dc85ea06a165c90ef9/artifacts
+end_time: 1748878145424
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 83316b07eabe42dc85ea06a165c90ef9
+run_name: melodic-lark-285
+run_uuid: 83316b07eabe42dc85ea06a165c90ef9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878145392
+status: 3
+tags: []
+user_id: julian

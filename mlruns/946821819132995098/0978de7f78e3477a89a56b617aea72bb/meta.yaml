@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/0978de7f78e3477a89a56b617aea72bb/artifacts
+end_time: 1748878119091
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 0978de7f78e3477a89a56b617aea72bb
+run_name: big-stag-436
+run_uuid: 0978de7f78e3477a89a56b617aea72bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878119068
+status: 3
+tags: []
+user_id: julian

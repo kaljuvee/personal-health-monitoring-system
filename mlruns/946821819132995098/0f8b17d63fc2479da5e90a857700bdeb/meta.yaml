@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/0f8b17d63fc2479da5e90a857700bdeb/artifacts
+end_time: 1748878158332
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 0f8b17d63fc2479da5e90a857700bdeb
+run_name: blushing-wolf-521
+run_uuid: 0f8b17d63fc2479da5e90a857700bdeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878158295
+status: 3
+tags: []
+user_id: julian

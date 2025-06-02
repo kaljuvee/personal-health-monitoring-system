@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/6281e0686ab34cb28012b8ad05a1cab0/artifacts
+end_time: 1748878113720
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 6281e0686ab34cb28012b8ad05a1cab0
+run_name: secretive-vole-102
+run_uuid: 6281e0686ab34cb28012b8ad05a1cab0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878113700
+status: 3
+tags: []
+user_id: julian

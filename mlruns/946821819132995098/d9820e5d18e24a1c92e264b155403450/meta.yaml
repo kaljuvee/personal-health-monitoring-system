@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d9820e5d18e24a1c92e264b155403450/artifacts
+end_time: 1748878122193
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d9820e5d18e24a1c92e264b155403450
+run_name: omniscient-slug-190
+run_uuid: d9820e5d18e24a1c92e264b155403450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878122171
+status: 3
+tags: []
+user_id: julian

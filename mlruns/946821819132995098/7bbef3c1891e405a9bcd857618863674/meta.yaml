@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/7bbef3c1891e405a9bcd857618863674/artifacts
+end_time: 1748878135174
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 7bbef3c1891e405a9bcd857618863674
+run_name: welcoming-crow-643
+run_uuid: 7bbef3c1891e405a9bcd857618863674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878135145
+status: 3
+tags: []
+user_id: julian

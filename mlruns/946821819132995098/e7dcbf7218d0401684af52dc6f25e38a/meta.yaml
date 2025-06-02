@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/e7dcbf7218d0401684af52dc6f25e38a/artifacts
+end_time: 1748878114469
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: e7dcbf7218d0401684af52dc6f25e38a
+run_name: incongruous-ant-830
+run_uuid: e7dcbf7218d0401684af52dc6f25e38a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878114450
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/db4846e677fe4555a3a00b12f3d824dd/artifacts
+end_time: 1748878157241
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: db4846e677fe4555a3a00b12f3d824dd
+run_name: worried-ox-110
+run_uuid: db4846e677fe4555a3a00b12f3d824dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878157205
+status: 3
+tags: []
+user_id: julian

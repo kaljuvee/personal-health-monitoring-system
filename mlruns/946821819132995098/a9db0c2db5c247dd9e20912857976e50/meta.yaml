@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/a9db0c2db5c247dd9e20912857976e50/artifacts
+end_time: 1748878127272
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: a9db0c2db5c247dd9e20912857976e50
+run_name: awesome-ray-471
+run_uuid: a9db0c2db5c247dd9e20912857976e50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878127247
+status: 3
+tags: []
+user_id: julian

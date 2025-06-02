@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/b1c31e4d31a54636adf54aa981261b7b/artifacts
+end_time: 1748878149997
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: b1c31e4d31a54636adf54aa981261b7b
+run_name: clean-colt-370
+run_uuid: b1c31e4d31a54636adf54aa981261b7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878149964
+status: 3
+tags: []
+user_id: julian

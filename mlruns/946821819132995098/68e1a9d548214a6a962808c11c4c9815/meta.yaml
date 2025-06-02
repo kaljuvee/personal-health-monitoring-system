@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/68e1a9d548214a6a962808c11c4c9815/artifacts
+end_time: 1748878142843
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 68e1a9d548214a6a962808c11c4c9815
+run_name: unleashed-sloth-443
+run_uuid: 68e1a9d548214a6a962808c11c4c9815
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878142813
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/347f0ed365be4f7997ee3e0cdc4ac6b9/artifacts
+end_time: 1748878164020
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 347f0ed365be4f7997ee3e0cdc4ac6b9
+run_name: bittersweet-ape-705
+run_uuid: 347f0ed365be4f7997ee3e0cdc4ac6b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878163982
+status: 3
+tags: []
+user_id: julian

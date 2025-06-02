@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/5b752663e93c401f94bb93adcb6b9098/artifacts
+end_time: 1748878127761
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 5b752663e93c401f94bb93adcb6b9098
+run_name: able-worm-811
+run_uuid: 5b752663e93c401f94bb93adcb6b9098
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878127737
+status: 3
+tags: []
+user_id: julian

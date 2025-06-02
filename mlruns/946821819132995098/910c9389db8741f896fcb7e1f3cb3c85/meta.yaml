@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/910c9389db8741f896fcb7e1f3cb3c85/artifacts
+end_time: 1748878153469
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 910c9389db8741f896fcb7e1f3cb3c85
+run_name: nosy-moth-86
+run_uuid: 910c9389db8741f896fcb7e1f3cb3c85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878153433
+status: 3
+tags: []
+user_id: julian

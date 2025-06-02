@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/850f2af908dd42428a3e5c2091c05d3a/artifacts
+end_time: 1748878159315
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 850f2af908dd42428a3e5c2091c05d3a
+run_name: big-fawn-617
+run_uuid: 850f2af908dd42428a3e5c2091c05d3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878159280
+status: 3
+tags: []
+user_id: julian

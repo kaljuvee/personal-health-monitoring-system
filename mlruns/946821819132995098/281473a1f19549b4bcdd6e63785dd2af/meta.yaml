@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/281473a1f19549b4bcdd6e63785dd2af/artifacts
+end_time: 1748878127645
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 281473a1f19549b4bcdd6e63785dd2af
+run_name: awesome-colt-154
+run_uuid: 281473a1f19549b4bcdd6e63785dd2af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878127619
+status: 3
+tags: []
+user_id: julian

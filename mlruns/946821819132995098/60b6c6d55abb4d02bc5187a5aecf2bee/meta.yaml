@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/60b6c6d55abb4d02bc5187a5aecf2bee/artifacts
+end_time: 1748878625667
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 60b6c6d55abb4d02bc5187a5aecf2bee
+run_name: sedate-whale-767
+run_uuid: 60b6c6d55abb4d02bc5187a5aecf2bee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878625628
+status: 3
+tags: []
+user_id: julian

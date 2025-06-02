@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/409aa2d8a88c4781a6f2e0483843fef9/artifacts
+end_time: 1748878627528
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 409aa2d8a88c4781a6f2e0483843fef9
+run_name: nervous-squid-262
+run_uuid: 409aa2d8a88c4781a6f2e0483843fef9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878627487
+status: 3
+tags: []
+user_id: julian

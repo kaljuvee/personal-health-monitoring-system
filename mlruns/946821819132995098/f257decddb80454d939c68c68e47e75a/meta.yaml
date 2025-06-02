@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/f257decddb80454d939c68c68e47e75a/artifacts
+end_time: 1748878129452
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: f257decddb80454d939c68c68e47e75a
+run_name: delightful-stag-620
+run_uuid: f257decddb80454d939c68c68e47e75a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878129426
+status: 3
+tags: []
+user_id: julian

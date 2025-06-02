@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/40a89dc106fc4f40a97885a19ce1820f/artifacts
+end_time: 1748878117224
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 40a89dc106fc4f40a97885a19ce1820f
+run_name: able-toad-772
+run_uuid: 40a89dc106fc4f40a97885a19ce1820f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878117204
+status: 3
+tags: []
+user_id: julian

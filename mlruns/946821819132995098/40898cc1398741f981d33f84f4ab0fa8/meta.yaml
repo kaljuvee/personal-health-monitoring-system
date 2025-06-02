@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/40898cc1398741f981d33f84f4ab0fa8/artifacts
+end_time: 1748878623207
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 40898cc1398741f981d33f84f4ab0fa8
+run_name: legendary-ox-352
+run_uuid: 40898cc1398741f981d33f84f4ab0fa8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878623169
+status: 3
+tags: []
+user_id: julian

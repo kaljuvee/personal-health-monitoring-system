@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/0d8acd80d7744b0eb9fe970dec2b6d40/artifacts
+end_time: 1748878114144
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 0d8acd80d7744b0eb9fe970dec2b6d40
+run_name: blushing-grouse-984
+run_uuid: 0d8acd80d7744b0eb9fe970dec2b6d40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878114127
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c3d58c80aacc4269be07655a8f073e58/artifacts
+end_time: 1748878162788
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c3d58c80aacc4269be07655a8f073e58
+run_name: stately-steed-474
+run_uuid: c3d58c80aacc4269be07655a8f073e58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878162749
+status: 3
+tags: []
+user_id: julian

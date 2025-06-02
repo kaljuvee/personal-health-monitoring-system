@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/7bd4dd6c995d4a29ba625c888377da19/artifacts
+end_time: 1748878130545
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 7bd4dd6c995d4a29ba625c888377da19
+run_name: ambitious-midge-142
+run_uuid: 7bd4dd6c995d4a29ba625c888377da19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878130520
+status: 3
+tags: []
+user_id: julian

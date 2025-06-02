@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/b12727776f8b4cf2af9db8059812bcd5/artifacts
+end_time: 1748878123444
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: b12727776f8b4cf2af9db8059812bcd5
+run_name: abrasive-shark-539
+run_uuid: b12727776f8b4cf2af9db8059812bcd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878123422
+status: 3
+tags: []
+user_id: julian

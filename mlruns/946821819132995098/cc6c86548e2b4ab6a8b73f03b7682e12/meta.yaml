@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/cc6c86548e2b4ab6a8b73f03b7682e12/artifacts
+end_time: 1748878146066
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: cc6c86548e2b4ab6a8b73f03b7682e12
+run_name: brawny-shrimp-707
+run_uuid: cc6c86548e2b4ab6a8b73f03b7682e12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878146033
+status: 3
+tags: []
+user_id: julian

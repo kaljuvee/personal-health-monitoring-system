@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/9e60fe0c0402487ca8cc51734e0f8ad0/artifacts
+end_time: 1748878120854
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 9e60fe0c0402487ca8cc51734e0f8ad0
+run_name: peaceful-shad-431
+run_uuid: 9e60fe0c0402487ca8cc51734e0f8ad0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878120830
+status: 3
+tags: []
+user_id: julian

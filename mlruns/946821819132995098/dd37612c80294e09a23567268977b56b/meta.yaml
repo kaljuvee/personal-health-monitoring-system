@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/dd37612c80294e09a23567268977b56b/artifacts
+end_time: 1748878625318
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: dd37612c80294e09a23567268977b56b
+run_name: victorious-bee-121
+run_uuid: dd37612c80294e09a23567268977b56b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878625277
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/7df6a8c9cc664909b04b75c86e3ca9ee/artifacts
+end_time: 1748878122421
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 7df6a8c9cc664909b04b75c86e3ca9ee
+run_name: mercurial-smelt-254
+run_uuid: 7df6a8c9cc664909b04b75c86e3ca9ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878122399
+status: 3
+tags: []
+user_id: julian

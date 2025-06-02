@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/deccc33a4f2143c79be16125249f40bc/artifacts
+end_time: 1748878159276
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: deccc33a4f2143c79be16125249f40bc
+run_name: chill-vole-506
+run_uuid: deccc33a4f2143c79be16125249f40bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878159239
+status: 3
+tags: []
+user_id: julian

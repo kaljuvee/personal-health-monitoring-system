@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ba7407dff0234ab3ad6b389433d2dab0/artifacts
+end_time: 1748878148793
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ba7407dff0234ab3ad6b389433d2dab0
+run_name: skittish-gnat-778
+run_uuid: ba7407dff0234ab3ad6b389433d2dab0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878148760
+status: 3
+tags: []
+user_id: julian

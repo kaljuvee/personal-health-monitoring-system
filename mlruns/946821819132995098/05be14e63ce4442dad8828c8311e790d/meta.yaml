@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/05be14e63ce4442dad8828c8311e790d/artifacts
+end_time: 1748878117006
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 05be14e63ce4442dad8828c8311e790d
+run_name: whimsical-rook-827
+run_uuid: 05be14e63ce4442dad8828c8311e790d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878116985
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/77d309d6b6a44f36bfcba96c7eb06be3/artifacts
+end_time: 1748878113361
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 77d309d6b6a44f36bfcba96c7eb06be3
+run_name: mercurial-croc-200
+run_uuid: 77d309d6b6a44f36bfcba96c7eb06be3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878113341
+status: 3
+tags: []
+user_id: julian

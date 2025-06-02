@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/9b1fd891b44c4b14b1086e47f91db0db/artifacts
+end_time: 1748878127848
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 9b1fd891b44c4b14b1086e47f91db0db
+run_name: carefree-stork-65
+run_uuid: 9b1fd891b44c4b14b1086e47f91db0db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878127823
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/979c8deae6d14cfc83a34d6aea3f338b/artifacts
+end_time: 1748878133423
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 979c8deae6d14cfc83a34d6aea3f338b
+run_name: angry-ox-307
+run_uuid: 979c8deae6d14cfc83a34d6aea3f338b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878133395
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/a83f80efbdbc4b59ae9d3fb2a75b0298/artifacts
+end_time: 1748878121327
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: a83f80efbdbc4b59ae9d3fb2a75b0298
+run_name: beautiful-quail-734
+run_uuid: a83f80efbdbc4b59ae9d3fb2a75b0298
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878121308
+status: 3
+tags: []
+user_id: julian

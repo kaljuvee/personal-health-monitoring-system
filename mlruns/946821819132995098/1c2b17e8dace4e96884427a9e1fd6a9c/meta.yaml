@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/1c2b17e8dace4e96884427a9e1fd6a9c/artifacts
+end_time: 1748878155661
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 1c2b17e8dace4e96884427a9e1fd6a9c
+run_name: crawling-calf-910
+run_uuid: 1c2b17e8dace4e96884427a9e1fd6a9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878155625
+status: 3
+tags: []
+user_id: julian

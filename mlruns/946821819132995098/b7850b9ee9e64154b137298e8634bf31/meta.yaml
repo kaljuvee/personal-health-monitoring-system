@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/b7850b9ee9e64154b137298e8634bf31/artifacts
+end_time: 1748878118098
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: b7850b9ee9e64154b137298e8634bf31
+run_name: gentle-owl-482
+run_uuid: b7850b9ee9e64154b137298e8634bf31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878118078
+status: 3
+tags: []
+user_id: julian

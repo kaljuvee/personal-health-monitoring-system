@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/6c7add5b4a4a49edae6043a4a470fc4b/artifacts
+end_time: 1748878132025
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 6c7add5b4a4a49edae6043a4a470fc4b
+run_name: delightful-robin-951
+run_uuid: 6c7add5b4a4a49edae6043a4a470fc4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878131998
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/1511e070f82c4133ac22405c825950c9/artifacts
+end_time: 1748878113570
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 1511e070f82c4133ac22405c825950c9
+run_name: adventurous-crab-495
+run_uuid: 1511e070f82c4133ac22405c825950c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878113551
+status: 3
+tags: []
+user_id: julian

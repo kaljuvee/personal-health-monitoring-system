@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/41bd30e46a17499fadb1a4120bd6109a/artifacts
+end_time: 1748878153390
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 41bd30e46a17499fadb1a4120bd6109a
+run_name: burly-fish-467
+run_uuid: 41bd30e46a17499fadb1a4120bd6109a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878153355
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/acbb3e0c0bcf4a6fb4125b59a4c7c407/artifacts
+end_time: 1748878623078
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: acbb3e0c0bcf4a6fb4125b59a4c7c407
+run_name: honorable-sow-609
+run_uuid: acbb3e0c0bcf4a6fb4125b59a4c7c407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878623039
+status: 3
+tags: []
+user_id: julian

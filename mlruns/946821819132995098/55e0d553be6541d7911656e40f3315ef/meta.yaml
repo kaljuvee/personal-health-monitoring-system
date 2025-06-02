@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/55e0d553be6541d7911656e40f3315ef/artifacts
+end_time: 1748878124125
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 55e0d553be6541d7911656e40f3315ef
+run_name: amusing-carp-935
+run_uuid: 55e0d553be6541d7911656e40f3315ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878124102
+status: 3
+tags: []
+user_id: julian

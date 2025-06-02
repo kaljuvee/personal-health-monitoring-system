@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/f84d3adcba624e439588fd764456748f/artifacts
+end_time: 1748878622231
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: f84d3adcba624e439588fd764456748f
+run_name: awesome-newt-233
+run_uuid: f84d3adcba624e439588fd764456748f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878622194
+status: 3
+tags: []
+user_id: julian

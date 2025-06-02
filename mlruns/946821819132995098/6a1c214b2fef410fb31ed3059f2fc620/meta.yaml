@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/6a1c214b2fef410fb31ed3059f2fc620/artifacts
+end_time: 1748878114082
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 6a1c214b2fef410fb31ed3059f2fc620
+run_name: serious-dolphin-564
+run_uuid: 6a1c214b2fef410fb31ed3059f2fc620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878114063
+status: 3
+tags: []
+user_id: julian

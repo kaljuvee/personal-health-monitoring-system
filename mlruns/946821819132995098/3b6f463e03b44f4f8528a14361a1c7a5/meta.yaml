@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/3b6f463e03b44f4f8528a14361a1c7a5/artifacts
+end_time: 1748878150224
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 3b6f463e03b44f4f8528a14361a1c7a5
+run_name: nebulous-tern-285
+run_uuid: 3b6f463e03b44f4f8528a14361a1c7a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878150190
+status: 3
+tags: []
+user_id: julian

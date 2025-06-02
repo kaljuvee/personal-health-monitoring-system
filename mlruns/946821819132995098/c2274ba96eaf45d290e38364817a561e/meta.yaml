@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c2274ba96eaf45d290e38364817a561e/artifacts
+end_time: 1748878625404
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c2274ba96eaf45d290e38364817a561e
+run_name: popular-pig-699
+run_uuid: c2274ba96eaf45d290e38364817a561e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878625366
+status: 3
+tags: []
+user_id: julian

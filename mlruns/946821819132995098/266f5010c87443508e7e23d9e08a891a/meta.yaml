@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/266f5010c87443508e7e23d9e08a891a/artifacts
+end_time: 1748878122294
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 266f5010c87443508e7e23d9e08a891a
+run_name: skillful-yak-340
+run_uuid: 266f5010c87443508e7e23d9e08a891a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878122272
+status: 3
+tags: []
+user_id: julian

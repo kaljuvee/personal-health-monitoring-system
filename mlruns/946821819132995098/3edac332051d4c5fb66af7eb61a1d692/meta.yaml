@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/3edac332051d4c5fb66af7eb61a1d692/artifacts
+end_time: 1748878111884
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 3edac332051d4c5fb66af7eb61a1d692
+run_name: crawling-smelt-848
+run_uuid: 3edac332051d4c5fb66af7eb61a1d692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878111868
+status: 3
+tags: []
+user_id: julian

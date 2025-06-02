@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/a3330f6987c241c9b846413e9adba9aa/artifacts
+end_time: 1748878126055
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: a3330f6987c241c9b846413e9adba9aa
+run_name: powerful-bat-863
+run_uuid: a3330f6987c241c9b846413e9adba9aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878126030
+status: 3
+tags: []
+user_id: julian

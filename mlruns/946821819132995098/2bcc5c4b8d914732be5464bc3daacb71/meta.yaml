@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/2bcc5c4b8d914732be5464bc3daacb71/artifacts
+end_time: 1748878113404
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 2bcc5c4b8d914732be5464bc3daacb71
+run_name: monumental-crab-568
+run_uuid: 2bcc5c4b8d914732be5464bc3daacb71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878113386
+status: 3
+tags: []
+user_id: julian

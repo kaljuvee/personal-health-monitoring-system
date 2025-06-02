@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/bf8b2fbb62bc42be97c7860575d32bea/artifacts
+end_time: 1748878141390
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: bf8b2fbb62bc42be97c7860575d32bea
+run_name: thoughtful-crane-286
+run_uuid: bf8b2fbb62bc42be97c7860575d32bea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878141359
+status: 3
+tags: []
+user_id: julian

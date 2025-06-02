@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d195ed6d96134eacae8de87fe3f5a40e/artifacts
+end_time: 1748878119905
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d195ed6d96134eacae8de87fe3f5a40e
+run_name: treasured-wolf-110
+run_uuid: d195ed6d96134eacae8de87fe3f5a40e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878119883
+status: 3
+tags: []
+user_id: julian

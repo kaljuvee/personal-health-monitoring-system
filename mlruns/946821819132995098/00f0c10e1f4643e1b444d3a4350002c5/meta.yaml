@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/00f0c10e1f4643e1b444d3a4350002c5/artifacts
+end_time: 1748878630252
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 00f0c10e1f4643e1b444d3a4350002c5
+run_name: rebellious-zebra-761
+run_uuid: 00f0c10e1f4643e1b444d3a4350002c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878630212
+status: 3
+tags: []
+user_id: julian

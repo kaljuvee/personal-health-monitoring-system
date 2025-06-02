@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ff0a11ae03c645489ad98f6ead985389/artifacts
+end_time: 1748878132530
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ff0a11ae03c645489ad98f6ead985389
+run_name: gentle-crow-122
+run_uuid: ff0a11ae03c645489ad98f6ead985389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878132505
+status: 3
+tags: []
+user_id: julian

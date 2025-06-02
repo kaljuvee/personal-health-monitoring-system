@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/287d0936fb8d4ae09269b08d4eb900f9/artifacts
+end_time: 1748878622737
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 287d0936fb8d4ae09269b08d4eb900f9
+run_name: magnificent-pig-793
+run_uuid: 287d0936fb8d4ae09269b08d4eb900f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878622698
+status: 3
+tags: []
+user_id: julian

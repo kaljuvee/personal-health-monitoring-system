@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ffe09668e0bc4d2483ea1f3524603d0d/artifacts
+end_time: 1748878625145
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ffe09668e0bc4d2483ea1f3524603d0d
+run_name: brawny-crab-42
+run_uuid: ffe09668e0bc4d2483ea1f3524603d0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878625107
+status: 3
+tags: []
+user_id: julian

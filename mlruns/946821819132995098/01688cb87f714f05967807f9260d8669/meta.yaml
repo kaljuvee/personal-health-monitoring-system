@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/01688cb87f714f05967807f9260d8669/artifacts
+end_time: 1748878160017
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 01688cb87f714f05967807f9260d8669
+run_name: clumsy-rat-358
+run_uuid: 01688cb87f714f05967807f9260d8669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878159980
+status: 3
+tags: []
+user_id: julian

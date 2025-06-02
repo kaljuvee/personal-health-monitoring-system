@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/bffdde4dcf944186959376fea1803f4d/artifacts
+end_time: 1748878120273
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: bffdde4dcf944186959376fea1803f4d
+run_name: exultant-zebra-639
+run_uuid: bffdde4dcf944186959376fea1803f4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878120251
+status: 3
+tags: []
+user_id: julian

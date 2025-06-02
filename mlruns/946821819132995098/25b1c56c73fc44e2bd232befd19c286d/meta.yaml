@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/25b1c56c73fc44e2bd232befd19c286d/artifacts
+end_time: 1748878122064
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 25b1c56c73fc44e2bd232befd19c286d
+run_name: stylish-swan-433
+run_uuid: 25b1c56c73fc44e2bd232befd19c286d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878122043
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/287d7e74e50b4198b5b88b73eac3b183/artifacts
+end_time: 1748878134170
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 287d7e74e50b4198b5b88b73eac3b183
+run_name: receptive-koi-785
+run_uuid: 287d7e74e50b4198b5b88b73eac3b183
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878134143
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/8f943992c22544718bd4a82456039d4a/artifacts
+end_time: 1748878125708
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 8f943992c22544718bd4a82456039d4a
+run_name: gaudy-skink-59
+run_uuid: 8f943992c22544718bd4a82456039d4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878125684
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/b50298e1c5e0427987cb6149048ab7ab/artifacts
+end_time: 1748878131328
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: b50298e1c5e0427987cb6149048ab7ab
+run_name: valuable-duck-361
+run_uuid: b50298e1c5e0427987cb6149048ab7ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878131300
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/e6623c4c9fc14a5fb08359b903fca38e/artifacts
+end_time: 1748878134860
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: e6623c4c9fc14a5fb08359b903fca38e
+run_name: gifted-whale-606
+run_uuid: e6623c4c9fc14a5fb08359b903fca38e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878134832
+status: 3
+tags: []
+user_id: julian

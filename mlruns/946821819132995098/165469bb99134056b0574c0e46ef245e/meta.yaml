@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/165469bb99134056b0574c0e46ef245e/artifacts
+end_time: 1748878119561
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 165469bb99134056b0574c0e46ef245e
+run_name: gifted-shrimp-862
+run_uuid: 165469bb99134056b0574c0e46ef245e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878119540
+status: 3
+tags: []
+user_id: julian

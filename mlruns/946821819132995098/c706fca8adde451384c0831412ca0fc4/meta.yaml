@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c706fca8adde451384c0831412ca0fc4/artifacts
+end_time: 1748878144466
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c706fca8adde451384c0831412ca0fc4
+run_name: capable-bear-932
+run_uuid: c706fca8adde451384c0831412ca0fc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878144434
+status: 3
+tags: []
+user_id: julian

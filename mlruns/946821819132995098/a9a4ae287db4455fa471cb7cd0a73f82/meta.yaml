@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/a9a4ae287db4455fa471cb7cd0a73f82/artifacts
+end_time: 1748878123916
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: a9a4ae287db4455fa471cb7cd0a73f82
+run_name: dashing-snail-764
+run_uuid: a9a4ae287db4455fa471cb7cd0a73f82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878123893
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/8d5256b0c4394d8d8adfa19c60cffc98/artifacts
+end_time: 1748878130068
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 8d5256b0c4394d8d8adfa19c60cffc98
+run_name: nebulous-whale-461
+run_uuid: 8d5256b0c4394d8d8adfa19c60cffc98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878130043
+status: 3
+tags: []
+user_id: julian

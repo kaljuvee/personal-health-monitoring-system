@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/3b50b601a7424c58a57c160534ac7279/artifacts
+end_time: 1748878112778
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 3b50b601a7424c58a57c160534ac7279
+run_name: thoughtful-worm-948
+run_uuid: 3b50b601a7424c58a57c160534ac7279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878112760
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ccc5f7d924a84fbfa41c4ecfa5911649/artifacts
+end_time: 1748878119171
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ccc5f7d924a84fbfa41c4ecfa5911649
+run_name: calm-calf-702
+run_uuid: ccc5f7d924a84fbfa41c4ecfa5911649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878119149
+status: 3
+tags: []
+user_id: julian

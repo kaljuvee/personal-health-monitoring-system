@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/9211c33f1b854acabc085bb0c1166f8b/artifacts
+end_time: 1748878139526
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 9211c33f1b854acabc085bb0c1166f8b
+run_name: delicate-pug-438
+run_uuid: 9211c33f1b854acabc085bb0c1166f8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878139496
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/1e662e71f4c8403abf7aa8615e2f063a/artifacts
+end_time: 1748878057738
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 1e662e71f4c8403abf7aa8615e2f063a
+run_name: painted-fawn-152
+run_uuid: 1e662e71f4c8403abf7aa8615e2f063a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878057730
+status: 3
+tags: []
+user_id: julian

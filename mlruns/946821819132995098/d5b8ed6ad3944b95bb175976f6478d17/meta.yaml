@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d5b8ed6ad3944b95bb175976f6478d17/artifacts
+end_time: 1748878128899
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d5b8ed6ad3944b95bb175976f6478d17
+run_name: valuable-ray-384
+run_uuid: d5b8ed6ad3944b95bb175976f6478d17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878128874
+status: 3
+tags: []
+user_id: julian

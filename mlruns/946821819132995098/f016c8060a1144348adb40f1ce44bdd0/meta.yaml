@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/f016c8060a1144348adb40f1ce44bdd0/artifacts
+end_time: 1748878142632
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: f016c8060a1144348adb40f1ce44bdd0
+run_name: persistent-moose-486
+run_uuid: f016c8060a1144348adb40f1ce44bdd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878142600
+status: 3
+tags: []
+user_id: julian

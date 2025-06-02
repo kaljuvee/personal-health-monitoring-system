@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/8e37cbab73ea408ab8673888c0efdd18/artifacts
+end_time: 1748878120579
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 8e37cbab73ea408ab8673888c0efdd18
+run_name: legendary-hen-101
+run_uuid: 8e37cbab73ea408ab8673888c0efdd18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878120558
+status: 3
+tags: []
+user_id: julian

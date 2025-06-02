@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/a8de727cf9a6486a885ae2fc76b37961/artifacts
+end_time: 1748878140434
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: a8de727cf9a6486a885ae2fc76b37961
+run_name: enthused-shark-248
+run_uuid: a8de727cf9a6486a885ae2fc76b37961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878140404
+status: 3
+tags: []
+user_id: julian

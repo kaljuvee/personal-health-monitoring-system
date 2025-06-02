@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/f90eaa2ceed948c2ae0d24367bba9945/artifacts
+end_time: 1748878128107
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: f90eaa2ceed948c2ae0d24367bba9945
+run_name: bald-ox-633
+run_uuid: f90eaa2ceed948c2ae0d24367bba9945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878128081
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/4b3e0a2dc81b4836b8bb0bf5ada21e6b/artifacts
+end_time: 1748878117764
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 4b3e0a2dc81b4836b8bb0bf5ada21e6b
+run_name: carefree-rook-51
+run_uuid: 4b3e0a2dc81b4836b8bb0bf5ada21e6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878117746
+status: 3
+tags: []
+user_id: julian

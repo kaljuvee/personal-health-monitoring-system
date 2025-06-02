@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/4fdba6b9836f4100a9d1de471fc611fc/artifacts
+end_time: 1748878148459
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 4fdba6b9836f4100a9d1de471fc611fc
+run_name: funny-finch-788
+run_uuid: 4fdba6b9836f4100a9d1de471fc611fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878148426
+status: 3
+tags: []
+user_id: julian

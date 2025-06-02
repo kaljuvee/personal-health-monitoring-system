@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/f73bebbec8b5473485cdf266408ff17d/artifacts
+end_time: 1748878158089
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: f73bebbec8b5473485cdf266408ff17d
+run_name: dashing-ram-163
+run_uuid: f73bebbec8b5473485cdf266408ff17d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878158054
+status: 3
+tags: []
+user_id: julian

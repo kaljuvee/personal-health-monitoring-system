@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/7e3810c03a9a46708bc4f8ab3ad41223/artifacts
+end_time: 1748878117270
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 7e3810c03a9a46708bc4f8ab3ad41223
+run_name: gifted-bass-60
+run_uuid: 7e3810c03a9a46708bc4f8ab3ad41223
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878117250
+status: 3
+tags: []
+user_id: julian

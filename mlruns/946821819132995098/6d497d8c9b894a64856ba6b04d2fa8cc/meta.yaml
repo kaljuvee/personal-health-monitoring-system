@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/6d497d8c9b894a64856ba6b04d2fa8cc/artifacts
+end_time: 1748878630615
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 6d497d8c9b894a64856ba6b04d2fa8cc
+run_name: debonair-lark-286
+run_uuid: 6d497d8c9b894a64856ba6b04d2fa8cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878630573
+status: 3
+tags: []
+user_id: julian

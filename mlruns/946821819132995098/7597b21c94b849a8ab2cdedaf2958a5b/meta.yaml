@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/7597b21c94b849a8ab2cdedaf2958a5b/artifacts
+end_time: 1748878116524
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 7597b21c94b849a8ab2cdedaf2958a5b
+run_name: abundant-toad-494
+run_uuid: 7597b21c94b849a8ab2cdedaf2958a5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878116505
+status: 3
+tags: []
+user_id: julian

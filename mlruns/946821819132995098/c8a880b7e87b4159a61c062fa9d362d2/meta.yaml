@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c8a880b7e87b4159a61c062fa9d362d2/artifacts
+end_time: 1748878630388
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c8a880b7e87b4159a61c062fa9d362d2
+run_name: peaceful-mare-306
+run_uuid: c8a880b7e87b4159a61c062fa9d362d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878630348
+status: 3
+tags: []
+user_id: julian

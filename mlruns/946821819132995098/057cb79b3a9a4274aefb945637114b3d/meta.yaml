@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/057cb79b3a9a4274aefb945637114b3d/artifacts
+end_time: 1748878126699
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 057cb79b3a9a4274aefb945637114b3d
+run_name: sincere-pug-218
+run_uuid: 057cb79b3a9a4274aefb945637114b3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878126675
+status: 3
+tags: []
+user_id: julian

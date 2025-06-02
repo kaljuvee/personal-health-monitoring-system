@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c42d3ee55ae54d2bbb990cde65c933c8/artifacts
+end_time: 1748878629037
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c42d3ee55ae54d2bbb990cde65c933c8
+run_name: able-goose-152
+run_uuid: c42d3ee55ae54d2bbb990cde65c933c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878628995
+status: 3
+tags: []
+user_id: julian

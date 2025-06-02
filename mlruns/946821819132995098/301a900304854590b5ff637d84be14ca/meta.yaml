@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/301a900304854590b5ff637d84be14ca/artifacts
+end_time: 1748878134014
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 301a900304854590b5ff637d84be14ca
+run_name: victorious-pig-784
+run_uuid: 301a900304854590b5ff637d84be14ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878133988
+status: 3
+tags: []
+user_id: julian

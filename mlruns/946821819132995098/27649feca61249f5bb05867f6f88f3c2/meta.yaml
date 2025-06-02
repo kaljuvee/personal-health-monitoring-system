@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/27649feca61249f5bb05867f6f88f3c2/artifacts
+end_time: 1748878136355
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 27649feca61249f5bb05867f6f88f3c2
+run_name: luxuriant-hound-855
+run_uuid: 27649feca61249f5bb05867f6f88f3c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878136327
+status: 3
+tags: []
+user_id: julian

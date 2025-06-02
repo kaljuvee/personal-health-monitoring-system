@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c10fcc3e2cc64f0fae581378ed9ab721/artifacts
+end_time: 1748878120321
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c10fcc3e2cc64f0fae581378ed9ab721
+run_name: upset-bee-853
+run_uuid: c10fcc3e2cc64f0fae581378ed9ab721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878120300
+status: 3
+tags: []
+user_id: julian

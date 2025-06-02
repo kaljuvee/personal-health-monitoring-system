@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/53ffcac879304bf286ae306cf0a100fd/artifacts
+end_time: 1748878132501
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 53ffcac879304bf286ae306cf0a100fd
+run_name: rumbling-goat-487
+run_uuid: 53ffcac879304bf286ae306cf0a100fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878132474
+status: 3
+tags: []
+user_id: julian

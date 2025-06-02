@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/384a60ae66884624a0c97f2391eb6576/artifacts
+end_time: 1748878157645
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 384a60ae66884624a0c97f2391eb6576
+run_name: wise-calf-556
+run_uuid: 384a60ae66884624a0c97f2391eb6576
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878157608
+status: 3
+tags: []
+user_id: julian

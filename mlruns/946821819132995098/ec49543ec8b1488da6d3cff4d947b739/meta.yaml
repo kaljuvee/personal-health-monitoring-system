@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ec49543ec8b1488da6d3cff4d947b739/artifacts
+end_time: 1748878133575
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ec49543ec8b1488da6d3cff4d947b739
+run_name: clean-flea-593
+run_uuid: ec49543ec8b1488da6d3cff4d947b739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878133548
+status: 3
+tags: []
+user_id: julian

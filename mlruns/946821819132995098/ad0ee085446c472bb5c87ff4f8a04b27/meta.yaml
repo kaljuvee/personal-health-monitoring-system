@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ad0ee085446c472bb5c87ff4f8a04b27/artifacts
+end_time: 1748878157965
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ad0ee085446c472bb5c87ff4f8a04b27
+run_name: dashing-stork-6
+run_uuid: ad0ee085446c472bb5c87ff4f8a04b27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878157930
+status: 3
+tags: []
+user_id: julian

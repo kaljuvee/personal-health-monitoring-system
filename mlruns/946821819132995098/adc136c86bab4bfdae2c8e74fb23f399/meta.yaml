@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/adc136c86bab4bfdae2c8e74fb23f399/artifacts
+end_time: 1748878138625
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: adc136c86bab4bfdae2c8e74fb23f399
+run_name: amusing-moth-46
+run_uuid: adc136c86bab4bfdae2c8e74fb23f399
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878138596
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c3d43d7324c648a38112cf40639d0a56/artifacts
+end_time: 1748878151684
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c3d43d7324c648a38112cf40639d0a56
+run_name: clumsy-stoat-346
+run_uuid: c3d43d7324c648a38112cf40639d0a56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878151649
+status: 3
+tags: []
+user_id: julian

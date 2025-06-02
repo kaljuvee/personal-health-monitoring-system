@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/fd56d9ffe1a348e68a7e802f861a453f/artifacts
+end_time: 1748878135364
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: fd56d9ffe1a348e68a7e802f861a453f
+run_name: resilient-quail-773
+run_uuid: fd56d9ffe1a348e68a7e802f861a453f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878135336
+status: 3
+tags: []
+user_id: julian

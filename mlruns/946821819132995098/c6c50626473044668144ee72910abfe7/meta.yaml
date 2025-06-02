@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c6c50626473044668144ee72910abfe7/artifacts
+end_time: 1748878115919
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c6c50626473044668144ee72910abfe7
+run_name: indecisive-bat-293
+run_uuid: c6c50626473044668144ee72910abfe7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878115898
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/890f70b31ca94cb3ba291316766ff490/artifacts
+end_time: 1748878127413
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 890f70b31ca94cb3ba291316766ff490
+run_name: shivering-sponge-844
+run_uuid: 890f70b31ca94cb3ba291316766ff490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878127388
+status: 3
+tags: []
+user_id: julian

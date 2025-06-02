@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/636c932a442d4f93acac682203ee058b/artifacts
+end_time: 1748878624799
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 636c932a442d4f93acac682203ee058b
+run_name: enchanting-shad-506
+run_uuid: 636c932a442d4f93acac682203ee058b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878624759
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/4be499471c994dd3b18a7d5c83d8842e/artifacts
+end_time: 1748878625014
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 4be499471c994dd3b18a7d5c83d8842e
+run_name: beautiful-squid-881
+run_uuid: 4be499471c994dd3b18a7d5c83d8842e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878624974
+status: 3
+tags: []
+user_id: julian

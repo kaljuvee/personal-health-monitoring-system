@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/dad0ceac4f0544fca477c9e5779cedf1/artifacts
+end_time: 1748878620041
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: dad0ceac4f0544fca477c9e5779cedf1
+run_name: glamorous-fowl-295
+run_uuid: dad0ceac4f0544fca477c9e5779cedf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878620001
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/9f439c01e4ba45b386f17361ad86bf18/artifacts
+end_time: 1748878154528
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 9f439c01e4ba45b386f17361ad86bf18
+run_name: industrious-bug-721
+run_uuid: 9f439c01e4ba45b386f17361ad86bf18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878154494
+status: 3
+tags: []
+user_id: julian

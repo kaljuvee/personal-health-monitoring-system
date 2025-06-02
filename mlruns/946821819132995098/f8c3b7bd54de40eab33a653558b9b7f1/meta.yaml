@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/f8c3b7bd54de40eab33a653558b9b7f1/artifacts
+end_time: 1748878621682
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: f8c3b7bd54de40eab33a653558b9b7f1
+run_name: rebellious-hound-48
+run_uuid: f8c3b7bd54de40eab33a653558b9b7f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878621642
+status: 3
+tags: []
+user_id: julian

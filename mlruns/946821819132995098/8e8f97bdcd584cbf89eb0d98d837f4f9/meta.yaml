@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/8e8f97bdcd584cbf89eb0d98d837f4f9/artifacts
+end_time: 1748878136290
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 8e8f97bdcd584cbf89eb0d98d837f4f9
+run_name: rogue-carp-680
+run_uuid: 8e8f97bdcd584cbf89eb0d98d837f4f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878136262
+status: 3
+tags: []
+user_id: julian

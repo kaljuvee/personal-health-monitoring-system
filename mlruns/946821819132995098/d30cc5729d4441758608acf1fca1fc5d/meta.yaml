@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d30cc5729d4441758608acf1fca1fc5d/artifacts
+end_time: 1748878119414
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d30cc5729d4441758608acf1fca1fc5d
+run_name: incongruous-gull-299
+run_uuid: d30cc5729d4441758608acf1fca1fc5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878119394
+status: 3
+tags: []
+user_id: julian

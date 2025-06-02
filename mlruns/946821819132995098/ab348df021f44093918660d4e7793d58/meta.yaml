@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ab348df021f44093918660d4e7793d58/artifacts
+end_time: 1748878145745
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ab348df021f44093918660d4e7793d58
+run_name: flawless-gnu-400
+run_uuid: ab348df021f44093918660d4e7793d58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878145712
+status: 3
+tags: []
+user_id: julian

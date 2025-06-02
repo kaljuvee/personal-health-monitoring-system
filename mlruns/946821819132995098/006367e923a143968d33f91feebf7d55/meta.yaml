@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/006367e923a143968d33f91feebf7d55/artifacts
+end_time: 1748878120677
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 006367e923a143968d33f91feebf7d55
+run_name: enthused-shrike-38
+run_uuid: 006367e923a143968d33f91feebf7d55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878120656
+status: 3
+tags: []
+user_id: julian

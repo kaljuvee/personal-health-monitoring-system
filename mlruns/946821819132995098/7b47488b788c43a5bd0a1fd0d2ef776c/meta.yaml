@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/7b47488b788c43a5bd0a1fd0d2ef776c/artifacts
+end_time: 1748878137993
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 7b47488b788c43a5bd0a1fd0d2ef776c
+run_name: handsome-yak-767
+run_uuid: 7b47488b788c43a5bd0a1fd0d2ef776c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878137960
+status: 3
+tags: []
+user_id: julian

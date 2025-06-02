@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/54ada4e7a02f4780a0ec8ab48cdeabdf/artifacts
+end_time: 1748878118872
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 54ada4e7a02f4780a0ec8ab48cdeabdf
+run_name: entertaining-pig-3
+run_uuid: 54ada4e7a02f4780a0ec8ab48cdeabdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878118851
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/698a6e2eb4f5486ba38abaa19eba903f/artifacts
+end_time: 1748878116159
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 698a6e2eb4f5486ba38abaa19eba903f
+run_name: melodic-crow-931
+run_uuid: 698a6e2eb4f5486ba38abaa19eba903f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878116141
+status: 3
+tags: []
+user_id: julian

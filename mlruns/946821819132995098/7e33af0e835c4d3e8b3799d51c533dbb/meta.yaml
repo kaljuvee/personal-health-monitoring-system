@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/7e33af0e835c4d3e8b3799d51c533dbb/artifacts
+end_time: 1748878119220
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 7e33af0e835c4d3e8b3799d51c533dbb
+run_name: wise-hog-89
+run_uuid: 7e33af0e835c4d3e8b3799d51c533dbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878119198
+status: 3
+tags: []
+user_id: julian

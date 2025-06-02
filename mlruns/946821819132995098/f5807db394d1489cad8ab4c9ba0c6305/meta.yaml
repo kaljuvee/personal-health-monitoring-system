@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/f5807db394d1489cad8ab4c9ba0c6305/artifacts
+end_time: 1748878155096
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: f5807db394d1489cad8ab4c9ba0c6305
+run_name: luxuriant-snipe-302
+run_uuid: f5807db394d1489cad8ab4c9ba0c6305
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878155060
+status: 3
+tags: []
+user_id: julian

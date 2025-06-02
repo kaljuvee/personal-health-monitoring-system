@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/e3d9334514e64ab8af99913f70bd17db/artifacts
+end_time: 1748878123731
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: e3d9334514e64ab8af99913f70bd17db
+run_name: traveling-skink-593
+run_uuid: e3d9334514e64ab8af99913f70bd17db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878123709
+status: 3
+tags: []
+user_id: julian

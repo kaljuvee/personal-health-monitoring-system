@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/aa167256bfa440578d30c1f426cf90c0/artifacts
+end_time: 1748878113528
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: aa167256bfa440578d30c1f426cf90c0
+run_name: glamorous-mare-76
+run_uuid: aa167256bfa440578d30c1f426cf90c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878113510
+status: 3
+tags: []
+user_id: julian

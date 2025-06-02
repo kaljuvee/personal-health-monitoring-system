@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/e10004f50f2d43329dffc2d4ef2cfd67/artifacts
+end_time: 1748878118459
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: e10004f50f2d43329dffc2d4ef2cfd67
+run_name: wise-chimp-525
+run_uuid: e10004f50f2d43329dffc2d4ef2cfd67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878118439
+status: 3
+tags: []
+user_id: julian

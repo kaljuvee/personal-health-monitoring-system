@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/6d7bc6de9ee644d9aa0368df130593bf/artifacts
+end_time: 1748878153937
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 6d7bc6de9ee644d9aa0368df130593bf
+run_name: gaudy-loon-612
+run_uuid: 6d7bc6de9ee644d9aa0368df130593bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878153901
+status: 3
+tags: []
+user_id: julian

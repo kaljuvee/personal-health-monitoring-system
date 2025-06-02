@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/739a100f057b4e4b9517e3270905710a/artifacts
+end_time: 1748878125460
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 739a100f057b4e4b9517e3270905710a
+run_name: calm-mink-560
+run_uuid: 739a100f057b4e4b9517e3270905710a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878125436
+status: 3
+tags: []
+user_id: julian

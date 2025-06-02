@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/4b07ebb8da574781bbd10439ec7fea8a/artifacts
+end_time: 1748878116294
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 4b07ebb8da574781bbd10439ec7fea8a
+run_name: luminous-mule-541
+run_uuid: 4b07ebb8da574781bbd10439ec7fea8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878116275
+status: 3
+tags: []
+user_id: julian

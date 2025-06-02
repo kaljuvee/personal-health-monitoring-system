@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/fdbe6d5052c44b5496290a5664abd278/artifacts
+end_time: 1748878120726
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: fdbe6d5052c44b5496290a5664abd278
+run_name: rebellious-fawn-936
+run_uuid: fdbe6d5052c44b5496290a5664abd278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878120704
+status: 3
+tags: []
+user_id: julian

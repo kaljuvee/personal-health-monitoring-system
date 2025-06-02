@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/9dff996c721e4eabbdb84c2c7809b068/artifacts
+end_time: 1748878132901
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 9dff996c721e4eabbdb84c2c7809b068
+run_name: nosy-pig-536
+run_uuid: 9dff996c721e4eabbdb84c2c7809b068
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878132874
+status: 3
+tags: []
+user_id: julian

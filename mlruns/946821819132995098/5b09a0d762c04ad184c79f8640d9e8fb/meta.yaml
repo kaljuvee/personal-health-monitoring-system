@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/5b09a0d762c04ad184c79f8640d9e8fb/artifacts
+end_time: 1748878126253
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 5b09a0d762c04ad184c79f8640d9e8fb
+run_name: blushing-donkey-376
+run_uuid: 5b09a0d762c04ad184c79f8640d9e8fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878126229
+status: 3
+tags: []
+user_id: julian

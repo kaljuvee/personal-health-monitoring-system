@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/5e943d84c6d34d3eab2a6414d618a582/artifacts
+end_time: 1748878629398
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 5e943d84c6d34d3eab2a6414d618a582
+run_name: stately-hog-210
+run_uuid: 5e943d84c6d34d3eab2a6414d618a582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878629359
+status: 3
+tags: []
+user_id: julian

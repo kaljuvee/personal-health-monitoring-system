@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d7d82a4d0e1a4bf5ab61d518b486265f/artifacts
+end_time: 1748878122243
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d7d82a4d0e1a4bf5ab61d518b486265f
+run_name: painted-smelt-572
+run_uuid: d7d82a4d0e1a4bf5ab61d518b486265f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878122221
+status: 3
+tags: []
+user_id: julian

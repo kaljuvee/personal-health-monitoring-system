@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ebfa8ead67ce4872918708be783322fd/artifacts
+end_time: 1748878623598
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ebfa8ead67ce4872918708be783322fd
+run_name: loud-elk-587
+run_uuid: ebfa8ead67ce4872918708be783322fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878623559
+status: 3
+tags: []
+user_id: julian

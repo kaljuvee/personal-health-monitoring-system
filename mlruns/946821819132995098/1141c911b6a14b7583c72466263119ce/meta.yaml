@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/1141c911b6a14b7583c72466263119ce/artifacts
+end_time: 1748878622947
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 1141c911b6a14b7583c72466263119ce
+run_name: lyrical-smelt-419
+run_uuid: 1141c911b6a14b7583c72466263119ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878622909
+status: 3
+tags: []
+user_id: julian

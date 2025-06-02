@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/4662ac4e1c2742d68f40d4cbfd5a8735/artifacts
+end_time: 1748878121735
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 4662ac4e1c2742d68f40d4cbfd5a8735
+run_name: caring-eel-333
+run_uuid: 4662ac4e1c2742d68f40d4cbfd5a8735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878121713
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/97fa7a20aba74457aee0672c6d7aca95/artifacts
+end_time: 1748878112968
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 97fa7a20aba74457aee0672c6d7aca95
+run_name: amazing-hawk-291
+run_uuid: 97fa7a20aba74457aee0672c6d7aca95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878112952
+status: 3
+tags: []
+user_id: julian

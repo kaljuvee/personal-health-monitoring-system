@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/4e04d30a81024f33943ee07e934ced1f/artifacts
+end_time: 1748878151606
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 4e04d30a81024f33943ee07e934ced1f
+run_name: angry-foal-97
+run_uuid: 4e04d30a81024f33943ee07e934ced1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878151572
+status: 3
+tags: []
+user_id: julian

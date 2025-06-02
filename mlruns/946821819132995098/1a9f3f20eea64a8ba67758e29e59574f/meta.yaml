@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/1a9f3f20eea64a8ba67758e29e59574f/artifacts
+end_time: 1748878122370
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 1a9f3f20eea64a8ba67758e29e59574f
+run_name: agreeable-trout-879
+run_uuid: 1a9f3f20eea64a8ba67758e29e59574f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878122347
+status: 3
+tags: []
+user_id: julian

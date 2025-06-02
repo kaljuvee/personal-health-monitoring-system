@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/77c3f9d91b25468ebedbce6fd3a10f07/artifacts
+end_time: 1748878163264
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 77c3f9d91b25468ebedbce6fd3a10f07
+run_name: hilarious-koi-195
+run_uuid: 77c3f9d91b25468ebedbce6fd3a10f07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878163226
+status: 3
+tags: []
+user_id: julian

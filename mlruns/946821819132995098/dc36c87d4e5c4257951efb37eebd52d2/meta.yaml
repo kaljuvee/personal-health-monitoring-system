@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/dc36c87d4e5c4257951efb37eebd52d2/artifacts
+end_time: 1748878155542
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: dc36c87d4e5c4257951efb37eebd52d2
+run_name: monumental-loon-938
+run_uuid: dc36c87d4e5c4257951efb37eebd52d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878155502
+status: 3
+tags: []
+user_id: julian

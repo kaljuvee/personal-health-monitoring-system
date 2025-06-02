@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/72779fab45c540d79635b392da8437fd/artifacts
+end_time: 1748878121070
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 72779fab45c540d79635b392da8437fd
+run_name: mysterious-rat-120
+run_uuid: 72779fab45c540d79635b392da8437fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878121043
+status: 3
+tags: []
+user_id: julian

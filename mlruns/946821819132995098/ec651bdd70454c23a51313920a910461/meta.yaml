@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ec651bdd70454c23a51313920a910461/artifacts
+end_time: 1748878630992
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ec651bdd70454c23a51313920a910461
+run_name: ambitious-sponge-306
+run_uuid: ec651bdd70454c23a51313920a910461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878630950
+status: 3
+tags: []
+user_id: julian

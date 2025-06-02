@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d47f7d57454a4fd1be3852e80feeddcc/artifacts
+end_time: 1748878157563
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d47f7d57454a4fd1be3852e80feeddcc
+run_name: adorable-donkey-200
+run_uuid: d47f7d57454a4fd1be3852e80feeddcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878157528
+status: 3
+tags: []
+user_id: julian

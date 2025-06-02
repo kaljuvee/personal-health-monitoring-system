@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/6c976006ea8c4a58914ef6c4d41d93df/artifacts
+end_time: 1748878624755
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 6c976006ea8c4a58914ef6c4d41d93df
+run_name: bright-eel-830
+run_uuid: 6c976006ea8c4a58914ef6c4d41d93df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878624717
+status: 3
+tags: []
+user_id: julian

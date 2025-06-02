@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/22f36ddf68db469a81a80988fc4d8c8a/artifacts
+end_time: 1748878124769
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 22f36ddf68db469a81a80988fc4d8c8a
+run_name: nebulous-frog-454
+run_uuid: 22f36ddf68db469a81a80988fc4d8c8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878124744
+status: 3
+tags: []
+user_id: julian

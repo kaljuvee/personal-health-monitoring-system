@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/5aeb897b4ff842cc9c47e358559d201f/artifacts
+end_time: 1748878129864
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 5aeb897b4ff842cc9c47e358559d201f
+run_name: clean-snipe-899
+run_uuid: 5aeb897b4ff842cc9c47e358559d201f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878129837
+status: 3
+tags: []
+user_id: julian

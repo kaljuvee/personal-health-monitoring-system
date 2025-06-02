@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/b1a35e5710084c108995a99a59171639/artifacts
+end_time: 1748878149542
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: b1a35e5710084c108995a99a59171639
+run_name: capable-frog-671
+run_uuid: b1a35e5710084c108995a99a59171639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878149508
+status: 3
+tags: []
+user_id: julian

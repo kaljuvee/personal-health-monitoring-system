@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/9755f9b9806041df9023d1b6c6755ba8/artifacts
+end_time: 1748878134640
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 9755f9b9806041df9023d1b6c6755ba8
+run_name: bald-fawn-326
+run_uuid: 9755f9b9806041df9023d1b6c6755ba8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878134611
+status: 3
+tags: []
+user_id: julian

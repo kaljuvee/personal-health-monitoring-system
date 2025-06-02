@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/72a0e204f42b4f349eda8d8c82fb30ab/artifacts
+end_time: 1748878627664
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 72a0e204f42b4f349eda8d8c82fb30ab
+run_name: blushing-squirrel-81
+run_uuid: 72a0e204f42b4f349eda8d8c82fb30ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878627625
+status: 3
+tags: []
+user_id: julian

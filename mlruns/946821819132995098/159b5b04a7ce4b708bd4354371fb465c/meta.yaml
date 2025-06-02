@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/159b5b04a7ce4b708bd4354371fb465c/artifacts
+end_time: 1748878135460
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 159b5b04a7ce4b708bd4354371fb465c
+run_name: upset-seal-805
+run_uuid: 159b5b04a7ce4b708bd4354371fb465c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878135432
+status: 3
+tags: []
+user_id: julian

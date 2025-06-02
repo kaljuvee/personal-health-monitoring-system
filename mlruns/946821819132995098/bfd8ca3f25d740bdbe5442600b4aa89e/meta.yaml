@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/bfd8ca3f25d740bdbe5442600b4aa89e/artifacts
+end_time: 1748878131692
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: bfd8ca3f25d740bdbe5442600b4aa89e
+run_name: colorful-worm-374
+run_uuid: bfd8ca3f25d740bdbe5442600b4aa89e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878131665
+status: 3
+tags: []
+user_id: julian

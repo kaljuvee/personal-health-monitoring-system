@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d12ce897ebfd46c1b02996860ed55b55/artifacts
+end_time: 1748878133670
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d12ce897ebfd46c1b02996860ed55b55
+run_name: flawless-horse-471
+run_uuid: d12ce897ebfd46c1b02996860ed55b55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878133643
+status: 3
+tags: []
+user_id: julian

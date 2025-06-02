@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ec80c7596af546a9b861b9a3fd4f9d62/artifacts
+end_time: 1748878141957
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ec80c7596af546a9b861b9a3fd4f9d62
+run_name: debonair-worm-822
+run_uuid: ec80c7596af546a9b861b9a3fd4f9d62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878141926
+status: 3
+tags: []
+user_id: julian

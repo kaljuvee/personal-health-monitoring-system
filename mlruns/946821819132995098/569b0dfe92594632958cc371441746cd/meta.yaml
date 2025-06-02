@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/569b0dfe92594632958cc371441746cd/artifacts
+end_time: 1748878120074
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 569b0dfe92594632958cc371441746cd
+run_name: stately-loon-328
+run_uuid: 569b0dfe92594632958cc371441746cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878120052
+status: 3
+tags: []
+user_id: julian

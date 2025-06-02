@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/0652ddb1667e4b749d5c047f8f1e61f5/artifacts
+end_time: 1748878160516
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 0652ddb1667e4b749d5c047f8f1e61f5
+run_name: dashing-wolf-60
+run_uuid: 0652ddb1667e4b749d5c047f8f1e61f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878160479
+status: 3
+tags: []
+user_id: julian

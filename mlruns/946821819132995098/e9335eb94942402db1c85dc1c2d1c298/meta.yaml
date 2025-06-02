@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/e9335eb94942402db1c85dc1c2d1c298/artifacts
+end_time: 1748878137956
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: e9335eb94942402db1c85dc1c2d1c298
+run_name: efficient-sheep-9
+run_uuid: e9335eb94942402db1c85dc1c2d1c298
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878137927
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/16468e3bf8ea4381a314a82f6cd14f05/artifacts
+end_time: 1748878148015
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 16468e3bf8ea4381a314a82f6cd14f05
+run_name: intrigued-whale-48
+run_uuid: 16468e3bf8ea4381a314a82f6cd14f05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878147981
+status: 3
+tags: []
+user_id: julian

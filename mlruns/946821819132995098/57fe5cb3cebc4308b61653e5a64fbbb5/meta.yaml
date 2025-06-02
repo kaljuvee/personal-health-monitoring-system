@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/57fe5cb3cebc4308b61653e5a64fbbb5/artifacts
+end_time: 1748878139999
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 57fe5cb3cebc4308b61653e5a64fbbb5
+run_name: clean-wolf-283
+run_uuid: 57fe5cb3cebc4308b61653e5a64fbbb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878139970
+status: 3
+tags: []
+user_id: julian

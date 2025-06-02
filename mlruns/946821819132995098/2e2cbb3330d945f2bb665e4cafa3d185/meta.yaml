@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/2e2cbb3330d945f2bb665e4cafa3d185/artifacts
+end_time: 1748878141115
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 2e2cbb3330d945f2bb665e4cafa3d185
+run_name: classy-asp-42
+run_uuid: 2e2cbb3330d945f2bb665e4cafa3d185
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878141085
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/090c450ddf1b4abd98291f0993e1323f/artifacts
+end_time: 1748878131234
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 090c450ddf1b4abd98291f0993e1323f
+run_name: valuable-sponge-375
+run_uuid: 090c450ddf1b4abd98291f0993e1323f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878131207
+status: 3
+tags: []
+user_id: julian

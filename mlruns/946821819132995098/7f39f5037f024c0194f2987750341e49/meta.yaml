@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/7f39f5037f024c0194f2987750341e49/artifacts
+end_time: 1748878141355
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 7f39f5037f024c0194f2987750341e49
+run_name: sincere-moth-632
+run_uuid: 7f39f5037f024c0194f2987750341e49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878141324
+status: 3
+tags: []
+user_id: julian

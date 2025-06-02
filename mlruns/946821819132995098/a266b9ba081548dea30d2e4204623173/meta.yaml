@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/a266b9ba081548dea30d2e4204623173/artifacts
+end_time: 1748878149921
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: a266b9ba081548dea30d2e4204623173
+run_name: dashing-shoat-338
+run_uuid: a266b9ba081548dea30d2e4204623173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878149886
+status: 3
+tags: []
+user_id: julian

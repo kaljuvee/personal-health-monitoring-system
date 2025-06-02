@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/a670a8a15c9f4292a9d5f6a881a922a2/artifacts
+end_time: 1748878129746
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: a670a8a15c9f4292a9d5f6a881a922a2
+run_name: carefree-bee-403
+run_uuid: a670a8a15c9f4292a9d5f6a881a922a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878129720
+status: 3
+tags: []
+user_id: julian

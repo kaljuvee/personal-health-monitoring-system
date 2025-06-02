@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/605c2f87c45246d8940e99f94aa2b91f/artifacts
+end_time: 1748878130244
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 605c2f87c45246d8940e99f94aa2b91f
+run_name: receptive-squid-372
+run_uuid: 605c2f87c45246d8940e99f94aa2b91f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878130219
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/7c29cfa79d044c98844afc44e654c44f/artifacts
+end_time: 1748878163133
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 7c29cfa79d044c98844afc44e654c44f
+run_name: learned-pig-241
+run_uuid: 7c29cfa79d044c98844afc44e654c44f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878163094
+status: 3
+tags: []
+user_id: julian

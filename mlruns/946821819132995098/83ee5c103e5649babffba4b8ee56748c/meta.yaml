@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/83ee5c103e5649babffba4b8ee56748c/artifacts
+end_time: 1748878159028
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 83ee5c103e5649babffba4b8ee56748c
+run_name: peaceful-mink-235
+run_uuid: 83ee5c103e5649babffba4b8ee56748c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878158991
+status: 3
+tags: []
+user_id: julian

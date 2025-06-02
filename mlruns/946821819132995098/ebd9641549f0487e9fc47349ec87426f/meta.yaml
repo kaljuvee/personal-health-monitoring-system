@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ebd9641549f0487e9fc47349ec87426f/artifacts
+end_time: 1748878623813
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ebd9641549f0487e9fc47349ec87426f
+run_name: likeable-roo-941
+run_uuid: ebd9641549f0487e9fc47349ec87426f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878623775
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/0975c59122de48429f85daf75b1f5ba4/artifacts
+end_time: 1748878150901
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 0975c59122de48429f85daf75b1f5ba4
+run_name: bouncy-shrew-743
+run_uuid: 0975c59122de48429f85daf75b1f5ba4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878150866
+status: 3
+tags: []
+user_id: julian

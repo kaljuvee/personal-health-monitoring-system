@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c81e24c4836b4d0281b76f7ac5ba46be/artifacts
+end_time: 1748878139289
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c81e24c4836b4d0281b76f7ac5ba46be
+run_name: learned-roo-903
+run_uuid: c81e24c4836b4d0281b76f7ac5ba46be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878139260
+status: 3
+tags: []
+user_id: julian

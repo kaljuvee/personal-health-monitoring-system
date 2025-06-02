@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/4cdcc5b5ff984c2da89d937c3c8739bf/artifacts
+end_time: 1748878150339
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 4cdcc5b5ff984c2da89d937c3c8739bf
+run_name: youthful-stoat-721
+run_uuid: 4cdcc5b5ff984c2da89d937c3c8739bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878150304
+status: 3
+tags: []
+user_id: julian

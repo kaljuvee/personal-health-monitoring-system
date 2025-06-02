@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/37643273d0074ff5819451b25e536e64/artifacts
+end_time: 1748878131510
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 37643273d0074ff5819451b25e536e64
+run_name: inquisitive-newt-62
+run_uuid: 37643273d0074ff5819451b25e536e64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878131483
+status: 3
+tags: []
+user_id: julian

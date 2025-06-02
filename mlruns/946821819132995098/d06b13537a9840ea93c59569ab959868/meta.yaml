@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d06b13537a9840ea93c59569ab959868/artifacts
+end_time: 1748878114228
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d06b13537a9840ea93c59569ab959868
+run_name: whimsical-skunk-26
+run_uuid: d06b13537a9840ea93c59569ab959868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878114210
+status: 3
+tags: []
+user_id: julian

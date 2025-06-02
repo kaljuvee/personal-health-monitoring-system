@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/4008ec82144a41eaa9baa69038894c76/artifacts
+end_time: 1748878163090
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 4008ec82144a41eaa9baa69038894c76
+run_name: worried-skink-516
+run_uuid: 4008ec82144a41eaa9baa69038894c76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878163052
+status: 3
+tags: []
+user_id: julian

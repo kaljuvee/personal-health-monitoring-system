@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ce61ccd991da45839507f152ea477e7b/artifacts
+end_time: 1748878113507
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ce61ccd991da45839507f152ea477e7b
+run_name: powerful-shrimp-398
+run_uuid: ce61ccd991da45839507f152ea477e7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878113489
+status: 3
+tags: []
+user_id: julian

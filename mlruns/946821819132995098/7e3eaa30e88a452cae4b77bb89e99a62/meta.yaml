@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/7e3eaa30e88a452cae4b77bb89e99a62/artifacts
+end_time: 1748878128785
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 7e3eaa30e88a452cae4b77bb89e99a62
+run_name: placid-roo-812
+run_uuid: 7e3eaa30e88a452cae4b77bb89e99a62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878128759
+status: 3
+tags: []
+user_id: julian

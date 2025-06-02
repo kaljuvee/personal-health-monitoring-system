@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/9fc17a77784e4988883b0a9cea705236/artifacts
+end_time: 1748878155015
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 9fc17a77784e4988883b0a9cea705236
+run_name: nosy-gnat-570
+run_uuid: 9fc17a77784e4988883b0a9cea705236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878154979
+status: 3
+tags: []
+user_id: julian

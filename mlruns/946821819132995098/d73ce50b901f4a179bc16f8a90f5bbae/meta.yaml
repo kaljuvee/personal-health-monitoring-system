@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d73ce50b901f4a179bc16f8a90f5bbae/artifacts
+end_time: 1748878127385
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d73ce50b901f4a179bc16f8a90f5bbae
+run_name: useful-fawn-246
+run_uuid: d73ce50b901f4a179bc16f8a90f5bbae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878127360
+status: 3
+tags: []
+user_id: julian

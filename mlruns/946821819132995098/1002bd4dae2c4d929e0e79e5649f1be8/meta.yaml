@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/1002bd4dae2c4d929e0e79e5649f1be8/artifacts
+end_time: 1748878145815
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 1002bd4dae2c4d929e0e79e5649f1be8
+run_name: nervous-fox-294
+run_uuid: 1002bd4dae2c4d929e0e79e5649f1be8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878145783
+status: 3
+tags: []
+user_id: julian

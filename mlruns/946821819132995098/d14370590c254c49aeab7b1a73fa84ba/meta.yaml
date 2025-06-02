@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d14370590c254c49aeab7b1a73fa84ba/artifacts
+end_time: 1748878137757
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d14370590c254c49aeab7b1a73fa84ba
+run_name: nervous-eel-585
+run_uuid: d14370590c254c49aeab7b1a73fa84ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878137728
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/6635175d3bda4d1ebe48bcb29490b5a3/artifacts
+end_time: 1748878152537
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 6635175d3bda4d1ebe48bcb29490b5a3
+run_name: welcoming-asp-830
+run_uuid: 6635175d3bda4d1ebe48bcb29490b5a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878152504
+status: 3
+tags: []
+user_id: julian

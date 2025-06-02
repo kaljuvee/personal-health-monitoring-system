@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/f4b87800472c43eab674a27e0b5d5899/artifacts
+end_time: 1748878139931
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: f4b87800472c43eab674a27e0b5d5899
+run_name: luminous-chimp-902
+run_uuid: f4b87800472c43eab674a27e0b5d5899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878139902
+status: 3
+tags: []
+user_id: julian

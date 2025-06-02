@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/fe53a13aaa03463a9239eb55c1dc1b13/artifacts
+end_time: 1748878132327
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: fe53a13aaa03463a9239eb55c1dc1b13
+run_name: kindly-bass-621
+run_uuid: fe53a13aaa03463a9239eb55c1dc1b13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878132300
+status: 3
+tags: []
+user_id: julian

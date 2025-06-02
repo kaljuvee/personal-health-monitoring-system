@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d2d041ff7ce742eeac5632ec7561c17b/artifacts
+end_time: 1748878137593
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d2d041ff7ce742eeac5632ec7561c17b
+run_name: handsome-fish-858
+run_uuid: d2d041ff7ce742eeac5632ec7561c17b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878137564
+status: 3
+tags: []
+user_id: julian

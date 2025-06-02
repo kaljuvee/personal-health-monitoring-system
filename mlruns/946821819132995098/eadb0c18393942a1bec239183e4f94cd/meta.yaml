@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/eadb0c18393942a1bec239183e4f94cd/artifacts
+end_time: 1748878623034
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: eadb0c18393942a1bec239183e4f94cd
+run_name: handsome-mouse-482
+run_uuid: eadb0c18393942a1bec239183e4f94cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878622994
+status: 3
+tags: []
+user_id: julian

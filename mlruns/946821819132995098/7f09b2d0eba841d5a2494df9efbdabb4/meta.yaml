@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/7f09b2d0eba841d5a2494df9efbdabb4/artifacts
+end_time: 1748878159810
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 7f09b2d0eba841d5a2494df9efbdabb4
+run_name: fearless-sloth-764
+run_uuid: 7f09b2d0eba841d5a2494df9efbdabb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878159774
+status: 3
+tags: []
+user_id: julian

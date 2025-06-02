@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/647ed386b33240d3a8e8a8f4fd18a672/artifacts
+end_time: 1748878124418
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 647ed386b33240d3a8e8a8f4fd18a672
+run_name: luminous-fox-587
+run_uuid: 647ed386b33240d3a8e8a8f4fd18a672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878124395
+status: 3
+tags: []
+user_id: julian

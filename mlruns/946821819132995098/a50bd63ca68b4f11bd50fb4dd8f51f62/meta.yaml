@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/a50bd63ca68b4f11bd50fb4dd8f51f62/artifacts
+end_time: 1748878157887
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: a50bd63ca68b4f11bd50fb4dd8f51f62
+run_name: delightful-sow-962
+run_uuid: a50bd63ca68b4f11bd50fb4dd8f51f62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878157850
+status: 3
+tags: []
+user_id: julian

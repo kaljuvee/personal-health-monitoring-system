@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/2740ad4bb0ed4d49b9a7ff964bd10224/artifacts
+end_time: 1748878121761
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 2740ad4bb0ed4d49b9a7ff964bd10224
+run_name: loud-robin-710
+run_uuid: 2740ad4bb0ed4d49b9a7ff964bd10224
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878121738
+status: 3
+tags: []
+user_id: julian

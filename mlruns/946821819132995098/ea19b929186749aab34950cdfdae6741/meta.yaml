@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ea19b929186749aab34950cdfdae6741/artifacts
+end_time: 1748878138559
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ea19b929186749aab34950cdfdae6741
+run_name: rumbling-chimp-685
+run_uuid: ea19b929186749aab34950cdfdae6741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878138530
+status: 3
+tags: []
+user_id: julian

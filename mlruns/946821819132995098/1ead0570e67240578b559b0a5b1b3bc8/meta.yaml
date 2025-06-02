@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/1ead0570e67240578b559b0a5b1b3bc8/artifacts
+end_time: 1748878619952
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 1ead0570e67240578b559b0a5b1b3bc8
+run_name: gaudy-worm-839
+run_uuid: 1ead0570e67240578b559b0a5b1b3bc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878619912
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/dd0ee4c8126a4e9a8a15721b432c962d/artifacts
+end_time: 1748878626528
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: dd0ee4c8126a4e9a8a15721b432c962d
+run_name: resilient-frog-613
+run_uuid: dd0ee4c8126a4e9a8a15721b432c962d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878626483
+status: 3
+tags: []
+user_id: julian

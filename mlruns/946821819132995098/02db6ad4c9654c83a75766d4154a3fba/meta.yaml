@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/02db6ad4c9654c83a75766d4154a3fba/artifacts
+end_time: 1748878125231
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 02db6ad4c9654c83a75766d4154a3fba
+run_name: exultant-donkey-500
+run_uuid: 02db6ad4c9654c83a75766d4154a3fba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878125208
+status: 3
+tags: []
+user_id: julian

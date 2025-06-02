@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/82bee61bf0834e679fe3f0b3ad8d2d27/artifacts
+end_time: 1748878143475
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 82bee61bf0834e679fe3f0b3ad8d2d27
+run_name: brawny-hound-547
+run_uuid: 82bee61bf0834e679fe3f0b3ad8d2d27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878143445
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/86bb8380403a4329a81c4a8425617356/artifacts
+end_time: 1748878141500
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 86bb8380403a4329a81c4a8425617356
+run_name: shivering-mouse-988
+run_uuid: 86bb8380403a4329a81c4a8425617356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878141469
+status: 3
+tags: []
+user_id: julian

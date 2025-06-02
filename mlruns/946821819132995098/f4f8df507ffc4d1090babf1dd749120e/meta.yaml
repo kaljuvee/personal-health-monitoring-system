@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/f4f8df507ffc4d1090babf1dd749120e/artifacts
+end_time: 1748878151066
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: f4f8df507ffc4d1090babf1dd749120e
+run_name: carefree-snipe-89
+run_uuid: f4f8df507ffc4d1090babf1dd749120e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878151024
+status: 3
+tags: []
+user_id: julian

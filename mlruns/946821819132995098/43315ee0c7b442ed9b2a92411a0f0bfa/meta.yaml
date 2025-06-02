@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/43315ee0c7b442ed9b2a92411a0f0bfa/artifacts
+end_time: 1748878631228
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 43315ee0c7b442ed9b2a92411a0f0bfa
+run_name: flawless-foal-100
+run_uuid: 43315ee0c7b442ed9b2a92411a0f0bfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878631187
+status: 3
+tags: []
+user_id: julian

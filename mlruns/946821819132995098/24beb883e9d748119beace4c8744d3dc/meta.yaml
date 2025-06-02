@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/24beb883e9d748119beace4c8744d3dc/artifacts
+end_time: 1748878118242
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 24beb883e9d748119beace4c8744d3dc
+run_name: serious-lark-71
+run_uuid: 24beb883e9d748119beace4c8744d3dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878118222
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/4538eaa4438d4bad889a0231d3dc1dab/artifacts
+end_time: 1748878144289
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 4538eaa4438d4bad889a0231d3dc1dab
+run_name: colorful-wasp-399
+run_uuid: 4538eaa4438d4bad889a0231d3dc1dab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878144258
+status: 3
+tags: []
+user_id: julian

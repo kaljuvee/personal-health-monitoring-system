@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/bbac6a835e6c4f27b22cacf7bc748c9f/artifacts
+end_time: 1748878627937
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: bbac6a835e6c4f27b22cacf7bc748c9f
+run_name: valuable-pig-723
+run_uuid: bbac6a835e6c4f27b22cacf7bc748c9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878627897
+status: 3
+tags: []
+user_id: julian

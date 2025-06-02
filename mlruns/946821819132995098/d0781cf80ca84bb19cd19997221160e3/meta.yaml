@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d0781cf80ca84bb19cd19997221160e3/artifacts
+end_time: 1748878628945
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d0781cf80ca84bb19cd19997221160e3
+run_name: upbeat-sow-634
+run_uuid: d0781cf80ca84bb19cd19997221160e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878628904
+status: 3
+tags: []
+user_id: julian

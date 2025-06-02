@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/2adfb32a56794325b1b0e4302ce09710/artifacts
+end_time: 1748878137496
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 2adfb32a56794325b1b0e4302ce09710
+run_name: rumbling-whale-515
+run_uuid: 2adfb32a56794325b1b0e4302ce09710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878137466
+status: 3
+tags: []
+user_id: julian

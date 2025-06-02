@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/171e318aed0742f2ba079039c138fd2d/artifacts
+end_time: 1748878148089
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 171e318aed0742f2ba079039c138fd2d
+run_name: sincere-squirrel-450
+run_uuid: 171e318aed0742f2ba079039c138fd2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878148057
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/38615482c919461584b1ebd412f59366/artifacts
+end_time: 1748878161571
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 38615482c919461584b1ebd412f59366
+run_name: secretive-squid-508
+run_uuid: 38615482c919461584b1ebd412f59366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878161533
+status: 3
+tags: []
+user_id: julian

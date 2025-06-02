@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/3c46b8783b4142ea8f4800f6a06a5d4f/artifacts
+end_time: 1748878156096
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 3c46b8783b4142ea8f4800f6a06a5d4f
+run_name: zealous-hound-587
+run_uuid: 3c46b8783b4142ea8f4800f6a06a5d4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878156061
+status: 3
+tags: []
+user_id: julian

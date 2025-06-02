@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/711d8a82300647a98406408d4a9daa7a/artifacts
+end_time: 1748878124311
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 711d8a82300647a98406408d4a9daa7a
+run_name: sassy-vole-218
+run_uuid: 711d8a82300647a98406408d4a9daa7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878124288
+status: 3
+tags: []
+user_id: julian

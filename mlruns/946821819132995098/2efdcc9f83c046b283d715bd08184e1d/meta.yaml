@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/2efdcc9f83c046b283d715bd08184e1d/artifacts
+end_time: 1748878146463
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 2efdcc9f83c046b283d715bd08184e1d
+run_name: colorful-crane-634
+run_uuid: 2efdcc9f83c046b283d715bd08184e1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878146430
+status: 3
+tags: []
+user_id: julian

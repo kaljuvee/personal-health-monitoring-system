@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/6ccb2f197e5d46bd89509eba234b6e6b/artifacts
+end_time: 1748878113742
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 6ccb2f197e5d46bd89509eba234b6e6b
+run_name: nosy-steed-551
+run_uuid: 6ccb2f197e5d46bd89509eba234b6e6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878113723
+status: 3
+tags: []
+user_id: julian

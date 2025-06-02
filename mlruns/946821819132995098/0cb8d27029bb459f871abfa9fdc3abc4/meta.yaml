@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/0cb8d27029bb459f871abfa9fdc3abc4/artifacts
+end_time: 1748878121253
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 0cb8d27029bb459f871abfa9fdc3abc4
+run_name: ambitious-shrike-989
+run_uuid: 0cb8d27029bb459f871abfa9fdc3abc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878121230
+status: 3
+tags: []
+user_id: julian

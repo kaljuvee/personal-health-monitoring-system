@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/5d2a82ec90064214bda66cdaa5269b23/artifacts
+end_time: 1748878632524
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 5d2a82ec90064214bda66cdaa5269b23
+run_name: enthused-finch-831
+run_uuid: 5d2a82ec90064214bda66cdaa5269b23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878632484
+status: 3
+tags: []
+user_id: julian

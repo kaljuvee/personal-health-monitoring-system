@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/10a5fd54f8604519aee6c9bcb5bc0510/artifacts
+end_time: 1748878118074
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 10a5fd54f8604519aee6c9bcb5bc0510
+run_name: rogue-auk-333
+run_uuid: 10a5fd54f8604519aee6c9bcb5bc0510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878118053
+status: 3
+tags: []
+user_id: julian

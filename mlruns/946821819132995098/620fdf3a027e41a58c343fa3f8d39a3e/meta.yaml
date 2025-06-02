@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/620fdf3a027e41a58c343fa3f8d39a3e/artifacts
+end_time: 1748878624284
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 620fdf3a027e41a58c343fa3f8d39a3e
+run_name: calm-mouse-573
+run_uuid: 620fdf3a027e41a58c343fa3f8d39a3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878624246
+status: 3
+tags: []
+user_id: julian

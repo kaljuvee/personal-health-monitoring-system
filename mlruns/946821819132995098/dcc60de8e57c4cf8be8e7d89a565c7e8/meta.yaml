@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/dcc60de8e57c4cf8be8e7d89a565c7e8/artifacts
+end_time: 1748878625755
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: dcc60de8e57c4cf8be8e7d89a565c7e8
+run_name: adventurous-ray-717
+run_uuid: dcc60de8e57c4cf8be8e7d89a565c7e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878625714
+status: 3
+tags: []
+user_id: julian

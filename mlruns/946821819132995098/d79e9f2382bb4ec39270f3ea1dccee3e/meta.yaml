@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d79e9f2382bb4ec39270f3ea1dccee3e/artifacts
+end_time: 1748878117695
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d79e9f2382bb4ec39270f3ea1dccee3e
+run_name: capricious-koi-208
+run_uuid: d79e9f2382bb4ec39270f3ea1dccee3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878117675
+status: 3
+tags: []
+user_id: julian

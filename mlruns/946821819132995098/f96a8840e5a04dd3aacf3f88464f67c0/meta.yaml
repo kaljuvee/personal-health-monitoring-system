@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/f96a8840e5a04dd3aacf3f88464f67c0/artifacts
+end_time: 1748878151761
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: f96a8840e5a04dd3aacf3f88464f67c0
+run_name: burly-lynx-278
+run_uuid: f96a8840e5a04dd3aacf3f88464f67c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878151728
+status: 3
+tags: []
+user_id: julian

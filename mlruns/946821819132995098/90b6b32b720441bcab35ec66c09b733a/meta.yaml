@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/90b6b32b720441bcab35ec66c09b733a/artifacts
+end_time: 1748878114402
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 90b6b32b720441bcab35ec66c09b733a
+run_name: bright-bug-977
+run_uuid: 90b6b32b720441bcab35ec66c09b733a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878114383
+status: 3
+tags: []
+user_id: julian

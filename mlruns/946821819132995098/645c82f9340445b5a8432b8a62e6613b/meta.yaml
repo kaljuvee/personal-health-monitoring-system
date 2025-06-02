@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/645c82f9340445b5a8432b8a62e6613b/artifacts
+end_time: 1748878123208
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 645c82f9340445b5a8432b8a62e6613b
+run_name: bedecked-shrimp-600
+run_uuid: 645c82f9340445b5a8432b8a62e6613b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878123185
+status: 3
+tags: []
+user_id: julian

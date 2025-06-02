@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/9bc2432953d445a49da365b4bd829340/artifacts
+end_time: 1748878131842
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 9bc2432953d445a49da365b4bd829340
+run_name: resilient-mouse-618
+run_uuid: 9bc2432953d445a49da365b4bd829340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878131817
+status: 3
+tags: []
+user_id: julian

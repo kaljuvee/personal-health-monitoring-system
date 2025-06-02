@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/f8602e8d270d49b39929c1b3d2bd69f5/artifacts
+end_time: 1748878621725
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: f8602e8d270d49b39929c1b3d2bd69f5
+run_name: carefree-bat-305
+run_uuid: f8602e8d270d49b39929c1b3d2bd69f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878621686
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/90a22d47a7f646408321eb0a0dca4a7f/artifacts
+end_time: 1748878125624
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 90a22d47a7f646408321eb0a0dca4a7f
+run_name: thoughtful-panda-958
+run_uuid: 90a22d47a7f646408321eb0a0dca4a7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878125600
+status: 3
+tags: []
+user_id: julian

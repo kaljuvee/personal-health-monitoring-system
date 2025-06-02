@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/228591e217dc4d60897a549c86b76de2/artifacts
+end_time: 1748878128493
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 228591e217dc4d60897a549c86b76de2
+run_name: tasteful-kit-88
+run_uuid: 228591e217dc4d60897a549c86b76de2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878128462
+status: 3
+tags: []
+user_id: julian

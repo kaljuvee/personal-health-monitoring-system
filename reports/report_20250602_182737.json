@@ -1,0 +1,17 @@
+{
+  "timestamp": "2025-06-02T18:27:37.775244",
+  "test_results": [
+    {
+      "timestamp": "2025-06-02T18:27:37.759630",
+      "metrics": {
+        "heart_rate": 74.17131819180631,
+        "blood_glucose": 102.00717945121114,
+        "risk_score": 0.0
+      },
+      "alert": {
+        "level": "none",
+        "message": "No significant health risks detected"
+      }
+    }
+  ]
+}

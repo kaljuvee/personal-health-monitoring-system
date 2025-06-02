@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/7bf1914007fc4256befb0fcfc4084921/artifacts
+end_time: 1748878140842
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 7bf1914007fc4256befb0fcfc4084921
+run_name: calm-fly-993
+run_uuid: 7bf1914007fc4256befb0fcfc4084921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878140811
+status: 3
+tags: []
+user_id: julian

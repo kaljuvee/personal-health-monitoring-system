@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/a4de2c5518c54894ab26fdcd8a70b90b/artifacts
+end_time: 1748878111769
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: a4de2c5518c54894ab26fdcd8a70b90b
+run_name: painted-swan-75
+run_uuid: a4de2c5518c54894ab26fdcd8a70b90b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878111747
+status: 3
+tags: []
+user_id: julian

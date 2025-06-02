@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/46be5ed47fb64a9b89685608764d0ccb/artifacts
+end_time: 1748878120099
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 46be5ed47fb64a9b89685608764d0ccb
+run_name: caring-skink-245
+run_uuid: 46be5ed47fb64a9b89685608764d0ccb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878120077
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/1250d04e72c4454ca08ecaad6e8eef83/artifacts
+end_time: 1748878144042
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 1250d04e72c4454ca08ecaad6e8eef83
+run_name: auspicious-deer-808
+run_uuid: 1250d04e72c4454ca08ecaad6e8eef83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878144010
+status: 3
+tags: []
+user_id: julian

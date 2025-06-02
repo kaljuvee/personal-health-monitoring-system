@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ba8681fffceb44ed94987cd12f799481/artifacts
+end_time: 1748878131571
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ba8681fffceb44ed94987cd12f799481
+run_name: rumbling-worm-528
+run_uuid: ba8681fffceb44ed94987cd12f799481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878131545
+status: 3
+tags: []
+user_id: julian

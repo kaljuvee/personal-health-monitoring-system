@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/065efdb83e2044cabd4925665a36f088/artifacts
+end_time: 1748878127501
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 065efdb83e2044cabd4925665a36f088
+run_name: nervous-zebra-71
+run_uuid: 065efdb83e2044cabd4925665a36f088
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878127476
+status: 3
+tags: []
+user_id: julian

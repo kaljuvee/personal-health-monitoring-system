@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/e5e3e000db8946eebc066398949d0a81/artifacts
+end_time: 1748878151723
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: e5e3e000db8946eebc066398949d0a81
+run_name: inquisitive-fawn-55
+run_uuid: e5e3e000db8946eebc066398949d0a81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878151689
+status: 3
+tags: []
+user_id: julian

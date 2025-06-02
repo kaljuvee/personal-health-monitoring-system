@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/a56e7e276f3f4c3c9ae4410a8b0f53d0/artifacts
+end_time: 1748878144783
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: a56e7e276f3f4c3c9ae4410a8b0f53d0
+run_name: placid-seal-920
+run_uuid: a56e7e276f3f4c3c9ae4410a8b0f53d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878144752
+status: 3
+tags: []
+user_id: julian

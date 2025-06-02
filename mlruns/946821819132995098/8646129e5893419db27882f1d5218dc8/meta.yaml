@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/8646129e5893419db27882f1d5218dc8/artifacts
+end_time: 1748878112693
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 8646129e5893419db27882f1d5218dc8
+run_name: worried-turtle-20
+run_uuid: 8646129e5893419db27882f1d5218dc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878112678
+status: 3
+tags: []
+user_id: julian

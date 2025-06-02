@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/19a35369c586426bb892c612a269e924/artifacts
+end_time: 1748878629219
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 19a35369c586426bb892c612a269e924
+run_name: intelligent-robin-62
+run_uuid: 19a35369c586426bb892c612a269e924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878629180
+status: 3
+tags: []
+user_id: julian

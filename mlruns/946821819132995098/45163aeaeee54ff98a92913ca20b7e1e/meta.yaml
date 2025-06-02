@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/45163aeaeee54ff98a92913ca20b7e1e/artifacts
+end_time: 1748878118992
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 45163aeaeee54ff98a92913ca20b7e1e
+run_name: colorful-skink-714
+run_uuid: 45163aeaeee54ff98a92913ca20b7e1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878118971
+status: 3
+tags: []
+user_id: julian

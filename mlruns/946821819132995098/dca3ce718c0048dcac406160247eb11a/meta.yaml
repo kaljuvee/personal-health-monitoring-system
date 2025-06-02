@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/dca3ce718c0048dcac406160247eb11a/artifacts
+end_time: 1748878134482
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: dca3ce718c0048dcac406160247eb11a
+run_name: funny-chimp-681
+run_uuid: dca3ce718c0048dcac406160247eb11a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878134455
+status: 3
+tags: []
+user_id: julian

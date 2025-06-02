@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/0da98dc8ccdb4736a20ede7a185aa591/artifacts
+end_time: 1748878125205
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 0da98dc8ccdb4736a20ede7a185aa591
+run_name: kindly-conch-661
+run_uuid: 0da98dc8ccdb4736a20ede7a185aa591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878125180
+status: 3
+tags: []
+user_id: julian

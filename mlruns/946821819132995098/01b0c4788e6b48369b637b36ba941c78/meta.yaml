@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/01b0c4788e6b48369b637b36ba941c78/artifacts
+end_time: 1748878113055
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 01b0c4788e6b48369b637b36ba941c78
+run_name: sincere-seal-280
+run_uuid: 01b0c4788e6b48369b637b36ba941c78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878113037
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/86b486f100a24b209e3e53c5d85b9c16/artifacts
+end_time: 1748878118312
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 86b486f100a24b209e3e53c5d85b9c16
+run_name: whimsical-koi-447
+run_uuid: 86b486f100a24b209e3e53c5d85b9c16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878118292
+status: 3
+tags: []
+user_id: julian

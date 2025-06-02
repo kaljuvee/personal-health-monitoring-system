@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/78ea77150686446086d0575b3974f082/artifacts
+end_time: 1748878148868
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 78ea77150686446086d0575b3974f082
+run_name: caring-rat-561
+run_uuid: 78ea77150686446086d0575b3974f082
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878148835
+status: 3
+tags: []
+user_id: julian

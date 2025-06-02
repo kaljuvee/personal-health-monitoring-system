@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/f7df283d2c28497f8d3a3e2e9a720279/artifacts
+end_time: 1748878140366
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: f7df283d2c28497f8d3a3e2e9a720279
+run_name: magnificent-lamb-144
+run_uuid: f7df283d2c28497f8d3a3e2e9a720279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878140337
+status: 3
+tags: []
+user_id: julian

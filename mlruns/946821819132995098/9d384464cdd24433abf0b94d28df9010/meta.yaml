@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/9d384464cdd24433abf0b94d28df9010/artifacts
+end_time: 1748878157524
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 9d384464cdd24433abf0b94d28df9010
+run_name: industrious-yak-874
+run_uuid: 9d384464cdd24433abf0b94d28df9010
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878157488
+status: 3
+tags: []
+user_id: julian

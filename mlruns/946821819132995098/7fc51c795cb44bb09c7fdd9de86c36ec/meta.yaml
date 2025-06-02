@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/7fc51c795cb44bb09c7fdd9de86c36ec/artifacts
+end_time: 1748878129804
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 7fc51c795cb44bb09c7fdd9de86c36ec
+run_name: resilient-stoat-308
+run_uuid: 7fc51c795cb44bb09c7fdd9de86c36ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878129779
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/91dfcb70040f4802991fba34f33013ed/artifacts
+end_time: 1748878620932
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 91dfcb70040f4802991fba34f33013ed
+run_name: dazzling-rat-856
+run_uuid: 91dfcb70040f4802991fba34f33013ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878620892
+status: 3
+tags: []
+user_id: julian

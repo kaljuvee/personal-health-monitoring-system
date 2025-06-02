@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/373b0e3a14bb45db8db8bf887646fe1d/artifacts
+end_time: 1748878146645
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 373b0e3a14bb45db8db8bf887646fe1d
+run_name: persistent-wren-797
+run_uuid: 373b0e3a14bb45db8db8bf887646fe1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878146613
+status: 3
+tags: []
+user_id: julian

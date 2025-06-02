@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c92b876ddf674d51bb1c17419b2f096b/artifacts
+end_time: 1748878138924
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c92b876ddf674d51bb1c17419b2f096b
+run_name: adaptable-moth-357
+run_uuid: c92b876ddf674d51bb1c17419b2f096b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878138894
+status: 3
+tags: []
+user_id: julian

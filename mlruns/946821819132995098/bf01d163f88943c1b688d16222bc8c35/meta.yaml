@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/bf01d163f88943c1b688d16222bc8c35/artifacts
+end_time: 1748878136034
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: bf01d163f88943c1b688d16222bc8c35
+run_name: dazzling-chimp-504
+run_uuid: bf01d163f88943c1b688d16222bc8c35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878136005
+status: 3
+tags: []
+user_id: julian

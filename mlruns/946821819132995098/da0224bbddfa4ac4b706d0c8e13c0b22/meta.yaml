@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/da0224bbddfa4ac4b706d0c8e13c0b22/artifacts
+end_time: 1748878123028
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: da0224bbddfa4ac4b706d0c8e13c0b22
+run_name: rogue-ant-807
+run_uuid: da0224bbddfa4ac4b706d0c8e13c0b22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878123006
+status: 3
+tags: []
+user_id: julian

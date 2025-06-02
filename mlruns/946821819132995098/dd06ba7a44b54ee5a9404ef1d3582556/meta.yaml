@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/dd06ba7a44b54ee5a9404ef1d3582556/artifacts
+end_time: 1748878142453
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: dd06ba7a44b54ee5a9404ef1d3582556
+run_name: polite-ox-51
+run_uuid: dd06ba7a44b54ee5a9404ef1d3582556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878142422
+status: 3
+tags: []
+user_id: julian

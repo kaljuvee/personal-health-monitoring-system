@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/a4b0a24ed7b64c68930ea3171a89a9a8/artifacts
+end_time: 1748878122677
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: a4b0a24ed7b64c68930ea3171a89a9a8
+run_name: enchanting-robin-515
+run_uuid: a4b0a24ed7b64c68930ea3171a89a9a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878122655
+status: 3
+tags: []
+user_id: julian

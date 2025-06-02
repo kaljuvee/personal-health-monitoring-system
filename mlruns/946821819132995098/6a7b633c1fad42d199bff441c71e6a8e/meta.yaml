@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/6a7b633c1fad42d199bff441c71e6a8e/artifacts
+end_time: 1748878156641
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 6a7b633c1fad42d199bff441c71e6a8e
+run_name: persistent-sheep-689
+run_uuid: 6a7b633c1fad42d199bff441c71e6a8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878156605
+status: 3
+tags: []
+user_id: julian

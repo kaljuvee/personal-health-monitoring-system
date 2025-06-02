@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/224ca5b92ef640c0ad21d99de3860d6a/artifacts
+end_time: 1748878631558
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 224ca5b92ef640c0ad21d99de3860d6a
+run_name: beautiful-wasp-138
+run_uuid: 224ca5b92ef640c0ad21d99de3860d6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878631514
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/501c499059f5480a97b2ae355b9fc871/artifacts
+end_time: 1748878155899
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 501c499059f5480a97b2ae355b9fc871
+run_name: youthful-trout-29
+run_uuid: 501c499059f5480a97b2ae355b9fc871
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878155864
+status: 3
+tags: []
+user_id: julian

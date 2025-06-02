@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/708d7ca3551d4d8e84d68074b1c9c584/artifacts
+end_time: 1748878157685
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 708d7ca3551d4d8e84d68074b1c9c584
+run_name: handsome-smelt-294
+run_uuid: 708d7ca3551d4d8e84d68074b1c9c584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878157649
+status: 3
+tags: []
+user_id: julian

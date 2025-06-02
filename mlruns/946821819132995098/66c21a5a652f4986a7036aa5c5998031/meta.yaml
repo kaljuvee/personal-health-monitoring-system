@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/66c21a5a652f4986a7036aa5c5998031/artifacts
+end_time: 1748878157161
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 66c21a5a652f4986a7036aa5c5998031
+run_name: salty-quail-533
+run_uuid: 66c21a5a652f4986a7036aa5c5998031
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878157126
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/6311afb5fc1f4b98bc517d0d47d71353/artifacts
+end_time: 1748878127327
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 6311afb5fc1f4b98bc517d0d47d71353
+run_name: wise-shoat-903
+run_uuid: 6311afb5fc1f4b98bc517d0d47d71353
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878127303
+status: 3
+tags: []
+user_id: julian

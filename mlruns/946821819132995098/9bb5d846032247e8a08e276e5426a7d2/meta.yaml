@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/9bb5d846032247e8a08e276e5426a7d2/artifacts
+end_time: 1748878135777
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 9bb5d846032247e8a08e276e5426a7d2
+run_name: traveling-trout-950
+run_uuid: 9bb5d846032247e8a08e276e5426a7d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878135749
+status: 3
+tags: []
+user_id: julian

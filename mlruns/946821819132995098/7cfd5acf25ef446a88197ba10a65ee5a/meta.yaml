@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/7cfd5acf25ef446a88197ba10a65ee5a/artifacts
+end_time: 1748878124877
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 7cfd5acf25ef446a88197ba10a65ee5a
+run_name: adorable-cod-565
+run_uuid: 7cfd5acf25ef446a88197ba10a65ee5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878124853
+status: 3
+tags: []
+user_id: julian

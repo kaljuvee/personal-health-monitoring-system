@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/a821800d4ee34215bda4be9e9bb3df86/artifacts
+end_time: 1748878137037
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: a821800d4ee34215bda4be9e9bb3df86
+run_name: polite-mule-909
+run_uuid: a821800d4ee34215bda4be9e9bb3df86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878137009
+status: 3
+tags: []
+user_id: julian

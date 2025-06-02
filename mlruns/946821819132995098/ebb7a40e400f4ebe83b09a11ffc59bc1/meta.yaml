@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ebb7a40e400f4ebe83b09a11ffc59bc1/artifacts
+end_time: 1748878114749
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ebb7a40e400f4ebe83b09a11ffc59bc1
+run_name: secretive-bear-72
+run_uuid: ebb7a40e400f4ebe83b09a11ffc59bc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878114732
+status: 3
+tags: []
+user_id: julian

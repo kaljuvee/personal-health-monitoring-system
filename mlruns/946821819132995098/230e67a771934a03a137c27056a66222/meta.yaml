@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/230e67a771934a03a137c27056a66222/artifacts
+end_time: 1748878157724
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 230e67a771934a03a137c27056a66222
+run_name: brawny-horse-48
+run_uuid: 230e67a771934a03a137c27056a66222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878157689
+status: 3
+tags: []
+user_id: julian

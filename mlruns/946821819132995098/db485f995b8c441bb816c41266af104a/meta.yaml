@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/db485f995b8c441bb816c41266af104a/artifacts
+end_time: 1748878118003
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: db485f995b8c441bb816c41266af104a
+run_name: amusing-mule-509
+run_uuid: db485f995b8c441bb816c41266af104a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878117983
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/43279fe3603442558dc201d869e4fa05/artifacts
+end_time: 1748878121710
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 43279fe3603442558dc201d869e4fa05
+run_name: thundering-bear-163
+run_uuid: 43279fe3603442558dc201d869e4fa05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878121687
+status: 3
+tags: []
+user_id: julian

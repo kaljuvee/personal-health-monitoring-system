@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/3a44fa789c054e2b8f1fa283c0a0c28a/artifacts
+end_time: 1748878113870
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 3a44fa789c054e2b8f1fa283c0a0c28a
+run_name: likeable-fly-598
+run_uuid: 3a44fa789c054e2b8f1fa283c0a0c28a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878113850
+status: 3
+tags: []
+user_id: julian

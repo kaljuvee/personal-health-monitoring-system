@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d1c3a4956ec64acaa346663c51bb6fcb/artifacts
+end_time: 1748878155295
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d1c3a4956ec64acaa346663c51bb6fcb
+run_name: nervous-bear-928
+run_uuid: d1c3a4956ec64acaa346663c51bb6fcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878155260
+status: 3
+tags: []
+user_id: julian

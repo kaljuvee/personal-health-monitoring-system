@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/a652673b033a4a44be3bd51df0cb9219/artifacts
+end_time: 1748878156961
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: a652673b033a4a44be3bd51df0cb9219
+run_name: dazzling-carp-938
+run_uuid: a652673b033a4a44be3bd51df0cb9219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878156925
+status: 3
+tags: []
+user_id: julian

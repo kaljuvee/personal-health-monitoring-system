@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d3cae34b1f714f6d94bc26cebdc84a14/artifacts
+end_time: 1748878631275
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d3cae34b1f714f6d94bc26cebdc84a14
+run_name: merciful-bee-636
+run_uuid: d3cae34b1f714f6d94bc26cebdc84a14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878631233
+status: 3
+tags: []
+user_id: julian

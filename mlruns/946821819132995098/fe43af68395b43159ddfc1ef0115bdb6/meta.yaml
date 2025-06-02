@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/fe43af68395b43159ddfc1ef0115bdb6/artifacts
+end_time: 1748878619609
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: fe43af68395b43159ddfc1ef0115bdb6
+run_name: bustling-wolf-691
+run_uuid: fe43af68395b43159ddfc1ef0115bdb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878619571
+status: 3
+tags: []
+user_id: julian

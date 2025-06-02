@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/94192370ccee4e5db80b457ddaf41163/artifacts
+end_time: 1748878115650
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 94192370ccee4e5db80b457ddaf41163
+run_name: serious-tern-582
+run_uuid: 94192370ccee4e5db80b457ddaf41163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878115631
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/2d3f0764c857425fbbfa2a68b91e649f/artifacts
+end_time: 1748878123104
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 2d3f0764c857425fbbfa2a68b91e649f
+run_name: able-loon-797
+run_uuid: 2d3f0764c857425fbbfa2a68b91e649f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878123081
+status: 3
+tags: []
+user_id: julian

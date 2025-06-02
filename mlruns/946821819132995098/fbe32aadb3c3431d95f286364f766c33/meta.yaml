@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/fbe32aadb3c3431d95f286364f766c33/artifacts
+end_time: 1748878119488
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: fbe32aadb3c3431d95f286364f766c33
+run_name: gaudy-mouse-669
+run_uuid: fbe32aadb3c3431d95f286364f766c33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878119466
+status: 3
+tags: []
+user_id: julian

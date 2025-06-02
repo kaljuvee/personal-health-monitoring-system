@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/f3fc7b12cfae450386140bbf65c04bda/artifacts
+end_time: 1748878136582
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: f3fc7b12cfae450386140bbf65c04bda
+run_name: handsome-hound-60
+run_uuid: f3fc7b12cfae450386140bbf65c04bda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878136553
+status: 3
+tags: []
+user_id: julian

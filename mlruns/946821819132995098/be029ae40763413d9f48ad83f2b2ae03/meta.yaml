@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/be029ae40763413d9f48ad83f2b2ae03/artifacts
+end_time: 1748878146755
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: be029ae40763413d9f48ad83f2b2ae03
+run_name: bittersweet-owl-324
+run_uuid: be029ae40763413d9f48ad83f2b2ae03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878146724
+status: 3
+tags: []
+user_id: julian

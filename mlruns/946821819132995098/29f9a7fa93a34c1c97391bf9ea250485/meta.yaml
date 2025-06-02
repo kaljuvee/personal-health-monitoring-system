@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/29f9a7fa93a34c1c97391bf9ea250485/artifacts
+end_time: 1748878152576
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 29f9a7fa93a34c1c97391bf9ea250485
+run_name: unleashed-horse-874
+run_uuid: 29f9a7fa93a34c1c97391bf9ea250485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878152541
+status: 3
+tags: []
+user_id: julian

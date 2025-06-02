@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/2622153f42df4fe2857d73199038c0b7/artifacts
+end_time: 1748878128927
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 2622153f42df4fe2857d73199038c0b7
+run_name: gaudy-horse-770
+run_uuid: 2622153f42df4fe2857d73199038c0b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878128903
+status: 3
+tags: []
+user_id: julian

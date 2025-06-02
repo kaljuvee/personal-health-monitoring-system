@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/866877afee2b4a618993d243b0f720c9/artifacts
+end_time: 1748878161145
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 866877afee2b4a618993d243b0f720c9
+run_name: chill-grouse-186
+run_uuid: 866877afee2b4a618993d243b0f720c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878161107
+status: 3
+tags: []
+user_id: julian

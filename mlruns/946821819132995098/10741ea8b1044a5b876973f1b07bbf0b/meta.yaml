@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/10741ea8b1044a5b876973f1b07bbf0b/artifacts
+end_time: 1748878626072
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 10741ea8b1044a5b876973f1b07bbf0b
+run_name: wise-bear-412
+run_uuid: 10741ea8b1044a5b876973f1b07bbf0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878626027
+status: 3
+tags: []
+user_id: julian

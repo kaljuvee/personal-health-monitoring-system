@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/0b86ec87e0214cf4b329df133dc7ec8f/artifacts
+end_time: 1748878628672
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 0b86ec87e0214cf4b329df133dc7ec8f
+run_name: unleashed-yak-34
+run_uuid: 0b86ec87e0214cf4b329df133dc7ec8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878628631
+status: 3
+tags: []
+user_id: julian

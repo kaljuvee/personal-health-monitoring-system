@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/4295079f74784e019fc43195a0080de2/artifacts
+end_time: 1748878116928
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 4295079f74784e019fc43195a0080de2
+run_name: able-mole-600
+run_uuid: 4295079f74784e019fc43195a0080de2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878116905
+status: 3
+tags: []
+user_id: julian

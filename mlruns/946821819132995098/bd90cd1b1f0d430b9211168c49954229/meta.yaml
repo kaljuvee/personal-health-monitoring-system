@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/bd90cd1b1f0d430b9211168c49954229/artifacts
+end_time: 1748878157925
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: bd90cd1b1f0d430b9211168c49954229
+run_name: thundering-snail-76
+run_uuid: bd90cd1b1f0d430b9211168c49954229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878157891
+status: 3
+tags: []
+user_id: julian

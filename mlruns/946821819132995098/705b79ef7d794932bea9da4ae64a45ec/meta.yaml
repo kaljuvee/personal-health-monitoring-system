@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/705b79ef7d794932bea9da4ae64a45ec/artifacts
+end_time: 1748878144678
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 705b79ef7d794932bea9da4ae64a45ec
+run_name: kindly-toad-425
+run_uuid: 705b79ef7d794932bea9da4ae64a45ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878144646
+status: 3
+tags: []
+user_id: julian

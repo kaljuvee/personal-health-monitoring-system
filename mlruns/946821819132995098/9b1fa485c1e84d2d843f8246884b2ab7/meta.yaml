@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/9b1fa485c1e84d2d843f8246884b2ab7/artifacts
+end_time: 1748878114620
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 9b1fa485c1e84d2d843f8246884b2ab7
+run_name: crawling-skink-479
+run_uuid: 9b1fa485c1e84d2d843f8246884b2ab7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878114600
+status: 3
+tags: []
+user_id: julian

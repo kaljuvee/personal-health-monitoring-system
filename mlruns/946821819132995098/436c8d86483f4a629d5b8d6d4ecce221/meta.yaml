@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/436c8d86483f4a629d5b8d6d4ecce221/artifacts
+end_time: 1748878159524
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 436c8d86483f4a629d5b8d6d4ecce221
+run_name: thundering-elk-60
+run_uuid: 436c8d86483f4a629d5b8d6d4ecce221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878159486
+status: 3
+tags: []
+user_id: julian

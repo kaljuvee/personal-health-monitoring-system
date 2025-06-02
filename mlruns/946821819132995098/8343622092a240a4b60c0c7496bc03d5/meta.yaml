@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/8343622092a240a4b60c0c7496bc03d5/artifacts
+end_time: 1748878140534
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 8343622092a240a4b60c0c7496bc03d5
+run_name: calm-hog-860
+run_uuid: 8343622092a240a4b60c0c7496bc03d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878140505
+status: 3
+tags: []
+user_id: julian

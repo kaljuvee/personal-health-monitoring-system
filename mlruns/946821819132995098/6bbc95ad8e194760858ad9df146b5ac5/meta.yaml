@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/6bbc95ad8e194760858ad9df146b5ac5/artifacts
+end_time: 1748878119341
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 6bbc95ad8e194760858ad9df146b5ac5
+run_name: gregarious-koi-304
+run_uuid: 6bbc95ad8e194760858ad9df146b5ac5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878119320
+status: 3
+tags: []
+user_id: julian

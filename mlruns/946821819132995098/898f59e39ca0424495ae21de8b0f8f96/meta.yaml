@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/898f59e39ca0424495ae21de8b0f8f96/artifacts
+end_time: 1748878117794
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 898f59e39ca0424495ae21de8b0f8f96
+run_name: charming-chimp-866
+run_uuid: 898f59e39ca0424495ae21de8b0f8f96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878117767
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/97d693aff3a24cbf9e64748507425a1c/artifacts
+end_time: 1748878113293
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 97d693aff3a24cbf9e64748507425a1c
+run_name: selective-stork-982
+run_uuid: 97d693aff3a24cbf9e64748507425a1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878113275
+status: 3
+tags: []
+user_id: julian

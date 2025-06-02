@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/f028674815dd43d69e8cb62761973233/artifacts
+end_time: 1748878151450
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: f028674815dd43d69e8cb62761973233
+run_name: efficient-ant-923
+run_uuid: f028674815dd43d69e8cb62761973233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878151414
+status: 3
+tags: []
+user_id: julian

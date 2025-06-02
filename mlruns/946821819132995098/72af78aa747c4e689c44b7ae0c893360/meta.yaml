@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/72af78aa747c4e689c44b7ae0c893360/artifacts
+end_time: 1748878125875
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 72af78aa747c4e689c44b7ae0c893360
+run_name: gifted-turtle-332
+run_uuid: 72af78aa747c4e689c44b7ae0c893360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878125851
+status: 3
+tags: []
+user_id: julian

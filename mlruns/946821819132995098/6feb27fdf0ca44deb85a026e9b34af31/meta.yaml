@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/6feb27fdf0ca44deb85a026e9b34af31/artifacts
+end_time: 1748878124151
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 6feb27fdf0ca44deb85a026e9b34af31
+run_name: learned-bat-520
+run_uuid: 6feb27fdf0ca44deb85a026e9b34af31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878124129
+status: 3
+tags: []
+user_id: julian

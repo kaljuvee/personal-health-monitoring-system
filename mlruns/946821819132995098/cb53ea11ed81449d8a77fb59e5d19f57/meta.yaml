@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/cb53ea11ed81449d8a77fb59e5d19f57/artifacts
+end_time: 1748878127473
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: cb53ea11ed81449d8a77fb59e5d19f57
+run_name: agreeable-rook-392
+run_uuid: cb53ea11ed81449d8a77fb59e5d19f57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878127446
+status: 3
+tags: []
+user_id: julian

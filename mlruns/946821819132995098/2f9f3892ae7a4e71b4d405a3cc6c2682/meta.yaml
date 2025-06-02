@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/2f9f3892ae7a4e71b4d405a3cc6c2682/artifacts
+end_time: 1748878116662
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 2f9f3892ae7a4e71b4d405a3cc6c2682
+run_name: merciful-toad-936
+run_uuid: 2f9f3892ae7a4e71b4d405a3cc6c2682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878116643
+status: 3
+tags: []
+user_id: julian

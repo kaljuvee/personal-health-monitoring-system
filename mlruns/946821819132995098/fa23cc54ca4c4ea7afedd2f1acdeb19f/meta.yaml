@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/fa23cc54ca4c4ea7afedd2f1acdeb19f/artifacts
+end_time: 1748878159356
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: fa23cc54ca4c4ea7afedd2f1acdeb19f
+run_name: respected-mouse-157
+run_uuid: fa23cc54ca4c4ea7afedd2f1acdeb19f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878159320
+status: 3
+tags: []
+user_id: julian

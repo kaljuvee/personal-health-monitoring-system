@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/1337e1f9e30e4c8c9a64ece9499b8ee8/artifacts
+end_time: 1748878139660
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 1337e1f9e30e4c8c9a64ece9499b8ee8
+run_name: luxuriant-sponge-547
+run_uuid: 1337e1f9e30e4c8c9a64ece9499b8ee8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878139630
+status: 3
+tags: []
+user_id: julian

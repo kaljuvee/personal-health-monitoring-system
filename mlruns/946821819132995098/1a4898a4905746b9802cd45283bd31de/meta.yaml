@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/1a4898a4905746b9802cd45283bd31de/artifacts
+end_time: 1748878622189
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 1a4898a4905746b9802cd45283bd31de
+run_name: wistful-ant-347
+run_uuid: 1a4898a4905746b9802cd45283bd31de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878622152
+status: 3
+tags: []
+user_id: julian

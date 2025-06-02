@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/287bde66617c4e91b4d16a6ded1b0c34/artifacts
+end_time: 1748878141320
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 287bde66617c4e91b4d16a6ded1b0c34
+run_name: bemused-goose-992
+run_uuid: 287bde66617c4e91b4d16a6ded1b0c34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878141290
+status: 3
+tags: []
+user_id: julian

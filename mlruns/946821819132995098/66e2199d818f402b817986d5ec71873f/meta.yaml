@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/66e2199d818f402b817986d5ec71873f/artifacts
+end_time: 1748878116203
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 66e2199d818f402b817986d5ec71873f
+run_name: funny-whale-607
+run_uuid: 66e2199d818f402b817986d5ec71873f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878116184
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/49c92a8c4c234a91b5a197bbcb482138/artifacts
+end_time: 1748878628990
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 49c92a8c4c234a91b5a197bbcb482138
+run_name: awesome-penguin-750
+run_uuid: 49c92a8c4c234a91b5a197bbcb482138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878628950
+status: 3
+tags: []
+user_id: julian

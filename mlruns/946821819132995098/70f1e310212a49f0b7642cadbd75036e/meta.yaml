@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/70f1e310212a49f0b7642cadbd75036e/artifacts
+end_time: 1748878125068
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 70f1e310212a49f0b7642cadbd75036e
+run_name: learned-vole-321
+run_uuid: 70f1e310212a49f0b7642cadbd75036e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878125043
+status: 3
+tags: []
+user_id: julian

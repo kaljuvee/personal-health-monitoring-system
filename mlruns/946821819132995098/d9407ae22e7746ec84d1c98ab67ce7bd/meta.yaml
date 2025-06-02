@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d9407ae22e7746ec84d1c98ab67ce7bd/artifacts
+end_time: 1748878154450
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d9407ae22e7746ec84d1c98ab67ce7bd
+run_name: nimble-crab-601
+run_uuid: d9407ae22e7746ec84d1c98ab67ce7bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878154414
+status: 3
+tags: []
+user_id: julian

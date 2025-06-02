@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/3a0af44b85d14f2eb4c244752165e22f/artifacts
+end_time: 1748878138198
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 3a0af44b85d14f2eb4c244752165e22f
+run_name: nervous-fawn-576
+run_uuid: 3a0af44b85d14f2eb4c244752165e22f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878138169
+status: 3
+tags: []
+user_id: julian

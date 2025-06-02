@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/aab4c7162c8846a99cf257310cc0aef9/artifacts
+end_time: 1748878115163
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: aab4c7162c8846a99cf257310cc0aef9
+run_name: overjoyed-kit-532
+run_uuid: aab4c7162c8846a99cf257310cc0aef9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878115144
+status: 3
+tags: []
+user_id: julian

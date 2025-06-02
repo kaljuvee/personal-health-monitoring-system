@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/97b8d6702f0d4170a6becc1e2054ce46/artifacts
+end_time: 1748878150759
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 97b8d6702f0d4170a6becc1e2054ce46
+run_name: carefree-sow-648
+run_uuid: 97b8d6702f0d4170a6becc1e2054ce46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878150725
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/904af8936d764dafa08a5eeb43d3641a/artifacts
+end_time: 1748878631605
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 904af8936d764dafa08a5eeb43d3641a
+run_name: spiffy-trout-532
+run_uuid: 904af8936d764dafa08a5eeb43d3641a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878631563
+status: 3
+tags: []
+user_id: julian

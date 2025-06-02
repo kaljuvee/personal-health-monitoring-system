@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/02b1a6aadfa94c0694a7f26cb387b98a/artifacts
+end_time: 1748878125488
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 02b1a6aadfa94c0694a7f26cb387b98a
+run_name: bold-worm-594
+run_uuid: 02b1a6aadfa94c0694a7f26cb387b98a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878125464
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c13f8070733b4330a1e0d23e9d63780b/artifacts
+end_time: 1748878129219
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c13f8070733b4330a1e0d23e9d63780b
+run_name: stately-gull-796
+run_uuid: c13f8070733b4330a1e0d23e9d63780b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878129192
+status: 3
+tags: []
+user_id: julian

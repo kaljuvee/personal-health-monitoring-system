@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ae2b99367df8425da416d58ba8ef4dfe/artifacts
+end_time: 1748878139188
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ae2b99367df8425da416d58ba8ef4dfe
+run_name: grandiose-kit-290
+run_uuid: ae2b99367df8425da416d58ba8ef4dfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878139158
+status: 3
+tags: []
+user_id: julian

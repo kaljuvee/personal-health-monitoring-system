@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/b82678a14a5c4d2f8cde6675e0370717/artifacts
+end_time: 1748878111802
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: b82678a14a5c4d2f8cde6675e0370717
+run_name: amazing-bass-897
+run_uuid: b82678a14a5c4d2f8cde6675e0370717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878111772
+status: 3
+tags: []
+user_id: julian

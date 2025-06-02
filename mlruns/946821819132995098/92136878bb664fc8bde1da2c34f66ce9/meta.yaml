@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/92136878bb664fc8bde1da2c34f66ce9/artifacts
+end_time: 1748878132470
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 92136878bb664fc8bde1da2c34f66ce9
+run_name: sedate-sheep-846
+run_uuid: 92136878bb664fc8bde1da2c34f66ce9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878132440
+status: 3
+tags: []
+user_id: julian

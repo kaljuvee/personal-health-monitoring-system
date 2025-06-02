@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/003f57a8a42045ab8075c5cc5d60c579/artifacts
+end_time: 1748878130664
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 003f57a8a42045ab8075c5cc5d60c579
+run_name: unequaled-ox-846
+run_uuid: 003f57a8a42045ab8075c5cc5d60c579
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878130638
+status: 3
+tags: []
+user_id: julian

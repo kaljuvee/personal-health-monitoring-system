@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/2b7d284a78f0408197fb08b911854a01/artifacts
+end_time: 1748878137890
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 2b7d284a78f0408197fb08b911854a01
+run_name: brawny-roo-611
+run_uuid: 2b7d284a78f0408197fb08b911854a01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878137861
+status: 3
+tags: []
+user_id: julian

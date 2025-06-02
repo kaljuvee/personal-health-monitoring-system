@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d1cc0a9e56c04d3bae45e8939fe9917a/artifacts
+end_time: 1748878136517
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d1cc0a9e56c04d3bae45e8939fe9917a
+run_name: debonair-shad-563
+run_uuid: d1cc0a9e56c04d3bae45e8939fe9917a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878136488
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/e3b78a03d56148d386826b854cd67ea7/artifacts
+end_time: 1748878150416
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: e3b78a03d56148d386826b854cd67ea7
+run_name: youthful-fish-486
+run_uuid: e3b78a03d56148d386826b854cd67ea7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878150381
+status: 3
+tags: []
+user_id: julian

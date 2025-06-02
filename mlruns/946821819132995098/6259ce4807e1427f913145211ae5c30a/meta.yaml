@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/6259ce4807e1427f913145211ae5c30a/artifacts
+end_time: 1748878146903
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 6259ce4807e1427f913145211ae5c30a
+run_name: traveling-bug-810
+run_uuid: 6259ce4807e1427f913145211ae5c30a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878146870
+status: 3
+tags: []
+user_id: julian

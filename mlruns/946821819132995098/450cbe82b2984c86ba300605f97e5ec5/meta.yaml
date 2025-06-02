@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/450cbe82b2984c86ba300605f97e5ec5/artifacts
+end_time: 1748878116052
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 450cbe82b2984c86ba300605f97e5ec5
+run_name: bustling-jay-716
+run_uuid: 450cbe82b2984c86ba300605f97e5ec5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878116033
+status: 3
+tags: []
+user_id: julian

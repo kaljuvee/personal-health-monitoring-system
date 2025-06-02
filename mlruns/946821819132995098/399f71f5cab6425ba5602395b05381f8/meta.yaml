@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/399f71f5cab6425ba5602395b05381f8/artifacts
+end_time: 1748878129834
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 399f71f5cab6425ba5602395b05381f8
+run_name: omniscient-koi-172
+run_uuid: 399f71f5cab6425ba5602395b05381f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878129808
+status: 3
+tags: []
+user_id: julian

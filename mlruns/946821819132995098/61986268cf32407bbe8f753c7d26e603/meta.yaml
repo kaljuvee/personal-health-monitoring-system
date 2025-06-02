@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/61986268cf32407bbe8f753c7d26e603/artifacts
+end_time: 1748878162284
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 61986268cf32407bbe8f753c7d26e603
+run_name: nosy-moose-421
+run_uuid: 61986268cf32407bbe8f753c7d26e603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878162248
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ad8930f3ea2144c79182bf5c93a224ea/artifacts
+end_time: 1748878162920
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ad8930f3ea2144c79182bf5c93a224ea
+run_name: bedecked-loon-475
+run_uuid: ad8930f3ea2144c79182bf5c93a224ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878162881
+status: 3
+tags: []
+user_id: julian

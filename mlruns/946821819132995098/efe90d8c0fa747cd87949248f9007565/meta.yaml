@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/efe90d8c0fa747cd87949248f9007565/artifacts
+end_time: 1748878133514
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: efe90d8c0fa747cd87949248f9007565
+run_name: tasteful-wolf-135
+run_uuid: efe90d8c0fa747cd87949248f9007565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878133487
+status: 3
+tags: []
+user_id: julian

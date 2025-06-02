@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c72fdfdad5874e1581a3fea1a37ca805/artifacts
+end_time: 1748878163558
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c72fdfdad5874e1581a3fea1a37ca805
+run_name: rebellious-ape-775
+run_uuid: c72fdfdad5874e1581a3fea1a37ca805
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878163521
+status: 3
+tags: []
+user_id: julian

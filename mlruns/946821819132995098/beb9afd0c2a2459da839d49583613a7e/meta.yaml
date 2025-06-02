@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/beb9afd0c2a2459da839d49583613a7e/artifacts
+end_time: 1748878121633
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: beb9afd0c2a2459da839d49583613a7e
+run_name: monumental-lark-74
+run_uuid: beb9afd0c2a2459da839d49583613a7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878121606
+status: 3
+tags: []
+user_id: julian

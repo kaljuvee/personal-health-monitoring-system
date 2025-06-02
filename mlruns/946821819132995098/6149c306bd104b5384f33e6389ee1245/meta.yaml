@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/6149c306bd104b5384f33e6389ee1245/artifacts
+end_time: 1748878146209
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 6149c306bd104b5384f33e6389ee1245
+run_name: masked-newt-412
+run_uuid: 6149c306bd104b5384f33e6389ee1245
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878146177
+status: 3
+tags: []
+user_id: julian

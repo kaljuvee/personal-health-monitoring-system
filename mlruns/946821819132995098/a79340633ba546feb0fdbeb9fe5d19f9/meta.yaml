@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/a79340633ba546feb0fdbeb9fe5d19f9/artifacts
+end_time: 1748878141465
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: a79340633ba546feb0fdbeb9fe5d19f9
+run_name: invincible-rook-355
+run_uuid: a79340633ba546feb0fdbeb9fe5d19f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878141428
+status: 3
+tags: []
+user_id: julian

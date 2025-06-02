@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/13f0175198a5414c8f881f59b62c6ca9/artifacts
+end_time: 1748878117247
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 13f0175198a5414c8f881f59b62c6ca9
+run_name: smiling-sloth-175
+run_uuid: 13f0175198a5414c8f881f59b62c6ca9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878117227
+status: 3
+tags: []
+user_id: julian

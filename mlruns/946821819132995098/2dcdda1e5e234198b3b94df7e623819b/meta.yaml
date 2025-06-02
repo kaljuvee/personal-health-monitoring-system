@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/2dcdda1e5e234198b3b94df7e623819b/artifacts
+end_time: 1748878147194
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 2dcdda1e5e234198b3b94df7e623819b
+run_name: handsome-fly-279
+run_uuid: 2dcdda1e5e234198b3b94df7e623819b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878147162
+status: 3
+tags: []
+user_id: julian

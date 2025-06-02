@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/49554554e5a744ed8a6b6714735e20ef/artifacts
+end_time: 1748878161060
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 49554554e5a744ed8a6b6714735e20ef
+run_name: dapper-skink-991
+run_uuid: 49554554e5a744ed8a6b6714735e20ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878161023
+status: 3
+tags: []
+user_id: julian

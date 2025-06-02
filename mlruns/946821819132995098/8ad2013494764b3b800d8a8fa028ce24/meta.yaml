@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/8ad2013494764b3b800d8a8fa028ce24/artifacts
+end_time: 1748878134420
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 8ad2013494764b3b800d8a8fa028ce24
+run_name: judicious-carp-523
+run_uuid: 8ad2013494764b3b800d8a8fa028ce24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878134392
+status: 3
+tags: []
+user_id: julian

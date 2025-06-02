@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/13399c3e87584e11ac60ca91d620c733/artifacts
+end_time: 1748878143441
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 13399c3e87584e11ac60ca91d620c733
+run_name: hilarious-donkey-352
+run_uuid: 13399c3e87584e11ac60ca91d620c733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878143409
+status: 3
+tags: []
+user_id: julian

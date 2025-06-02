@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ad597480eaac4ca6bc4b40f6ae47eed7/artifacts
+end_time: 1748878128756
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ad597480eaac4ca6bc4b40f6ae47eed7
+run_name: unleashed-panda-966
+run_uuid: ad597480eaac4ca6bc4b40f6ae47eed7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878128730
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/4c364cf6600345d386cb6a2d2e959f0a/artifacts
+end_time: 1748878147306
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 4c364cf6600345d386cb6a2d2e959f0a
+run_name: merciful-lark-230
+run_uuid: 4c364cf6600345d386cb6a2d2e959f0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878147273
+status: 3
+tags: []
+user_id: julian

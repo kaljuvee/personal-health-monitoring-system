@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/45b7a65766e548c1b3d973d867404429/artifacts
+end_time: 1748878142026
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 45b7a65766e548c1b3d973d867404429
+run_name: sneaky-bat-979
+run_uuid: 45b7a65766e548c1b3d973d867404429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878141996
+status: 3
+tags: []
+user_id: julian

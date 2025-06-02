@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/cf53fcbea49b4ad4a41b075ae720d48b/artifacts
+end_time: 1748878164276
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: cf53fcbea49b4ad4a41b075ae720d48b
+run_name: selective-yak-297
+run_uuid: cf53fcbea49b4ad4a41b075ae720d48b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878164237
+status: 3
+tags: []
+user_id: julian

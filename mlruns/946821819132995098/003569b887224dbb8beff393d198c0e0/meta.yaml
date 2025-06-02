@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/003569b887224dbb8beff393d198c0e0/artifacts
+end_time: 1748878125514
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 003569b887224dbb8beff393d198c0e0
+run_name: bouncy-newt-712
+run_uuid: 003569b887224dbb8beff393d198c0e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878125492
+status: 3
+tags: []
+user_id: julian

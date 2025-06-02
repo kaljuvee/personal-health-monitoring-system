@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d1eb48a7a2e84534b2876207da969ef9/artifacts
+end_time: 1748878139089
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d1eb48a7a2e84534b2876207da969ef9
+run_name: fun-wasp-984
+run_uuid: d1eb48a7a2e84534b2876207da969ef9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878139060
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/759bdd4e8e724c7dace922aaa0d35225/artifacts
+end_time: 1748878237852
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 759bdd4e8e724c7dace922aaa0d35225
+run_name: dashing-mink-572
+run_uuid: 759bdd4e8e724c7dace922aaa0d35225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878237824
+status: 3
+tags: []
+user_id: julian

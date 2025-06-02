@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/300f7ee10c1244efa40c32916f82c829/artifacts
+end_time: 1748878619474
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 300f7ee10c1244efa40c32916f82c829
+run_name: serious-fawn-992
+run_uuid: 300f7ee10c1244efa40c32916f82c829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878619436
+status: 3
+tags: []
+user_id: julian

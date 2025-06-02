@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/6185f3d685074fd6a720d2067c99bc31/artifacts
+end_time: 1748878160143
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 6185f3d685074fd6a720d2067c99bc31
+run_name: dapper-ox-40
+run_uuid: 6185f3d685074fd6a720d2067c99bc31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878160103
+status: 3
+tags: []
+user_id: julian

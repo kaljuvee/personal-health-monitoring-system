@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/50fe616850b5482ca0834543bfef997c/artifacts
+end_time: 1748878140467
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 50fe616850b5482ca0834543bfef997c
+run_name: masked-steed-886
+run_uuid: 50fe616850b5482ca0834543bfef997c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878140438
+status: 3
+tags: []
+user_id: julian

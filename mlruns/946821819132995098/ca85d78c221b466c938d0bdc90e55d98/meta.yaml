@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ca85d78c221b466c938d0bdc90e55d98/artifacts
+end_time: 1748878151145
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ca85d78c221b466c938d0bdc90e55d98
+run_name: overjoyed-fox-537
+run_uuid: ca85d78c221b466c938d0bdc90e55d98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878151110
+status: 3
+tags: []
+user_id: julian

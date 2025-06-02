@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/f41327c4dad6497eb55b2403f6c59d9a/artifacts
+end_time: 1748878124205
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: f41327c4dad6497eb55b2403f6c59d9a
+run_name: flawless-ape-611
+run_uuid: f41327c4dad6497eb55b2403f6c59d9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878124181
+status: 3
+tags: []
+user_id: julian

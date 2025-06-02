@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ae990ef86007443baf3b39e2401b4766/artifacts
+end_time: 1748878625058
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ae990ef86007443baf3b39e2401b4766
+run_name: lyrical-pig-280
+run_uuid: ae990ef86007443baf3b39e2401b4766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878625018
+status: 3
+tags: []
+user_id: julian

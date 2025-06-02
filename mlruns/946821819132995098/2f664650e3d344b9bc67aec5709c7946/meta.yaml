@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/2f664650e3d344b9bc67aec5709c7946/artifacts
+end_time: 1748878115252
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 2f664650e3d344b9bc67aec5709c7946
+run_name: valuable-lamb-352
+run_uuid: 2f664650e3d344b9bc67aec5709c7946
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878115233
+status: 3
+tags: []
+user_id: julian

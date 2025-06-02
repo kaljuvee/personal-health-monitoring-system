@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/5e28ecae8f604b188a1689fec450df65/artifacts
+end_time: 1748878118943
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 5e28ecae8f604b188a1689fec450df65
+run_name: bald-jay-374
+run_uuid: 5e28ecae8f604b188a1689fec450df65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878118923
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/67c8a94114fb45c1afea529a09b8a6c5/artifacts
+end_time: 1748878133086
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 67c8a94114fb45c1afea529a09b8a6c5
+run_name: bright-bear-574
+run_uuid: 67c8a94114fb45c1afea529a09b8a6c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878133059
+status: 3
+tags: []
+user_id: julian

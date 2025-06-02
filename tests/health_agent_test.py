@@ -16,7 +16,7 @@ def save_test_log(data: list, filename: str = None):
     """Save test results to a JSON report file with timestamp."""
     if filename is None:
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        filename = f"data/report_{timestamp}.json"
+        filename = f"reports/report_{timestamp}.json"
     
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, 'w') as f:
@@ -74,7 +74,7 @@ def generate_test_data(patient_id: str, num_records: int = 10) -> list:
     
     return data
 
-def save_test_data(data: list, filename: str = "data/test_health_data.json"):
+def save_test_data(data: list, filename: str = "reports/test_health_data.json"):
     """Save test data to JSON file."""
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, 'w') as f:

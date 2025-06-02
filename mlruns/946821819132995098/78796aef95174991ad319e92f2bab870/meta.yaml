@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/78796aef95174991ad319e92f2bab870/artifacts
+end_time: 1748878622440
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 78796aef95174991ad319e92f2bab870
+run_name: nebulous-penguin-45
+run_uuid: 78796aef95174991ad319e92f2bab870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878622404
+status: 3
+tags: []
+user_id: julian

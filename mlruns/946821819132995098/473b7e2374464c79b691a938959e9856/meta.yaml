@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/473b7e2374464c79b691a938959e9856/artifacts
+end_time: 1748878158701
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 473b7e2374464c79b691a938959e9856
+run_name: efficient-lark-726
+run_uuid: 473b7e2374464c79b691a938959e9856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878158663
+status: 3
+tags: []
+user_id: julian

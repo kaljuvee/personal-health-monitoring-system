@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/db17423ca3fc4a81ba7d2e15613e17ec/artifacts
+end_time: 1748878154251
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: db17423ca3fc4a81ba7d2e15613e17ec
+run_name: thoughtful-chimp-386
+run_uuid: db17423ca3fc4a81ba7d2e15613e17ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878154216
+status: 3
+tags: []
+user_id: julian

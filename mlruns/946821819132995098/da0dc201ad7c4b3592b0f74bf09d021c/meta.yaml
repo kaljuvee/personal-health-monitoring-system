@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/da0dc201ad7c4b3592b0f74bf09d021c/artifacts
+end_time: 1748878112168
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: da0dc201ad7c4b3592b0f74bf09d021c
+run_name: treasured-snake-55
+run_uuid: da0dc201ad7c4b3592b0f74bf09d021c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878112151
+status: 3
+tags: []
+user_id: julian

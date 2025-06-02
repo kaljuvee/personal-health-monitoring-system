@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/3fc5eb8d8a484c6b85e2769642d7160c/artifacts
+end_time: 1748878148310
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 3fc5eb8d8a484c6b85e2769642d7160c
+run_name: dapper-carp-218
+run_uuid: 3fc5eb8d8a484c6b85e2769642d7160c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878148277
+status: 3
+tags: []
+user_id: julian

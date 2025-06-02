@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/65e431bee49e4dafb5b441af52c6892d/artifacts
+end_time: 1748878115852
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 65e431bee49e4dafb5b441af52c6892d
+run_name: lyrical-cub-537
+run_uuid: 65e431bee49e4dafb5b441af52c6892d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878115833
+status: 3
+tags: []
+user_id: julian

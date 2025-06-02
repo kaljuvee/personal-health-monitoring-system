@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/3bf21b75d6e94d7f867eff1054a2b78e/artifacts
+end_time: 1748878150681
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 3bf21b75d6e94d7f867eff1054a2b78e
+run_name: wistful-grouse-992
+run_uuid: 3bf21b75d6e94d7f867eff1054a2b78e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878150647
+status: 3
+tags: []
+user_id: julian

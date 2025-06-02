@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/30f21ea4134b4a23b3c11dec54a160ac/artifacts
+end_time: 1748878145137
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 30f21ea4134b4a23b3c11dec54a160ac
+run_name: thundering-mule-418
+run_uuid: 30f21ea4134b4a23b3c11dec54a160ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878145106
+status: 3
+tags: []
+user_id: julian

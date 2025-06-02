@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-06-02T18:29:37.823426",
+  "test_results": [
+    {
+      "timestamp": "2025-06-02T18:27:37.759630",
+      "metrics": {
+        "heart_rate": 74.17131819180631,
+        "blood_glucose": 102.00717945121114,
+        "risk_score": 0.0
+      },
+      "alert": {
+        "level": "none",
+        "message": "No significant health risks detected"
+      }
+    },
+    {
+      "timestamp": "2025-06-02T18:28:37.775489",
+      "metrics": {
+        "heart_rate": 73.50739574882954,
+        "blood_glucose": 74.02341113023832,
+        "risk_score": 0.0
+      },
+      "alert": {
+        "level": "none",
+        "message": "No significant health risks detected"
+      }
+    },
+    {
+      "timestamp": "2025-06-02T18:29:37.789502",
+      "metrics": {
+        "heart_rate": 71.71675733608878,
+        "blood_glucose": 101.93368228328448,
+        "risk_score": 0.0
+      },
+      "alert": {
+        "level": "none",
+        "message": "No significant health risks detected"
+      }
+    }
+  ]
+}

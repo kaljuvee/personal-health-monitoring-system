@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/9e5556123d27474197bcad8706acc74e/artifacts
+end_time: 1748878139492
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 9e5556123d27474197bcad8706acc74e
+run_name: selective-mouse-501
+run_uuid: 9e5556123d27474197bcad8706acc74e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878139463
+status: 3
+tags: []
+user_id: julian

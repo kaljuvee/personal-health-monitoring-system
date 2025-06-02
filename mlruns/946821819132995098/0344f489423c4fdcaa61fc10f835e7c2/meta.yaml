@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/0344f489423c4fdcaa61fc10f835e7c2/artifacts
+end_time: 1748878129597
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 0344f489423c4fdcaa61fc10f835e7c2
+run_name: exultant-snail-264
+run_uuid: 0344f489423c4fdcaa61fc10f835e7c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878129572
+status: 3
+tags: []
+user_id: julian

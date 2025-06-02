@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/bfa7e86aad35477f9889896325051c87/artifacts
+end_time: 1748878137790
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: bfa7e86aad35477f9889896325051c87
+run_name: bustling-snake-108
+run_uuid: bfa7e86aad35477f9889896325051c87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878137761
+status: 3
+tags: []
+user_id: julian

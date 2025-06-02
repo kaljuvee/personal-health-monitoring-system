@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/984b3b64a7f94311aabb7c4260185efb/artifacts
+end_time: 1748878152230
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 984b3b64a7f94311aabb7c4260185efb
+run_name: clumsy-ant-735
+run_uuid: 984b3b64a7f94311aabb7c4260185efb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878152194
+status: 3
+tags: []
+user_id: julian

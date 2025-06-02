@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/469997f846684964be0b1e10a5a510dd/artifacts
+end_time: 1748878123863
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 469997f846684964be0b1e10a5a510dd
+run_name: bald-shrimp-861
+run_uuid: 469997f846684964be0b1e10a5a510dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878123840
+status: 3
+tags: []
+user_id: julian

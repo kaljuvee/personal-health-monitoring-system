@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c00a4f8851cd45a3a661609e2704d5aa/artifacts
+end_time: 1748878624369
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c00a4f8851cd45a3a661609e2704d5aa
+run_name: upset-penguin-145
+run_uuid: c00a4f8851cd45a3a661609e2704d5aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878624332
+status: 3
+tags: []
+user_id: julian

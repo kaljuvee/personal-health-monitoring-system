@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d3b5b9cb7e284cfe93b2d1978357c9a7/artifacts
+end_time: 1748878114834
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d3b5b9cb7e284cfe93b2d1978357c9a7
+run_name: unique-bass-556
+run_uuid: d3b5b9cb7e284cfe93b2d1978357c9a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878114816
+status: 3
+tags: []
+user_id: julian

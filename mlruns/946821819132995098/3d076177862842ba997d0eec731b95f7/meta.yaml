@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/3d076177862842ba997d0eec731b95f7/artifacts
+end_time: 1748878156840
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 3d076177862842ba997d0eec731b95f7
+run_name: upset-perch-22
+run_uuid: 3d076177862842ba997d0eec731b95f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878156805
+status: 3
+tags: []
+user_id: julian

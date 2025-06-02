@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/54d3e38f73e949978587e15984a507ff/artifacts
+end_time: 1748878130426
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 54d3e38f73e949978587e15984a507ff
+run_name: trusting-bass-515
+run_uuid: 54d3e38f73e949978587e15984a507ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878130400
+status: 3
+tags: []
+user_id: julian

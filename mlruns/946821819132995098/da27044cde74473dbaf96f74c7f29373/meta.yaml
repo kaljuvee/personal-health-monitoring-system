@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/da27044cde74473dbaf96f74c7f29373/artifacts
+end_time: 1748878116249
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: da27044cde74473dbaf96f74c7f29373
+run_name: receptive-fowl-879
+run_uuid: da27044cde74473dbaf96f74c7f29373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878116229
+status: 3
+tags: []
+user_id: julian

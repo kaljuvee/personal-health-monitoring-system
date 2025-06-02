@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d3e4409669f248dcad380c6dfc46aa6b/artifacts
+end_time: 1748878143615
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d3e4409669f248dcad380c6dfc46aa6b
+run_name: hilarious-bird-550
+run_uuid: d3e4409669f248dcad380c6dfc46aa6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878143585
+status: 3
+tags: []
+user_id: julian

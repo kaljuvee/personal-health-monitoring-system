@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/146426edebf941759073296abbe6fe3c/artifacts
+end_time: 1748878112088
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 146426edebf941759073296abbe6fe3c
+run_name: auspicious-steed-290
+run_uuid: 146426edebf941759073296abbe6fe3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878112070
+status: 3
+tags: []
+user_id: julian

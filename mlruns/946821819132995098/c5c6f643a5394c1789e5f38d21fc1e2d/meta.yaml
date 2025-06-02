@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c5c6f643a5394c1789e5f38d21fc1e2d/artifacts
+end_time: 1748878632025
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c5c6f643a5394c1789e5f38d21fc1e2d
+run_name: dazzling-sheep-464
+run_uuid: c5c6f643a5394c1789e5f38d21fc1e2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878631985
+status: 3
+tags: []
+user_id: julian

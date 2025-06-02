@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/7e64d86f0bb34754a1cae4b9c81d60f5/artifacts
+end_time: 1748878151567
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 7e64d86f0bb34754a1cae4b9c81d60f5
+run_name: gregarious-deer-943
+run_uuid: 7e64d86f0bb34754a1cae4b9c81d60f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878151533
+status: 3
+tags: []
+user_id: julian

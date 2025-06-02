@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/4898d38e62ea4967ab117cbef91acb68/artifacts
+end_time: 1748878117347
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 4898d38e62ea4967ab117cbef91acb68
+run_name: luminous-bee-596
+run_uuid: 4898d38e62ea4967ab117cbef91acb68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878117320
+status: 3
+tags: []
+user_id: julian

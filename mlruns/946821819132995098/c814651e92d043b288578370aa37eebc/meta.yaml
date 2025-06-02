@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c814651e92d043b288578370aa37eebc/artifacts
+end_time: 1748878140134
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c814651e92d043b288578370aa37eebc
+run_name: bright-sheep-504
+run_uuid: c814651e92d043b288578370aa37eebc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878140105
+status: 3
+tags: []
+user_id: julian

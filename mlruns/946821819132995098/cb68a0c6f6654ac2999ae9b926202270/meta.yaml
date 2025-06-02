@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/cb68a0c6f6654ac2999ae9b926202270/artifacts
+end_time: 1748878160845
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: cb68a0c6f6654ac2999ae9b926202270
+run_name: placid-mule-22
+run_uuid: cb68a0c6f6654ac2999ae9b926202270
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878160809
+status: 3
+tags: []
+user_id: julian

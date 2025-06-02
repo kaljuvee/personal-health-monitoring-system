@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/cad0bf87e6e24620b9c2dbeb1b029c21/artifacts
+end_time: 1748878147269
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: cad0bf87e6e24620b9c2dbeb1b029c21
+run_name: redolent-panda-637
+run_uuid: cad0bf87e6e24620b9c2dbeb1b029c21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878147236
+status: 3
+tags: []
+user_id: julian

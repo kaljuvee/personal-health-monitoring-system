@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c2b54ed23d734d638884a9756fda7f9a/artifacts
+end_time: 1748878124099
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c2b54ed23d734d638884a9756fda7f9a
+run_name: overjoyed-ox-648
+run_uuid: c2b54ed23d734d638884a9756fda7f9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878124076
+status: 3
+tags: []
+user_id: julian

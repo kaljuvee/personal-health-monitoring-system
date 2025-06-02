@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/7e3051096aa74737a7331dedb6260045/artifacts
+end_time: 1748878141424
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 7e3051096aa74737a7331dedb6260045
+run_name: nimble-vole-614
+run_uuid: 7e3051096aa74737a7331dedb6260045
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878141394
+status: 3
+tags: []
+user_id: julian

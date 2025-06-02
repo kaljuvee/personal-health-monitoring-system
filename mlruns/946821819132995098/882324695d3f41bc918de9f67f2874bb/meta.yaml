@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/882324695d3f41bc918de9f67f2874bb/artifacts
+end_time: 1748878162409
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 882324695d3f41bc918de9f67f2874bb
+run_name: unruly-goat-124
+run_uuid: 882324695d3f41bc918de9f67f2874bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878162372
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/1f06716b13d64822bec123d8c3da6b46/artifacts
+end_time: 1748878116181
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 1f06716b13d64822bec123d8c3da6b46
+run_name: bouncy-steed-557
+run_uuid: 1f06716b13d64822bec123d8c3da6b46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878116162
+status: 3
+tags: []
+user_id: julian

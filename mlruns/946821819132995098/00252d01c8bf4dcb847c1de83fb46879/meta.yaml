@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/00252d01c8bf4dcb847c1de83fb46879/artifacts
+end_time: 1748878123002
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 00252d01c8bf4dcb847c1de83fb46879
+run_name: rebellious-roo-716
+run_uuid: 00252d01c8bf4dcb847c1de83fb46879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878122980
+status: 3
+tags: []
+user_id: julian

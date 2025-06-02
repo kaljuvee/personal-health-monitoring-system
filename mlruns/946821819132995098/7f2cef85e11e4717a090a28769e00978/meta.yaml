@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/7f2cef85e11e4717a090a28769e00978/artifacts
+end_time: 1748878117485
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 7f2cef85e11e4717a090a28769e00978
+run_name: salty-conch-452
+run_uuid: 7f2cef85e11e4717a090a28769e00978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878117465
+status: 3
+tags: []
+user_id: julian

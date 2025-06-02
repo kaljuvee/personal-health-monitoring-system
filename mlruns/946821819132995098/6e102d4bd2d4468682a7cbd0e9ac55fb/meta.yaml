@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/6e102d4bd2d4468682a7cbd0e9ac55fb/artifacts
+end_time: 1748878149243
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 6e102d4bd2d4468682a7cbd0e9ac55fb
+run_name: whimsical-ray-933
+run_uuid: 6e102d4bd2d4468682a7cbd0e9ac55fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878149210
+status: 3
+tags: []
+user_id: julian

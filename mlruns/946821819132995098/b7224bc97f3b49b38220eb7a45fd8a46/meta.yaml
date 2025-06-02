@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/b7224bc97f3b49b38220eb7a45fd8a46/artifacts
+end_time: 1748878125597
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: b7224bc97f3b49b38220eb7a45fd8a46
+run_name: worried-mouse-732
+run_uuid: b7224bc97f3b49b38220eb7a45fd8a46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878125572
+status: 3
+tags: []
+user_id: julian

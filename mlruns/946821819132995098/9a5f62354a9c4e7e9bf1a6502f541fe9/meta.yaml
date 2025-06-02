@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/9a5f62354a9c4e7e9bf1a6502f541fe9/artifacts
+end_time: 1748878147013
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 9a5f62354a9c4e7e9bf1a6502f541fe9
+run_name: unequaled-chimp-396
+run_uuid: 9a5f62354a9c4e7e9bf1a6502f541fe9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878146979
+status: 3
+tags: []
+user_id: julian

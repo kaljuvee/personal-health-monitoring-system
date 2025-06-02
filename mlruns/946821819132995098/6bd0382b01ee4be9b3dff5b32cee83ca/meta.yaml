@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/6bd0382b01ee4be9b3dff5b32cee83ca/artifacts
+end_time: 1748878157805
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 6bd0382b01ee4be9b3dff5b32cee83ca
+run_name: vaunted-mouse-672
+run_uuid: 6bd0382b01ee4be9b3dff5b32cee83ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878157769
+status: 3
+tags: []
+user_id: julian

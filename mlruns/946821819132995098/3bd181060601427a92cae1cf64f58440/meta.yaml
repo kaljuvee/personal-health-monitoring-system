@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/3bd181060601427a92cae1cf64f58440/artifacts
+end_time: 1748878151645
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 3bd181060601427a92cae1cf64f58440
+run_name: stylish-fowl-993
+run_uuid: 3bd181060601427a92cae1cf64f58440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878151610
+status: 3
+tags: []
+user_id: julian

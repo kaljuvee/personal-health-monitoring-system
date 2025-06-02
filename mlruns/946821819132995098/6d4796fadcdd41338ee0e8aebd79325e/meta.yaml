@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/6d4796fadcdd41338ee0e8aebd79325e/artifacts
+end_time: 1748878120930
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 6d4796fadcdd41338ee0e8aebd79325e
+run_name: luminous-sow-488
+run_uuid: 6d4796fadcdd41338ee0e8aebd79325e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878120907
+status: 3
+tags: []
+user_id: julian

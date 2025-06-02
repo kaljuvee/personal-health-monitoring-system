@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/0f0a7af6838d43c598a0a50221ff48dc/artifacts
+end_time: 1748878154290
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 0f0a7af6838d43c598a0a50221ff48dc
+run_name: spiffy-dolphin-652
+run_uuid: 0f0a7af6838d43c598a0a50221ff48dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878154255
+status: 3
+tags: []
+user_id: julian

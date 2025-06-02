@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/fc5a6cd5cf754ff9933e3ffba9a17915/artifacts
+end_time: 1748878160475
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: fc5a6cd5cf754ff9933e3ffba9a17915
+run_name: loud-toad-202
+run_uuid: fc5a6cd5cf754ff9933e3ffba9a17915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878160438
+status: 3
+tags: []
+user_id: julian

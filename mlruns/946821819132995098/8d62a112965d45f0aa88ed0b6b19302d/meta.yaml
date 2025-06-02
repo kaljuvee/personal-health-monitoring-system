@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/8d62a112965d45f0aa88ed0b6b19302d/artifacts
+end_time: 1748878160600
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 8d62a112965d45f0aa88ed0b6b19302d
+run_name: nervous-slug-232
+run_uuid: 8d62a112965d45f0aa88ed0b6b19302d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878160562
+status: 3
+tags: []
+user_id: julian

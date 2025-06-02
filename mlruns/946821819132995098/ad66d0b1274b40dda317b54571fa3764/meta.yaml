@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ad66d0b1274b40dda317b54571fa3764/artifacts
+end_time: 1748878164490
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ad66d0b1274b40dda317b54571fa3764
+run_name: indecisive-colt-649
+run_uuid: ad66d0b1274b40dda317b54571fa3764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878164451
+status: 3
+tags: []
+user_id: julian

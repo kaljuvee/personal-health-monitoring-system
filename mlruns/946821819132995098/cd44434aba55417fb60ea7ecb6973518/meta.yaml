@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/cd44434aba55417fb60ea7ecb6973518/artifacts
+end_time: 1748878149579
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: cd44434aba55417fb60ea7ecb6973518
+run_name: aged-fish-366
+run_uuid: cd44434aba55417fb60ea7ecb6973518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878149546
+status: 3
+tags: []
+user_id: julian

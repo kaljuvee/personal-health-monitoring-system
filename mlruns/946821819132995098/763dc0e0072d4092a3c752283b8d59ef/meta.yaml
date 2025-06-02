@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/763dc0e0072d4092a3c752283b8d59ef/artifacts
+end_time: 1748878115076
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 763dc0e0072d4092a3c752283b8d59ef
+run_name: fearless-ant-287
+run_uuid: 763dc0e0072d4092a3c752283b8d59ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878115056
+status: 3
+tags: []
+user_id: julian

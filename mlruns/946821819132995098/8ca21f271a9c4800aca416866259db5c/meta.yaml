@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/8ca21f271a9c4800aca416866259db5c/artifacts
+end_time: 1748878122497
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 8ca21f271a9c4800aca416866259db5c
+run_name: victorious-hare-22
+run_uuid: 8ca21f271a9c4800aca416866259db5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878122475
+status: 3
+tags: []
+user_id: julian

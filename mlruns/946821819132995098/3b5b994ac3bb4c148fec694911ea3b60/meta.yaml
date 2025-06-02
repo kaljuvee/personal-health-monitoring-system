@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/3b5b994ac3bb4c148fec694911ea3b60/artifacts
+end_time: 1748878119660
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 3b5b994ac3bb4c148fec694911ea3b60
+run_name: invincible-wasp-295
+run_uuid: 3b5b994ac3bb4c148fec694911ea3b60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878119639
+status: 3
+tags: []
+user_id: julian

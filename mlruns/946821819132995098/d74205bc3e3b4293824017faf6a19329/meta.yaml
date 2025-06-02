@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d74205bc3e3b4293824017faf6a19329/artifacts
+end_time: 1748878114038
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d74205bc3e3b4293824017faf6a19329
+run_name: monumental-whale-738
+run_uuid: d74205bc3e3b4293824017faf6a19329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878114022
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ebcf76e8139449b29774479ea7873846/artifacts
+end_time: 1748878156681
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ebcf76e8139449b29774479ea7873846
+run_name: omniscient-snail-10
+run_uuid: ebcf76e8139449b29774479ea7873846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878156646
+status: 3
+tags: []
+user_id: julian

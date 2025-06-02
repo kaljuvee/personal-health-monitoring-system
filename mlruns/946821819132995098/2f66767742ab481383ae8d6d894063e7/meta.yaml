@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/2f66767742ab481383ae8d6d894063e7/artifacts
+end_time: 1748878154607
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 2f66767742ab481383ae8d6d894063e7
+run_name: efficient-crab-346
+run_uuid: 2f66767742ab481383ae8d6d894063e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878154572
+status: 3
+tags: []
+user_id: julian

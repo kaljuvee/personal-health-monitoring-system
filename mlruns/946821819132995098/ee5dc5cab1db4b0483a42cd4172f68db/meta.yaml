@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ee5dc5cab1db4b0483a42cd4172f68db/artifacts
+end_time: 1748878631368
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ee5dc5cab1db4b0483a42cd4172f68db
+run_name: traveling-hound-628
+run_uuid: ee5dc5cab1db4b0483a42cd4172f68db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878631326
+status: 3
+tags: []
+user_id: julian

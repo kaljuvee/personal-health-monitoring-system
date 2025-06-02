@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/4236f271a1ba4ec8b841cd56528caead/artifacts
+end_time: 1748878620797
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 4236f271a1ba4ec8b841cd56528caead
+run_name: monumental-ox-305
+run_uuid: 4236f271a1ba4ec8b841cd56528caead
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878620759
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/f1313afc20424d4c88faeffec0361622/artifacts
+end_time: 1748878134139
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: f1313afc20424d4c88faeffec0361622
+run_name: placid-hawk-484
+run_uuid: f1313afc20424d4c88faeffec0361622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878134110
+status: 3
+tags: []
+user_id: julian

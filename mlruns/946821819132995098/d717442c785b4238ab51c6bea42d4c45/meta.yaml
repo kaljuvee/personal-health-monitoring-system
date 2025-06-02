@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d717442c785b4238ab51c6bea42d4c45/artifacts
+end_time: 1748878128956
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d717442c785b4238ab51c6bea42d4c45
+run_name: puzzled-gnu-926
+run_uuid: d717442c785b4238ab51c6bea42d4c45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878128931
+status: 3
+tags: []
+user_id: julian

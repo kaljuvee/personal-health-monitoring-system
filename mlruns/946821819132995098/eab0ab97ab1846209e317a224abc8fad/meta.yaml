@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/eab0ab97ab1846209e317a224abc8fad/artifacts
+end_time: 1748878130394
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: eab0ab97ab1846209e317a224abc8fad
+run_name: worried-rat-850
+run_uuid: eab0ab97ab1846209e317a224abc8fad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878130365
+status: 3
+tags: []
+user_id: julian

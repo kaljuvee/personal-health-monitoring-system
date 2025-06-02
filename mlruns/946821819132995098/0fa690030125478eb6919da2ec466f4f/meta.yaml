@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/0fa690030125478eb6919da2ec466f4f/artifacts
+end_time: 1748878149317
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 0fa690030125478eb6919da2ec466f4f
+run_name: amazing-elk-802
+run_uuid: 0fa690030125478eb6919da2ec466f4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878149285
+status: 3
+tags: []
+user_id: julian

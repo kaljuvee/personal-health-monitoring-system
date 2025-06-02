@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/391f389fd02448b4aad4380d9fd38252/artifacts
+end_time: 1748878140705
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 391f389fd02448b4aad4380d9fd38252
+run_name: grandiose-rat-271
+run_uuid: 391f389fd02448b4aad4380d9fd38252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878140675
+status: 3
+tags: []
+user_id: julian

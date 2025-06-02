@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/8809f5f1e971469e844961c1f85e731a/artifacts
+end_time: 1748878114534
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 8809f5f1e971469e844961c1f85e731a
+run_name: puzzled-stag-55
+run_uuid: 8809f5f1e971469e844961c1f85e731a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878114514
+status: 3
+tags: []
+user_id: julian

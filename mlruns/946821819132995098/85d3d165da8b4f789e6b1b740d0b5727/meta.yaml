@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/85d3d165da8b4f789e6b1b740d0b5727/artifacts
+end_time: 1748878621810
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 85d3d165da8b4f789e6b1b740d0b5727
+run_name: thoughtful-hen-704
+run_uuid: 85d3d165da8b4f789e6b1b740d0b5727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878621772
+status: 3
+tags: []
+user_id: julian

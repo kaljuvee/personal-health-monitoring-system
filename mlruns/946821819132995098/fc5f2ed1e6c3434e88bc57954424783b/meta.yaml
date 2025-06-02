@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/fc5f2ed1e6c3434e88bc57954424783b/artifacts
+end_time: 1748878118745
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: fc5f2ed1e6c3434e88bc57954424783b
+run_name: fortunate-shark-585
+run_uuid: fc5f2ed1e6c3434e88bc57954424783b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878118725
+status: 3
+tags: []
+user_id: julian

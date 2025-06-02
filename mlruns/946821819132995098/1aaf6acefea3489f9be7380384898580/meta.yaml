@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/1aaf6acefea3489f9be7380384898580/artifacts
+end_time: 1748878112214
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 1aaf6acefea3489f9be7380384898580
+run_name: intelligent-rat-3
+run_uuid: 1aaf6acefea3489f9be7380384898580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878112197
+status: 3
+tags: []
+user_id: julian

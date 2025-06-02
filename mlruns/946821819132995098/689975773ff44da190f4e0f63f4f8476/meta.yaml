@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/689975773ff44da190f4e0f63f4f8476/artifacts
+end_time: 1748878622649
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 689975773ff44da190f4e0f63f4f8476
+run_name: treasured-sloth-777
+run_uuid: 689975773ff44da190f4e0f63f4f8476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878622609
+status: 3
+tags: []
+user_id: julian

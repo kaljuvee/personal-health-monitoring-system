@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ab34c56fd4814f189cc5f5d5c63d3de3/artifacts
+end_time: 1748878156362
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ab34c56fd4814f189cc5f5d5c63d3de3
+run_name: illustrious-crow-405
+run_uuid: ab34c56fd4814f189cc5f5d5c63d3de3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878156298
+status: 3
+tags: []
+user_id: julian

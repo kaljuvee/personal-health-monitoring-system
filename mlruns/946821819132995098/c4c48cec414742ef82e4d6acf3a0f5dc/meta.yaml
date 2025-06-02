@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c4c48cec414742ef82e4d6acf3a0f5dc/artifacts
+end_time: 1748878630659
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c4c48cec414742ef82e4d6acf3a0f5dc
+run_name: upset-bug-99
+run_uuid: c4c48cec414742ef82e4d6acf3a0f5dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878630619
+status: 3
+tags: []
+user_id: julian

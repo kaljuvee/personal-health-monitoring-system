@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/a18b9a7657b14e0f96b3dfc6ee33c42b/artifacts
+end_time: 1748878123995
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: a18b9a7657b14e0f96b3dfc6ee33c42b
+run_name: nervous-gnat-585
+run_uuid: a18b9a7657b14e0f96b3dfc6ee33c42b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878123972
+status: 3
+tags: []
+user_id: julian

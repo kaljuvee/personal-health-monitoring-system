@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/9aa13b3cf5c44257a7c9d99e5afb1275/artifacts
+end_time: 1748878119880
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 9aa13b3cf5c44257a7c9d99e5afb1275
+run_name: orderly-kit-419
+run_uuid: 9aa13b3cf5c44257a7c9d99e5afb1275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878119859
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c0c50cc925a941e5a2d8acd5b0789985/artifacts
+end_time: 1748878144643
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c0c50cc925a941e5a2d8acd5b0789985
+run_name: delicate-tern-230
+run_uuid: c0c50cc925a941e5a2d8acd5b0789985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878144610
+status: 3
+tags: []
+user_id: julian

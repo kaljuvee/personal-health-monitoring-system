@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/9f533ad37c9d497fa617e6917e8cf79d/artifacts
+end_time: 1748878142560
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 9f533ad37c9d497fa617e6917e8cf79d
+run_name: polite-mouse-411
+run_uuid: 9f533ad37c9d497fa617e6917e8cf79d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878142528
+status: 3
+tags: []
+user_id: julian

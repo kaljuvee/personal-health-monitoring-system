@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/02a7522760864a12bd7077ce9d0889e2/artifacts
+end_time: 1748878163177
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 02a7522760864a12bd7077ce9d0889e2
+run_name: intrigued-cod-84
+run_uuid: 02a7522760864a12bd7077ce9d0889e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878163138
+status: 3
+tags: []
+user_id: julian

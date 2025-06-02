@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/64dd406365fb41389d6c10faa2a285bd/artifacts
+end_time: 1748878156018
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 64dd406365fb41389d6c10faa2a285bd
+run_name: brawny-ape-461
+run_uuid: 64dd406365fb41389d6c10faa2a285bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878155982
+status: 3
+tags: []
+user_id: julian

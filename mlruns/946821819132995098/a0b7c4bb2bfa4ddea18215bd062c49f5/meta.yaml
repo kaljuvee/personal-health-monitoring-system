@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/a0b7c4bb2bfa4ddea18215bd062c49f5/artifacts
+end_time: 1748878128283
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: a0b7c4bb2bfa4ddea18215bd062c49f5
+run_name: popular-swan-78
+run_uuid: a0b7c4bb2bfa4ddea18215bd062c49f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878128257
+status: 3
+tags: []
+user_id: julian

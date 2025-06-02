@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d07b4f27d38840be9322ea3299d5f469/artifacts
+end_time: 1748878116640
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d07b4f27d38840be9322ea3299d5f469
+run_name: amusing-hog-350
+run_uuid: d07b4f27d38840be9322ea3299d5f469
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878116619
+status: 3
+tags: []
+user_id: julian

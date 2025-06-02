@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/2b55a085797b45849c085cc67c6edf54/artifacts
+end_time: 1748878112026
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 2b55a085797b45849c085cc67c6edf54
+run_name: peaceful-shrew-530
+run_uuid: 2b55a085797b45849c085cc67c6edf54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878112009
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/e8849f7fb053440d9239146395d98c5e/artifacts
+end_time: 1748878146829
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: e8849f7fb053440d9239146395d98c5e
+run_name: gaudy-bass-916
+run_uuid: e8849f7fb053440d9239146395d98c5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878146797
+status: 3
+tags: []
+user_id: julian

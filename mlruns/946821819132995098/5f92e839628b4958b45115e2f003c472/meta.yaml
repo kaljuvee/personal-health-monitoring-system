@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/5f92e839628b4958b45115e2f003c472/artifacts
+end_time: 1748878631509
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 5f92e839628b4958b45115e2f003c472
+run_name: gifted-asp-879
+run_uuid: 5f92e839628b4958b45115e2f003c472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878631468
+status: 3
+tags: []
+user_id: julian

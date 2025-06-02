@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/6bd25d4621504bcdafca286edb4d155c/artifacts
+end_time: 1748878114576
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 6bd25d4621504bcdafca286edb4d155c
+run_name: righteous-snake-457
+run_uuid: 6bd25d4621504bcdafca286edb4d155c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878114558
+status: 3
+tags: []
+user_id: julian

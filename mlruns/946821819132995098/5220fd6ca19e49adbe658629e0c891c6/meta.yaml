@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/5220fd6ca19e49adbe658629e0c891c6/artifacts
+end_time: 1748878117934
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 5220fd6ca19e49adbe658629e0c891c6
+run_name: vaunted-snail-441
+run_uuid: 5220fd6ca19e49adbe658629e0c891c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878117914
+status: 3
+tags: []
+user_id: julian

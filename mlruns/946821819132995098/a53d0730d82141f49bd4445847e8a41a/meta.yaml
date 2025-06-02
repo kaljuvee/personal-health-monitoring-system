@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/a53d0730d82141f49bd4445847e8a41a/artifacts
+end_time: 1748878137463
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: a53d0730d82141f49bd4445847e8a41a
+run_name: welcoming-ram-601
+run_uuid: a53d0730d82141f49bd4445847e8a41a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878137433
+status: 3
+tags: []
+user_id: julian

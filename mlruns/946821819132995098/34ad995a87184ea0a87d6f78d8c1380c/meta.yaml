@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/34ad995a87184ea0a87d6f78d8c1380c/artifacts
+end_time: 1748878128370
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 34ad995a87184ea0a87d6f78d8c1380c
+run_name: useful-robin-827
+run_uuid: 34ad995a87184ea0a87d6f78d8c1380c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878128344
+status: 3
+tags: []
+user_id: julian

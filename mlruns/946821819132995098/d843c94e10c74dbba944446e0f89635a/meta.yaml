@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d843c94e10c74dbba944446e0f89635a/artifacts
+end_time: 1748878141218
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d843c94e10c74dbba944446e0f89635a
+run_name: calm-frog-328
+run_uuid: d843c94e10c74dbba944446e0f89635a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878141188
+status: 3
+tags: []
+user_id: julian

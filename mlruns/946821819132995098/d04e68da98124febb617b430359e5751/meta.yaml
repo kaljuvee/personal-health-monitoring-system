@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d04e68da98124febb617b430359e5751/artifacts
+end_time: 1748878621020
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d04e68da98124febb617b430359e5751
+run_name: stylish-vole-184
+run_uuid: d04e68da98124febb617b430359e5751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878620980
+status: 3
+tags: []
+user_id: julian

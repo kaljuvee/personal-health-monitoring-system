@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/da972d5e1202480fb9300e6543bc41dc/artifacts
+end_time: 1748878158577
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: da972d5e1202480fb9300e6543bc41dc
+run_name: gentle-dove-42
+run_uuid: da972d5e1202480fb9300e6543bc41dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878158541
+status: 3
+tags: []
+user_id: julian

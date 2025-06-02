@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/9186cbb896ac45e48476ec71b2759ced/artifacts
+end_time: 1748878133701
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 9186cbb896ac45e48476ec71b2759ced
+run_name: brawny-trout-276
+run_uuid: 9186cbb896ac45e48476ec71b2759ced
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878133674
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/6c2beb0fea864bd382be4fd43b617748/artifacts
+end_time: 1748878134892
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 6c2beb0fea864bd382be4fd43b617748
+run_name: luminous-snake-34
+run_uuid: 6c2beb0fea864bd382be4fd43b617748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878134863
+status: 3
+tags: []
+user_id: julian

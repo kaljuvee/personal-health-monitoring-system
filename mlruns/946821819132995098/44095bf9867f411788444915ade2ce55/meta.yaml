@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/44095bf9867f411788444915ade2ce55/artifacts
+end_time: 1748878120395
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 44095bf9867f411788444915ade2ce55
+run_name: capricious-midge-653
+run_uuid: 44095bf9867f411788444915ade2ce55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878120374
+status: 3
+tags: []
+user_id: julian

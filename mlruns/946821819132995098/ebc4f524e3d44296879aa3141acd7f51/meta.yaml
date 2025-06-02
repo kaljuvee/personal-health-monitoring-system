@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ebc4f524e3d44296879aa3141acd7f51/artifacts
+end_time: 1748878120904
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ebc4f524e3d44296879aa3141acd7f51
+run_name: respected-mink-5
+run_uuid: ebc4f524e3d44296879aa3141acd7f51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878120882
+status: 3
+tags: []
+user_id: julian

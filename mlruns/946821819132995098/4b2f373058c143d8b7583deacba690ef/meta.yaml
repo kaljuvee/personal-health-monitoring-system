@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/4b2f373058c143d8b7583deacba690ef/artifacts
+end_time: 1748878144925
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 4b2f373058c143d8b7583deacba690ef
+run_name: upset-goat-553
+run_uuid: 4b2f373058c143d8b7583deacba690ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878144893
+status: 3
+tags: []
+user_id: julian

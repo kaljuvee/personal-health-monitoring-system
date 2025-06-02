@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/5a36715dc0fd4bebb304b0c76b81edc9/artifacts
+end_time: 1748878153313
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 5a36715dc0fd4bebb304b0c76b81edc9
+run_name: painted-hare-125
+run_uuid: 5a36715dc0fd4bebb304b0c76b81edc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878153278
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c2422d6a6e194d1ea3ce09cb6dae6742/artifacts
+end_time: 1748878128224
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c2422d6a6e194d1ea3ce09cb6dae6742
+run_name: fun-grouse-101
+run_uuid: c2422d6a6e194d1ea3ce09cb6dae6742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878128199
+status: 3
+tags: []
+user_id: julian

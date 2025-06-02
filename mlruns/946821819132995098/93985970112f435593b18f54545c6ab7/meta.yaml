@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/93985970112f435593b18f54545c6ab7/artifacts
+end_time: 1748878119439
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 93985970112f435593b18f54545c6ab7
+run_name: burly-rat-371
+run_uuid: 93985970112f435593b18f54545c6ab7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878119418
+status: 3
+tags: []
+user_id: julian

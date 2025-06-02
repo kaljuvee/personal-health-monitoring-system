@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/de0b9d12fd6a4edfafcf391c79893e56/artifacts
+end_time: 1748878631795
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: de0b9d12fd6a4edfafcf391c79893e56
+run_name: trusting-boar-621
+run_uuid: de0b9d12fd6a4edfafcf391c79893e56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878631752
+status: 3
+tags: []
+user_id: julian

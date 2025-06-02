@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/40745a962c7d4dde8833000aa9130ca4/artifacts
+end_time: 1748878121892
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 40745a962c7d4dde8833000aa9130ca4
+run_name: peaceful-colt-329
+run_uuid: 40745a962c7d4dde8833000aa9130ca4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878121870
+status: 3
+tags: []
+user_id: julian

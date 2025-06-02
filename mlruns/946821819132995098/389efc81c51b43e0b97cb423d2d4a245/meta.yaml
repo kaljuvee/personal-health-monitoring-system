@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/389efc81c51b43e0b97cb423d2d4a245/artifacts
+end_time: 1748878163005
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 389efc81c51b43e0b97cb423d2d4a245
+run_name: funny-foal-289
+run_uuid: 389efc81c51b43e0b97cb423d2d4a245
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878162966
+status: 3
+tags: []
+user_id: julian

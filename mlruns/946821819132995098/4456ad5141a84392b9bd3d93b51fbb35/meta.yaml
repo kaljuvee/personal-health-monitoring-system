@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/4456ad5141a84392b9bd3d93b51fbb35/artifacts
+end_time: 1748878632847
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 4456ad5141a84392b9bd3d93b51fbb35
+run_name: auspicious-elk-304
+run_uuid: 4456ad5141a84392b9bd3d93b51fbb35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878632805
+status: 3
+tags: []
+user_id: julian

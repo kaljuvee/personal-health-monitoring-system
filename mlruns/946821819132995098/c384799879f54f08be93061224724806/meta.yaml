@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c384799879f54f08be93061224724806/artifacts
+end_time: 1748878131723
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c384799879f54f08be93061224724806
+run_name: abundant-koi-6
+run_uuid: c384799879f54f08be93061224724806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878131696
+status: 3
+tags: []
+user_id: julian

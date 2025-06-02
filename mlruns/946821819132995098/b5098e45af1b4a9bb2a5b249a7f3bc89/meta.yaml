@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/b5098e45af1b4a9bb2a5b249a7f3bc89/artifacts
+end_time: 1748878132436
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: b5098e45af1b4a9bb2a5b249a7f3bc89
+run_name: zealous-squid-791
+run_uuid: b5098e45af1b4a9bb2a5b249a7f3bc89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878132400
+status: 3
+tags: []
+user_id: julian

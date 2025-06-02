@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c2687cb0956242798cbec260d9a7e6cc/artifacts
+end_time: 1748878148422
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c2687cb0956242798cbec260d9a7e6cc
+run_name: painted-donkey-10
+run_uuid: c2687cb0956242798cbec260d9a7e6cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878148389
+status: 3
+tags: []
+user_id: julian

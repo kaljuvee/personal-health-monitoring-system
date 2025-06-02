@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/2b424be515c94fe190dc7bf4b4c9f1a4/artifacts
+end_time: 1748878137006
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 2b424be515c94fe190dc7bf4b4c9f1a4
+run_name: grandiose-smelt-193
+run_uuid: 2b424be515c94fe190dc7bf4b4c9f1a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878136977
+status: 3
+tags: []
+user_id: julian

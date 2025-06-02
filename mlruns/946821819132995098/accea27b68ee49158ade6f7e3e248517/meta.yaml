@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/accea27b68ee49158ade6f7e3e248517/artifacts
+end_time: 1748878155860
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: accea27b68ee49158ade6f7e3e248517
+run_name: judicious-hound-111
+run_uuid: accea27b68ee49158ade6f7e3e248517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878155825
+status: 3
+tags: []
+user_id: julian

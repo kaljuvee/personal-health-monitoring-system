@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/7a6c1b4064a143149a4de8837d6ad39a/artifacts
+end_time: 1748878117099
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 7a6c1b4064a143149a4de8837d6ad39a
+run_name: defiant-cub-8
+run_uuid: 7a6c1b4064a143149a4de8837d6ad39a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878117079
+status: 3
+tags: []
+user_id: julian

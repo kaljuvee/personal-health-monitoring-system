@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/4015d3ee1102469e9907f19af34e333f/artifacts
+end_time: 1748878114770
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 4015d3ee1102469e9907f19af34e333f
+run_name: beautiful-mouse-370
+run_uuid: 4015d3ee1102469e9907f19af34e333f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878114752
+status: 3
+tags: []
+user_id: julian

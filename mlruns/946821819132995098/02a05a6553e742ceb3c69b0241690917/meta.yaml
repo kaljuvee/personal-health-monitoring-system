@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/02a05a6553e742ceb3c69b0241690917/artifacts
+end_time: 1748878140738
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 02a05a6553e742ceb3c69b0241690917
+run_name: dapper-rat-185
+run_uuid: 02a05a6553e742ceb3c69b0241690917
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878140709
+status: 3
+tags: []
+user_id: julian

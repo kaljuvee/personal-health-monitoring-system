@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/9fe18235f59e44bc81bd27c76613f098/artifacts
+end_time: 1748878621406
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 9fe18235f59e44bc81bd27c76613f098
+run_name: bright-ox-663
+run_uuid: 9fe18235f59e44bc81bd27c76613f098
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878621367
+status: 3
+tags: []
+user_id: julian

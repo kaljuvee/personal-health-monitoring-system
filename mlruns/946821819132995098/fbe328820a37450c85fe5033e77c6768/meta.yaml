@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/fbe328820a37450c85fe5033e77c6768/artifacts
+end_time: 1748878135016
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: fbe328820a37450c85fe5033e77c6768
+run_name: amusing-donkey-25
+run_uuid: fbe328820a37450c85fe5033e77c6768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878134988
+status: 3
+tags: []
+user_id: julian

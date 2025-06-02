@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/a1a32f3b0027444da780dfb8fd5ad695/artifacts
+end_time: 1748878151233
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: a1a32f3b0027444da780dfb8fd5ad695
+run_name: bright-toad-403
+run_uuid: a1a32f3b0027444da780dfb8fd5ad695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878151196
+status: 3
+tags: []
+user_id: julian

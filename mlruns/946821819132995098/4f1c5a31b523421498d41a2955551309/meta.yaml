@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/4f1c5a31b523421498d41a2955551309/artifacts
+end_time: 1748878129658
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 4f1c5a31b523421498d41a2955551309
+run_name: gentle-rook-521
+run_uuid: 4f1c5a31b523421498d41a2955551309
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878129632
+status: 3
+tags: []
+user_id: julian

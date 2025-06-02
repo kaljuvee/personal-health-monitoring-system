@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/65ec233feb134686ac36da1f54153754/artifacts
+end_time: 1748878151019
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 65ec233feb134686ac36da1f54153754
+run_name: blushing-gnu-971
+run_uuid: 65ec233feb134686ac36da1f54153754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878150984
+status: 3
+tags: []
+user_id: julian

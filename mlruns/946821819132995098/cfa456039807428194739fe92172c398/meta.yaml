@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/cfa456039807428194739fe92172c398/artifacts
+end_time: 1748878123419
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: cfa456039807428194739fe92172c398
+run_name: resilient-turtle-71
+run_uuid: cfa456039807428194739fe92172c398
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878123397
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/ce8c8d4618c04b5d812c456c44e73070/artifacts
+end_time: 1748878149504
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: ce8c8d4618c04b5d812c456c44e73070
+run_name: secretive-grouse-303
+run_uuid: ce8c8d4618c04b5d812c456c44e73070
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878149472
+status: 3
+tags: []
+user_id: julian

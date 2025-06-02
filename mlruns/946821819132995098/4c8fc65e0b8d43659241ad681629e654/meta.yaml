@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/4c8fc65e0b8d43659241ad681629e654/artifacts
+end_time: 1748878629689
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 4c8fc65e0b8d43659241ad681629e654
+run_name: dapper-bee-325
+run_uuid: 4c8fc65e0b8d43659241ad681629e654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878629626
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/f65829a82189414b9bbd79f72853c8fc/artifacts
+end_time: 1748878122652
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: f65829a82189414b9bbd79f72853c8fc
+run_name: auspicious-ox-560
+run_uuid: f65829a82189414b9bbd79f72853c8fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878122628
+status: 3
+tags: []
+user_id: julian

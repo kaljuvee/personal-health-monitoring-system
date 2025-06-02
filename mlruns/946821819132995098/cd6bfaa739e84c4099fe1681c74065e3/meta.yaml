@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/cd6bfaa739e84c4099fe1681c74065e3/artifacts
+end_time: 1748878129628
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: cd6bfaa739e84c4099fe1681c74065e3
+run_name: unleashed-owl-278
+run_uuid: cd6bfaa739e84c4099fe1681c74065e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878129601
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/620eddbe64644e56a299be8ffe98b353/artifacts
+end_time: 1748878145779
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 620eddbe64644e56a299be8ffe98b353
+run_name: charming-mink-259
+run_uuid: 620eddbe64644e56a299be8ffe98b353
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878145749
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d89d1eaf2f984e22b44ce9438b8828e9/artifacts
+end_time: 1748878632256
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d89d1eaf2f984e22b44ce9438b8828e9
+run_name: likeable-ram-302
+run_uuid: d89d1eaf2f984e22b44ce9438b8828e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878632215
+status: 3
+tags: []
+user_id: julian

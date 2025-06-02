@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/e6444b8453d24bad880250560cdd9389/artifacts
+end_time: 1748878139592
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: e6444b8453d24bad880250560cdd9389
+run_name: stylish-croc-214
+run_uuid: e6444b8453d24bad880250560cdd9389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878139564
+status: 3
+tags: []
+user_id: julian

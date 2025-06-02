@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/441c6f017cd64b0f94987ab3aa94f779/artifacts
+end_time: 1748878626255
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 441c6f017cd64b0f94987ab3aa94f779
+run_name: painted-kite-702
+run_uuid: 441c6f017cd64b0f94987ab3aa94f779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878626216
+status: 3
+tags: []
+user_id: julian

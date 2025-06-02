@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/1b88e2e8bc6c4c2db0b991ee61e36eee/artifacts
+end_time: 1748878148681
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 1b88e2e8bc6c4c2db0b991ee61e36eee
+run_name: masked-moose-260
+run_uuid: 1b88e2e8bc6c4c2db0b991ee61e36eee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878148648
+status: 3
+tags: []
+user_id: julian

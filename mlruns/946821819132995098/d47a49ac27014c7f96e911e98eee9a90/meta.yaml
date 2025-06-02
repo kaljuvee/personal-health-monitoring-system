@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d47a49ac27014c7f96e911e98eee9a90/artifacts
+end_time: 1748878159398
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d47a49ac27014c7f96e911e98eee9a90
+run_name: vaunted-lynx-204
+run_uuid: d47a49ac27014c7f96e911e98eee9a90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878159361
+status: 3
+tags: []
+user_id: julian

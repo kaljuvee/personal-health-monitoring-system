@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/d831975330994e85be6404562b6bf376/artifacts
+end_time: 1748878152499
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: d831975330994e85be6404562b6bf376
+run_name: suave-quail-631
+run_uuid: d831975330994e85be6404562b6bf376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878152465
+status: 3
+tags: []
+user_id: julian

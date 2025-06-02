@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/70a99c8c2b164e949d9416113bb1a71e/artifacts
+end_time: 1748878627483
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 70a99c8c2b164e949d9416113bb1a71e
+run_name: enthused-seal-558
+run_uuid: 70a99c8c2b164e949d9416113bb1a71e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878627443
+status: 3
+tags: []
+user_id: julian

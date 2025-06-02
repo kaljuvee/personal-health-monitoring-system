@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/03f3e89ec04e4f369a42452b42189878/artifacts
+end_time: 1748878626961
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 03f3e89ec04e4f369a42452b42189878
+run_name: kindly-turtle-53
+run_uuid: 03f3e89ec04e4f369a42452b42189878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878626923
+status: 3
+tags: []
+user_id: julian

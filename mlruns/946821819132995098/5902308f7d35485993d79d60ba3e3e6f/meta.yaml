@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/5902308f7d35485993d79d60ba3e3e6f/artifacts
+end_time: 1748878163047
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 5902308f7d35485993d79d60ba3e3e6f
+run_name: able-boar-795
+run_uuid: 5902308f7d35485993d79d60ba3e3e6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878163009
+status: 3
+tags: []
+user_id: julian

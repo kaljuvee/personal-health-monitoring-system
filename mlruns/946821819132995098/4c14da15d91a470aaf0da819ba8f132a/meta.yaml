@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/4c14da15d91a470aaf0da819ba8f132a/artifacts
+end_time: 1748878627309
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 4c14da15d91a470aaf0da819ba8f132a
+run_name: useful-hound-638
+run_uuid: 4c14da15d91a470aaf0da819ba8f132a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878627269
+status: 3
+tags: []
+user_id: julian

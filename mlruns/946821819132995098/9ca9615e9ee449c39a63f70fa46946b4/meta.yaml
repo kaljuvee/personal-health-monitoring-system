@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/9ca9615e9ee449c39a63f70fa46946b4/artifacts
+end_time: 1748878111842
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 9ca9615e9ee449c39a63f70fa46946b4
+run_name: flawless-loon-624
+run_uuid: 9ca9615e9ee449c39a63f70fa46946b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878111826
+status: 3
+tags: []
+user_id: julian

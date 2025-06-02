@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/36cef5d3268d4b07a2a944a261b1fb32/artifacts
+end_time: 1748878631651
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 36cef5d3268d4b07a2a944a261b1fb32
+run_name: flawless-bear-330
+run_uuid: 36cef5d3268d4b07a2a944a261b1fb32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878631610
+status: 3
+tags: []
+user_id: julian

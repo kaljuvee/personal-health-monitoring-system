@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/f54ab58d81e045c3b45b3055212d99bf/artifacts
+end_time: 1748878128165
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: f54ab58d81e045c3b45b3055212d99bf
+run_name: melodic-croc-566
+run_uuid: f54ab58d81e045c3b45b3055212d99bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878128140
+status: 3
+tags: []
+user_id: julian

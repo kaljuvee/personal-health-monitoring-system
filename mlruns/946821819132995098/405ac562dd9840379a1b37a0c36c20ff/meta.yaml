@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/405ac562dd9840379a1b37a0c36c20ff/artifacts
+end_time: 1748878160641
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 405ac562dd9840379a1b37a0c36c20ff
+run_name: bold-panda-87
+run_uuid: 405ac562dd9840379a1b37a0c36c20ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878160604
+status: 3
+tags: []
+user_id: julian

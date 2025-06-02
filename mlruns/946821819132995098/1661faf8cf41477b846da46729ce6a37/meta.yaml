@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/1661faf8cf41477b846da46729ce6a37/artifacts
+end_time: 1748878119366
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 1661faf8cf41477b846da46729ce6a37
+run_name: abundant-crane-809
+run_uuid: 1661faf8cf41477b846da46729ce6a37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878119344
+status: 3
+tags: []
+user_id: julian

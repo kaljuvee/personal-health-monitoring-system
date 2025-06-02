@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/5fbe6213576b472f95fa1ef5950b3de1/artifacts
+end_time: 1748878150186
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 5fbe6213576b472f95fa1ef5950b3de1
+run_name: peaceful-wolf-734
+run_uuid: 5fbe6213576b472f95fa1ef5950b3de1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878150153
+status: 3
+tags: []
+user_id: julian

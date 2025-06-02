@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/100490f0e6794f2c82aecbfb0d8bede7/artifacts
+end_time: 1748878150529
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 100490f0e6794f2c82aecbfb0d8bede7
+run_name: sneaky-mare-348
+run_uuid: 100490f0e6794f2c82aecbfb0d8bede7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878150496
+status: 3
+tags: []
+user_id: julian

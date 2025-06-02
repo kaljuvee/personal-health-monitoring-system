@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/dcbdda2186a54698b35b0c60e3d39d0f/artifacts
+end_time: 1748878149131
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: dcbdda2186a54698b35b0c60e3d39d0f
+run_name: rogue-moth-996
+run_uuid: dcbdda2186a54698b35b0c60e3d39d0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878149097
+status: 3
+tags: []
+user_id: julian

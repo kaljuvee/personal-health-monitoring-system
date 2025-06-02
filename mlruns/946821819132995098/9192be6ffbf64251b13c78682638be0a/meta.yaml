@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/9192be6ffbf64251b13c78682638be0a/artifacts
+end_time: 1748878136387
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 9192be6ffbf64251b13c78682638be0a
+run_name: dazzling-gnu-466
+run_uuid: 9192be6ffbf64251b13c78682638be0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878136359
+status: 3
+tags: []
+user_id: julian

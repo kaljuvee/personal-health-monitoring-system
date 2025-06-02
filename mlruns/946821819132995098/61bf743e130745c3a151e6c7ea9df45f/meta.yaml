@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/61bf743e130745c3a151e6c7ea9df45f/artifacts
+end_time: 1748878115830
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 61bf743e130745c3a151e6c7ea9df45f
+run_name: gentle-shrimp-765
+run_uuid: 61bf743e130745c3a151e6c7ea9df45f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878115809
+status: 3
+tags: []
+user_id: julian

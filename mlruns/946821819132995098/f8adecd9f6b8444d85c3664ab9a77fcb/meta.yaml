@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/f8adecd9f6b8444d85c3664ab9a77fcb/artifacts
+end_time: 1748878624028
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: f8adecd9f6b8444d85c3664ab9a77fcb
+run_name: respected-cow-748
+run_uuid: f8adecd9f6b8444d85c3664ab9a77fcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878623989
+status: 3
+tags: []
+user_id: julian

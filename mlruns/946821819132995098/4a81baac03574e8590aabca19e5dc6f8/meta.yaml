@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/4a81baac03574e8590aabca19e5dc6f8/artifacts
+end_time: 1748878118027
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 4a81baac03574e8590aabca19e5dc6f8
+run_name: fearless-fish-150
+run_uuid: 4a81baac03574e8590aabca19e5dc6f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878118006
+status: 3
+tags: []
+user_id: julian

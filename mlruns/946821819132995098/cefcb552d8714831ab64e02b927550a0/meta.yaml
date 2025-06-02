@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/cefcb552d8714831ab64e02b927550a0/artifacts
+end_time: 1748878135301
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: cefcb552d8714831ab64e02b927550a0
+run_name: glamorous-lynx-319
+run_uuid: cefcb552d8714831ab64e02b927550a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878135274
+status: 3
+tags: []
+user_id: julian

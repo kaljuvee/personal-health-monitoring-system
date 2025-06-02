@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/b78c11949a784ba29661bc01fab8ddb3/artifacts
+end_time: 1748878120223
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: b78c11949a784ba29661bc01fab8ddb3
+run_name: melodic-hog-917
+run_uuid: b78c11949a784ba29661bc01fab8ddb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878120202
+status: 3
+tags: []
+user_id: julian

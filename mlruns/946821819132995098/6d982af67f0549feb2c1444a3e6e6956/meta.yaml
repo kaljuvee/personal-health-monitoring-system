@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/6d982af67f0549feb2c1444a3e6e6956/artifacts
+end_time: 1748878141675
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 6d982af67f0549feb2c1444a3e6e6956
+run_name: suave-dog-236
+run_uuid: 6d982af67f0549feb2c1444a3e6e6956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878141644
+status: 3
+tags: []
+user_id: julian

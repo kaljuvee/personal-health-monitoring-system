@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/8f0d7db519a3418bb0877d82f6e18053/artifacts
+end_time: 1748878126928
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 8f0d7db519a3418bb0877d82f6e18053
+run_name: amusing-trout-536
+run_uuid: 8f0d7db519a3418bb0877d82f6e18053
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878126903
+status: 3
+tags: []
+user_id: julian

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/45e67121c67842369d7e15c077d2e75b/artifacts
+end_time: 1748878114313
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 45e67121c67842369d7e15c077d2e75b
+run_name: painted-dolphin-312
+run_uuid: 45e67121c67842369d7e15c077d2e75b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878114294
+status: 3
+tags: []
+user_id: julian

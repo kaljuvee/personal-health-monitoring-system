@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/633b7636ba4844b99c24195b8eecc366/artifacts
+end_time: 1748878631699
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 633b7636ba4844b99c24195b8eecc366
+run_name: debonair-snipe-631
+run_uuid: 633b7636ba4844b99c24195b8eecc366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878631657
+status: 3
+tags: []
+user_id: julian

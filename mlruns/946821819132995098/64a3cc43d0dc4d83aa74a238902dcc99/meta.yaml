@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/64a3cc43d0dc4d83aa74a238902dcc99/artifacts
+end_time: 1748878129159
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: 64a3cc43d0dc4d83aa74a238902dcc99
+run_name: bemused-lamb-816
+run_uuid: 64a3cc43d0dc4d83aa74a238902dcc99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878129134
+status: 3
+tags: []
+user_id: julian

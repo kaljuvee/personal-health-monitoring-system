@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julian/dev/hobby/personal-health-monitoring-system/mlruns/946821819132995098/c01d5c7fc07e49bb84a6ffc9845431dc/artifacts
+end_time: 1748878134513
+entry_point_name: ''
+experiment_id: '946821819132995098'
+lifecycle_stage: active
+run_id: c01d5c7fc07e49bb84a6ffc9845431dc
+run_name: flawless-koi-910
+run_uuid: c01d5c7fc07e49bb84a6ffc9845431dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748878134486
+status: 3
+tags: []
+user_id: julian
