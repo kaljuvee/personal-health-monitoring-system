@@ -15,7 +15,7 @@ load_dotenv()
 
 # Initialize the LLM
 llm = ChatOpenAI(
-    model="gpt-3.5-turbo",
+    model="gpt-4.1-nano",
     temperature=0,
 )
 
@@ -45,25 +45,22 @@ agent_prompt = ChatPromptTemplate.from_messages([
     When asked about health data, use the read_health_report tool to access the data.
     Provide clear, concise answers based on the data available."""),
     MessagesPlaceholder(variable_name="messages"),
-    MessagesPlaceholder(variable_name="agent_messages"),
 ])
 
 # Define the agent node
 def agent_node(state: StateType) -> StateType:
     """Process the user's message and generate a response."""
     messages = state["messages"]
-    agent_messages = state.get("agent_messages", [])
     
     # Generate response using the LLM
     response = llm.invoke(
         agent_prompt.format_messages(
-            messages=messages,
-            agent_messages=agent_messages
+            messages=messages
         )
     )
     
     # Update state with the response
-    state["agent_messages"] = agent_messages + [response]
+    state["messages"].append(response)
     return state
 
 # Create the graph
@@ -91,8 +88,7 @@ def chat_with_agent(user_message: str) -> str:
             "messages": [
                 SystemMessage(content="You are a helpful health monitoring assistant."),
                 HumanMessage(content=user_message)
-            ],
-            "agent_messages": []
+            ]
         }
         
         # Run the graph
@@ -101,12 +97,14 @@ def chat_with_agent(user_message: str) -> str:
         # Debug output
         print("[DEBUG] Result from app.invoke:", result)
         print("[DEBUG] Keys in result:", list(result.keys()))
-        if "agent_messages" in result:
-            print("[DEBUG] agent_messages:", result["agent_messages"])
         
-        # Return the last agent message or a fallback message
-        if result.get("agent_messages") and len(result["agent_messages"]) > 0:
-            return result["agent_messages"][-1].content
+        # Get the last message from the messages list
+        if result.get("messages") and len(result["messages"]) > 0:
+            last_message = result["messages"][-1]
+            if isinstance(last_message, AIMessage):
+                return last_message.content
+            else:
+                return str(last_message)
         else:
             return "I apologize, but I couldn't generate a proper response. Please try rephrasing your question."
             
