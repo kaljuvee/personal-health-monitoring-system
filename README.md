@@ -176,15 +176,6 @@ The Personal Health Monitoring System (PHMS) is a comprehensive solution that le
    - View alert history
    - Manage escalation paths
 
-5. **User Settings** (`/pages/5_User_Settings.py`)
-   - Personalize monitoring parameters
-   - Configure privacy settings
-   - Manage notifications
-
-6. **Analytics Dashboard** (`/pages/6_Analytics_Dashboard.py`)
-   - View health trends
-   - System performance metrics
-   - User engagement statistics
 
 ## 🔒 Security & Privacy
 
@@ -234,3 +225,30 @@ This model is a critical component of the health monitoring system, enabling pro
 ## MongoDB Import Test
 
 For details on how to connect to a remote MongoDB instance and import data, please refer to the [MongoDB Import Test](tests/README.md) documentation. A screenshot of the successful import is available at [mongo-db-screen-shot.png](mongo-db-screen-shot.png).
+
+## 🧪 LangGraph Chat Agent & Automated Test
+
+This project includes an AI-powered health chat agent built using [LangGraph](https://github.com/langchain-ai/langgraph) and OpenAI models. The agent can answer questions about health metrics, risk scores, and alerts by reading health report files.
+
+### How It Works
+
+- The agent uses a graph-based workflow to alternate between reasoning and tool use.
+- It reads health reports from the `reports/` directory using a custom tool.
+- The conversation ends automatically when the agent has provided an answer.
+
+### Running the Automated Test
+
+A test script is provided to verify the chat agent's ability to answer health-related questions using a synthetic report.
+
+To run the test:
+
+```bash
+python tests/test_chat_agent.py
+```
+
+This will:
+- Generate a sample health report in `reports/test_report.json`
+- Ask the agent a series of health-related questions
+- Print the agent's responses to the console
+
+If you see errors about recursion limits, ensure your code includes a stopping condition for the LangGraph agent (see `agent/chat_agent.py` for details).

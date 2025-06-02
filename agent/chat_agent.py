@@ -71,8 +71,21 @@ workflow.add_node("agent", agent_node)
 workflow.add_node("tools", tool_node)
 
 # Add edges
-workflow.add_edge("agent", "tools")
 workflow.add_edge("tools", "agent")
+
+from langgraph.graph import END
+
+def should_end(state: StateType) -> bool:
+    # End if the last message is from the AI
+    return isinstance(state["messages"][-1], AIMessage)
+
+workflow.add_conditional_edges(
+    "agent",
+    {
+        "tools": lambda state: not should_end(state),
+        END: should_end,
+    }
+)
 
 # Set entry point
 workflow.set_entry_point("agent")
